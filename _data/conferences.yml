@@ -1,0 +1,67 @@
+---
+   
+# ICSEs
+- name: ICSE
+  description: International Conference on Software Engineering - Research Track
+  year: 2025
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
+  deadline: 
+  - "2024-03-15 23:59"
+  - "2024-06-26 23:59"
+  date: April 26-May 4
+  place: Ottawa, Ontario, Canada
+  tags: [CO]
+
+
+- name: ICSE-SEIP
+  description: International Conference on Software Engineering - Software Engineering in Practice
+  year: 2025
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-practice
+  deadline: 
+  - "2024-10-10 23:59"
+  date: April 26-May 4
+  place: Ottawa, Ontario, Canada
+  tags: [CO]
+
+
+- name: ICSE-SEIS
+  description: International Conference on Software Engineering - Software Engineering in Society
+  year: 2025
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-society
+  deadline: 
+  - "2024-10-10 23:59"
+  date: April 26-May 4
+  place: Ottawa, Ontario, Canada
+  tags: [CO]
+
+- name: ICSE-NIER
+  description: International Conference on Software Engineering - New Ideas and Emerging Results
+  year: 2025
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-new-ideas-and-emerging-results
+  deadline: 
+  - "2024-10-10 23:59"
+  date: April 26-May 4
+  place: Ottawa, Ontario, Canada
+  tags: [CO]
+
+# ESEIW&ESEM
+- name: ESEM
+  description: International Symposium on Empirical Software Engineering and Measurement
+  year: 2024
+  link: https://conf.researchr.org/home/esem-2024
+  deadline: 
+  - "2024-04-26 23:59"
+  date: October 20-25
+  place: Barcelona, Spain
+  tags: [CO]
+
+#ASE
+- name: ASE
+  description: International Conference on Automated Software Engineering
+  year: 2024
+  link: https://conf.researchr.org/home/ase-2024
+  deadline: 
+  - "2024-05-31 23:59"
+  date: October 20-25
+  place: Sacramento, California, United States
+  tags: [CO]

@@ -1,0 +1,8 @@
+---
+- name: Conference
+  tag: CO
+- name: Journal
+  tag: JO
+- name: Workshop
+  tag: WO
+  

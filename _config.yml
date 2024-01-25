@@ -1,0 +1,11 @@
+title: Software Engineering Deadlines
+description: Countdowns to top Software Engineering deadlines.
+author: Sivana Hamer
+
+domain: "se-deadlines.github.io"
+baseurl: ""
+
+github_username: se-deadlines
+github_repo: se-deadlines
+
+markdown: kramdown

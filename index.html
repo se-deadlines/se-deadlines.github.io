@@ -1,0 +1,115 @@
+---
+---
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ "/static/css/deadlines.css" | prepend:site.baseurl }}" media="screen,projection">
+    <link rel="shortcut icon" href="{{ "/static/img/favicon.png" | prepend:site.baseurl }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  </head>
+  <body>
+    <div class="top-strip"></div>
+    <div class="container">
+      <div class="page-header">
+        <div class="row">
+          <div class="col-xs-12 col-sm-8">
+            <h1>
+              {{ site.title }}<br>
+              <iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+            </h1>
+          </div>
+          <div class="col-xs-12">
+            {{ site.description }}
+            <p>To add/update a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
+            <p>Last update: {{ site.time | date: "%-d %B %Y" }}
+            <div>
+                <p>
+                    Deadlines as iCal: 
+                    <a href="{{site.baseurl}}/ical/deadlines-all.ical">all</a>; 
+                </p>
+            </div>
+          </div>
+        </div>
+        <hr>
+        <div class="row">
+          <div class="col-xs-12">
+            <!-- <div class="well"> -->
+              Select one or more tags to filter (otherwise all deadlines are displayed):
+              <form class="form-inline">
+                <div class="form-group">
+                  {% for type in site.data.types %}
+                  <div class="checkbox">
+                    <label>
+                      <input type="checkbox" id="{{ type.tag }}-checkbox" class=""> {{ type.name }}
+                    </label>
+                  </div>
+                  {% endfor %}
+                </div>
+              </form>
+            <!-- </div> -->
+          </div>
+        </div>
+      </div>
+      <div class="conf-container">
+        {% for conf in site.data.conferences %}
+        {% assign num_deadlines = conf.deadline.size %}
+        {% assign range_end = conf.deadline.size | minus: 1 %}
+        {% for i in (0..range_end) %}
+        {% assign year = conf.year %}
+        {% assign prevyear = conf.year | minus: 1 %}
+        {% assign deadline = conf.deadline[i] | replace: '%y', year | replace: '%Y', prevyear %}
+        {% assign conf_id = conf.name | append: conf.year | append: '-' | append: i | slugify %}
+        <div id="{{ conf_id }}" class="conf {% for tag in conf.tags %} {{tag}} {% endfor %}">
+          <div class="row">
+              <div class="col-xs-12 col-sm-6">
+                <h2><a href="{{conf.link}}">{{conf.name}} {{conf.year}}</a></h2>
+                <div class="meta">
+                  {{ conf.description }}<br>
+                  {{conf.date | replace: '-', '–'}} {% if conf.place %}// <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>{% endif %}<br>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6">
+                <span class="timer"></span>
+                <div class="deadline">
+                  <div>
+                      {% if num_deadlines >=2 %}
+                      Deadline ({{ i | plus: 1 }} / {{ num_deadlines }}):
+                      {% else %}
+                      Deadline:
+                      {% endif %}
+                    <span class="deadline-time">
+                      {{ deadline }}
+                    </span>
+                    <div class="meta">
+                      {{ conf.comment }}
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+          <hr>
+        </div>
+        {% endfor %}
+        {% endfor %}
+      </div>
+      <footer>
+        Maintained by <a href="https://sivanahamer.github.io/">Sivana Hamer</a>.
+      </footer>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.countdown/2.2.0/jquery.countdown.min.js" integrity="sha512-lteuRD+aUENrZPTXWFRPTBcDDxIGWe5uu0apPEn+3ZKYDwDaEErIK9rvR0QzUGmUQ55KFE2RqGTVoZsKctGMVw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.34/moment-timezone-with-data-10-year-range.min.js" integrity="sha512-d11VXfxQMn+sZuIgzHITdIuInr4cVRGV/uLiSI643WH/J+p4gPFYSHXRMR2v+w4Rn2TSyzJjsZjc0M7+Qd+UXw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/store.js/2.0.12/store.legacy.min.js" integrity="sha512-3yZTInL4yLU1ajnca35KTk6YE4RPHJU2y+jbhHAykE9OzMHpc2BIJghNsbkBNacIJWLLUmUkLEGPDDWrFY2zzw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="{{ site.baseurl}}/static/js/main.js" async></script>
+    {% if site.ga_id %}
+    {% include analytics.html %}
+    {% endif %}
+  </body>
+</html>
