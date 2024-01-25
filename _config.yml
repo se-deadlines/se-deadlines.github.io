@@ -6,6 +6,6 @@ domain: "se-deadlines.github.io"
 baseurl: ""
 
 github_username: se-deadlines
-github_repo: se-deadlines
+github_repo: se-deadlines.github.io
 
 markdown: kramdown
