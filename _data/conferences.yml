@@ -8,10 +8,9 @@
   deadline: 
   - "2024-03-15 23:59"
   - "2024-06-26 23:59"
-  date: April 26-May 4
+  date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
   tags: [CO]
-
 
 - name: ICSE-SEIP
   description: International Conference on Software Engineering - Software Engineering in Practice
@@ -19,7 +18,7 @@
   link: https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-practice
   deadline: 
   - "2024-10-10 23:59"
-  date: April 26-May 4
+  date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
   tags: [CO]
 
@@ -30,7 +29,7 @@
   link: https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-society
   deadline: 
   - "2024-10-10 23:59"
-  date: April 26-May 4
+  date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
   tags: [CO]
 
@@ -40,8 +39,59 @@
   link: https://conf.researchr.org/track/icse-2025/icse-2025-new-ideas-and-emerging-results
   deadline: 
   - "2024-10-10 23:59"
-  date: April 26-May 4
+  date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
+  tags: [CO]
+
+- name: ICSE-NIER
+  description: International Conference on Software Engineering - Journal-first Papers
+  year: 2025
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-journal-first-papers
+  deadline: 
+  - "2024-10-10 23:59"
+  date: April 26 - May 4, 2025
+  place: Ottawa, Ontario, Canada
+  tags: [CO]
+
+# ESEC/FSE
+- name: FSE
+  description: International Conference on the Foundations of Software Engineering - Research Papers
+  year: 2024
+  link: https://2024.esec-fse.org/track/fse-2024-research-papers
+  deadline: 
+  - "2023-09-21 23:59"
+  date: July 15 - 19, 2024
+  place:  Porto de Galinhas, Brazil, Brazil
+  tags: [CO]
+
+- name: FSE-IP
+  description: International Conference on the Foundations of Software Engineering - Industry Papers
+  year: 2024
+  link: https://2024.esec-fse.org/track/fse-2024-industry
+  deadline: 
+  - "2024-02-08 23:59"
+  date: July 15 - 19, 2024
+  place:  Porto de Galinhas, Brazil, Brazil
+  tags: [CO]
+
+- name: FSE-IVR
+  description: International Conference on the Foundations of Software Engineering - Ideas, Visions and Reflections Track 
+  year: 2024
+  link: https://2024.esec-fse.org/track/fse-2024-ideas--visions-and-reflections
+  deadline: 
+  - "2024-01-28 23:59"
+  date: July 15 - 19, 2024
+  place:  Porto de Galinhas, Brazil, Brazil
+  tags: [CO]
+
+- name: FSE-JF
+  description: International Conference on the Foundations of Software Engineering - Journal First Papers 
+  year: 2024
+  link: https://2024.esec-fse.org/track/fse-2024-journal-first
+  deadline: 
+  - "2024-03-25 23:59"
+  date: July 15 - 19, 2024
+  place:  Porto de Galinhas, Brazil, Brazil
   tags: [CO]
 
 # ESEIW&ESEM
@@ -51,7 +101,7 @@
   link: https://conf.researchr.org/home/esem-2024
   deadline: 
   - "2024-04-26 23:59"
-  date: October 20-25
+  date: October 20-25, 2024
   place: Barcelona, Spain
   tags: [CO]
 
@@ -62,6 +112,6 @@
   link: https://conf.researchr.org/home/ase-2024
   deadline: 
   - "2024-05-31 23:59"
-  date: October 20-25
+  date: October 20-25, 2024
   place: Sacramento, California, United States
   tags: [CO]
