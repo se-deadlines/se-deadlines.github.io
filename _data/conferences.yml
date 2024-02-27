@@ -105,7 +105,7 @@
   place: Barcelona, Spain
   tags: [CO]
 
-#ASE
+# ASE
 - name: ASE
   description: International Conference on Automated Software Engineering
   year: 2024
@@ -114,4 +114,59 @@
   - "2024-05-31 23:59"
   date: October 20-25, 2024
   place: Sacramento, California, United States
+  tags: [CO]
+
+# ICSMEs
+- name: ICSME
+  description: International Conference on Software Maintenance and Evolution - Research Track
+  year: 2024
+  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-papers
+  deadline: 
+  - "2024-04-04 23:59"
+  date: October 6-11, 2024
+  place: Flagstaff, Arizona, United States
+  tags: [CO]
+
+- name: ICSME-NIER
+  description: International Conference on Software Maintenance and Evolution - New Ideas and Emerging Results
+  year: 2024
+  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-new-ideas-and-emerging-results-track
+  deadline: 
+  - "2024-06-20 23:59"
+  date: October 6-11, 2024
+  place: Flagstaff, Arizona, United States
+  tags: [CO]
+
+# ISSTA
+- name: ISSTA
+  description: International Symposium on Software Testing and Analysis
+  year: 2024
+  link: https://2024.issta.org/track/issta-2024-papers
+  deadline: 
+  - "2023-12-15 23:59"
+  - "2024-04-12 23:59"
+  date: September 16-20, 2024
+  place: Vienna, Austria
+  tags: [CO]
+
+# SecDev
+- name: SecDev
+  description: IEEE Secure Development Conference
+  year: 2024
+  link: https://secdev.ieee.org/2024/cfp/
+  deadline: 
+  - "2023-05-14 23:59"
+  date: October 7-10, 2024
+  place: Pittsburg, Pennsylvania, United States
+  tags: [CO]
+
+# ISSRE
+- name: ISSRE
+  description: International Symposium on Software Reliability Engineering
+  year: 2024
+  link: https://issre.github.io/2024/calls_cfp-research.html
+  deadline: 
+  - "2023-05-03 23:59"
+  date: October 28-31, 2024
+  place: Tsukuba, Japan
   tags: [CO]
