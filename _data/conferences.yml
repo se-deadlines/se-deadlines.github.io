@@ -157,7 +157,7 @@
   deadline: 
   - "2023-05-14 23:59"
   date: October 7-10, 2024
-  place: Pittsburg, Pennsylvania, United States
+  place: Pittsburgh, Pennsylvania, United States
   tags: [CO]
 
 # ISSRE
@@ -169,4 +169,157 @@
   - "2023-05-03 23:59"
   date: October 28-31, 2024
   place: Tsukuba, Japan
+  tags: [CO]
+
+# MSRs
+- name: MSR
+  description: Mining Software Repositories - Technical Papers
+  year: 2024
+  link: https://2024.msrconf.org/track/msr-2024-technical-papers
+  deadline: 
+  - "2023-11-14 23:59"
+  date: April 15-16, 2024
+  place: Lisbon, Portugal
+  tags: [CO]
+
+- name: MSR-D&T
+  description: Mining Software Repositories - Data and Tool Showcase Track
+  year: 2024
+  link: https://2024.msrconf.org/track/msr-2024-data-and-tool-showcase-track
+  deadline: 
+  - "2023-12-08 23:59"
+  date: April 15-16, 2024
+  place: Lisbon, Portugal
+  tags: [CO]
+
+- name: MSR-IT
+  description: Mining Software Repositories - Industry Track
+  year: 2024
+  link: https://2024.msrconf.org/track/msr-2024-industry-track
+  deadline: 
+  - "2023-12-08 23:59"
+  date: April 15-16, 2024
+  place: Lisbon, Portugal
+  tags: [CO]
+
+- name: MSR-RR
+  description: Mining Software Repositories - Registered Reports Track
+  year: 2024
+  link: https://2024.msrconf.org/track/msr-2024-registered-reports
+  deadline: 
+  - "2023-12-12 23:59"
+  date: April 15-16, 2024
+  place: Lisbon, Portugal
+  tags: [CO]
+
+# SANERs
+  - name: SANER
+  description: International Conference on Software Analysis, Evolution, and Reengineering - Research Papers
+  year: 2024
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-papers
+  deadline: 
+  - "2023-10-13 23:59"
+  date: March 12-15, 2024
+  place: Rovaniemi, Finland
+  tags: [CO]
+
+- name: SANER-IT
+  description: International Conference on Software Analysis, Evolution, and Reengineering - Industry Track
+  year: 2024
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-industrial-track
+  deadline: 
+  - "2023-11-13 23:59"
+  date: March 12-15, 2024
+  place: Rovaniemi, Finland
+  tags: [CO]
+
+- name: SANER-ERA
+  description: International Conference on Software Analysis, Evolution, and Reengineering - Early Research Achievements Track
+  year: 2024
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-early-research-achievement--era--track-
+  deadline: 
+  - "2023-11-13 23:59"
+  date: March 12-15, 2024
+  place: Rovaniemi, Finland
+  tags: [CO]
+
+- name: SANER-SP&P
+  description: International Conference on Software Analysis, Evolution, and Reengineering - Short Papers and Posters Track
+  year: 2024
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-short-papers-and-posters-track-
+  deadline: 
+  - "2023-11-13 23:59"
+  date: March 12-15, 2024
+  place: Rovaniemi, Finland
+  tags: [CO]
+
+- name: SANER-RENE
+  description: International Conference on Software Analysis, Evolution, and Reengineering - Reproducibility Studies and Negative Results Track
+  year: 2024
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-reproducibility-studies-and-negative-results--rene--track-
+  deadline: 
+  - "2023-11-10 23:59"
+  date: March 12-15, 2024
+  place: Rovaniemi, Finland
+  tags: [CO]
+
+- name: SANER-JF
+  description: International Conference on Software Analysis, Evolution, and Reengineering - Journal First Track
+  year: 2024
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-reproducibility-studies-and-negative-results--rene--track-
+  deadline: 
+  - "2024-01-14 23:59"
+  date: March 12-15, 2024
+  place: Rovaniemi, Finland
+  tags: [CO]
+
+- name: SANER-TD
+  description: International Conference on Software Analysis, Evolution, and Reengineering - Tools Demo Track
+  year: 2024
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-tool-demo-track-
+  deadline: 
+  - "2023-11-27 23:59"
+  date: March 12-15, 2024
+  place: Rovaniemi, Finland
+  tags: [CO]
+
+- name: SANER-RR
+  description: International Conference on Software Analysis, Evolution, and Reengineering - Registered Report Track
+  year: 2024
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-registered-report-track-
+  deadline: 
+  - "2023-11-06 23:59"
+  date: March 12-15, 2024
+  place: Rovaniemi, Finland
+  tags: [CO]
+
+- name: VST
+  description: Workshop on Validation, Analysis and Evolution of Software Tests
+  year: 2024
+  link: https://vstworkshop.github.io/vst2024/
+  deadline: 
+  - "2023-12-08 23:59"
+  date: March 12, 2024
+  place: co-located with SANER 2024, Rovaniemi, Finland
+  tags: [wo]
+
+#CHASEs
+- name: CHASE
+  description: International Conference on Cooperative and Human Aspects of Software Engineering - Full Papers
+  year: 2024
+  link: https://conf.researchr.org/track/chase-2024/chase-2024-full-papers
+  deadline: 
+  - "2024-11-01 23:59"
+  date: April 15-16, 2024
+  place: Lisbon, Portugal
+  tags: [CO]
+
+- name: CHASE-SP
+  description: International Conference on Cooperative and Human Aspects of Software Engineering - Short Papers
+  year: 2024
+  link: https://conf.researchr.org/track/chase-2024/chase-2024-short-papers
+  deadline: 
+  - "2024-11-01 23:59"
+  date: April 14-15, 2024
+  place: Lisbon, Portugal
   tags: [CO]
