@@ -236,17 +236,17 @@
 - name: SANER-ERA
   description: International Conference on Software Analysis, Evolution, and Reengineering - Early Research Achievements Track
   year: 2024
-  link: https://conf.researchr.org/track/saner-2024/saner-2024-early-research-achievement--era--track-
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-early-research-achievement--era--track
   deadline: 
   - "2023-11-13 23:59"
   date: March 12-15, 2024
   place: Rovaniemi, Finland
   tags: [CO]
 
-- name: SANER-SP&P
+- name: SANER-SPP
   description: International Conference on Software Analysis, Evolution, and Reengineering - Short Papers and Posters Track
   year: 2024
-  link: https://conf.researchr.org/track/saner-2024/saner-2024-short-papers-and-posters-track-
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-short-papers-and-posters-track
   deadline: 
   - "2023-11-13 23:59"
   date: March 12-15, 2024
@@ -256,7 +256,7 @@
 - name: SANER-RENE
   description: International Conference on Software Analysis, Evolution, and Reengineering - Reproducibility Studies and Negative Results Track
   year: 2024
-  link: https://conf.researchr.org/track/saner-2024/saner-2024-reproducibility-studies-and-negative-results--rene--track-
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-reproducibility-studies-and-negative-results--rene--track
   deadline: 
   - "2023-11-10 23:59"
   date: March 12-15, 2024
@@ -266,7 +266,7 @@
 - name: SANER-JF
   description: International Conference on Software Analysis, Evolution, and Reengineering - Journal First Track
   year: 2024
-  link: https://conf.researchr.org/track/saner-2024/saner-2024-reproducibility-studies-and-negative-results--rene--track-
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-journal-first-track
   deadline: 
   - "2024-01-14 23:59"
   date: March 12-15, 2024
@@ -276,7 +276,7 @@
 - name: SANER-TD
   description: International Conference on Software Analysis, Evolution, and Reengineering - Tools Demo Track
   year: 2024
-  link: https://conf.researchr.org/track/saner-2024/saner-2024-tool-demo-track-
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-tool-demo-track
   deadline: 
   - "2023-11-27 23:59"
   date: March 12-15, 2024
@@ -286,7 +286,7 @@
 - name: SANER-RR
   description: International Conference on Software Analysis, Evolution, and Reengineering - Registered Report Track
   year: 2024
-  link: https://conf.researchr.org/track/saner-2024/saner-2024-registered-report-track-
+  link: https://conf.researchr.org/track/saner-2024/saner-2024-registered-report-track
   deadline: 
   - "2023-11-06 23:59"
   date: March 12-15, 2024
