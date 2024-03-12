@@ -182,26 +182,6 @@
   place: Lisbon, Portugal
   tags: [CO]
 
-- name: MSR-DT
-  description: Mining Software Repositories - Data and Tool Showcase Track
-  year: 2024
-  link: https://2024.msrconf.org/track/msr-2024-data-and-tool-showcase-track
-  deadline: 
-  - "2023-12-08 23:59"
-  date: April 15-16, 2024
-  place: Lisbon, Portugal
-  tags: [CO]
-
-- name: MSR-IT
-  description: Mining Software Repositories - Industry Track
-  year: 2024
-  link: https://2024.msrconf.org/track/msr-2024-industry-track
-  deadline: 
-  - "2023-12-08 23:59"
-  date: April 15-16, 2024
-  place: Lisbon, Portugal
-  tags: [CO]
-
 # SANERs
   - name: SANER
   description: International Conference on Software Analysis, Evolution, and Reengineering - Research Papers
