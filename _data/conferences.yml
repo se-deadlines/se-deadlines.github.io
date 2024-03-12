@@ -202,16 +202,6 @@
   place: Lisbon, Portugal
   tags: [CO]
 
-- name: MSR-RR
-  description: Mining Software Repositories - Registered Reports Track
-  year: 2024
-  link: https://2024.msrconf.org/track/msr-2024-registered-reports
-  deadline: 
-  - "2023-12-12 23:59"
-  date: April 15-16, 2024
-  place: Lisbon, Portugal
-  tags: [CO]
-
 # SANERs
   - name: SANER
   description: International Conference on Software Analysis, Evolution, and Reengineering - Research Papers
