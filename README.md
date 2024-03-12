@@ -1,4 +1,4 @@
-# Security and Privacy deadlines countdown
+# Software engineering deadlines countdown
 
 Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 and [sec-deadlines](https://sec-deadlines.github.io)
