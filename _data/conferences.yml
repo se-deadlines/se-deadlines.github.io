@@ -56,12 +56,12 @@
 # ESEC/FSE
 - name: FSE
   description: International Conference on the Foundations of Software Engineering - Research Papers
-  year: 2024
-  link: https://2024.esec-fse.org/track/fse-2024-research-papers
+  year: 2025
+  link: https://conf.researchr.org/track/fse-2025/fse-2025-research-papers
   deadline: 
-  - "2023-09-21 23:59"
-  date: July 15 - 19, 2024
-  place:  Porto de Galinhas, Brazil, Brazil
+  - "2024-09-05 23:59"
+  date: July 23 - 27, 2025
+  place: Trondheim, Norway
   tags: [CO]
 
 - name: FSE-IP
