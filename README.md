@@ -51,13 +51,14 @@ The *deadline* field can contain:
    year with `%y` and the year before the conference with `%Y`. Example:
    `["%y-01-15 23:59"]` means there is a deadline on the 15th January in the
    same year as the conference.
-2. A list of (1) or (2). Example of two rolling deadlines, with one in the end
+3. A list of (1) or (2). Example of two rolling deadlines, with one in the end
    of October in the year prior to the conference year, and the second in the
    end of February in the same year as the conference:
   ```
   - "%Y-10-31 23:59"
   - "%y-02-28 23:59"
   ```
+4. If the deadline has not yet been announced, use `["TBA"]` as the deadline for the conference (case sensitive.) It will show up at the bottom of future conferences.
 
 On the page, all deadlines are displayed in viewer's local time (that's a feature).
 

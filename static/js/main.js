@@ -9,7 +9,7 @@ $(function() {
   {% assign conf_id = conf.name | append: conf.year | append: '-0' | slugify %}
   $('#{{ conf_id }} .timer').html("TBA");
   $('#{{ conf_id }} .deadline-time').html("TBA");
-  deadlineByConf["{{ conf_id }}"] = null;
+  deadlineByConf["{{ conf_id }}"] = moment.tz("3000-01-01", "Etc/GMT+12");
 
   {% else %}
   var rawDeadlines = {{ conf.deadline | jsonify }} || [];
@@ -29,12 +29,14 @@ $(function() {
     var deadline = moment.tz(rawDeadline, "Etc/GMT+12"); // Anywhere on Earth
     {% endif %}
 
-    // post-process date
-    if (deadline.minutes() === 0) {
-      deadline.subtract(1, 'seconds');
-    }
-    if (deadline.minutes() === 59) {
-      deadline.seconds(59);
+    if (deadline.isValid()) {
+      // post-process date
+      if (deadline.minutes() === 0) {
+        deadline.subtract(1, 'seconds');
+      }
+      if (deadline.minutes() === 59) {
+        deadline.seconds(59);
+      }
     }
     parsedDeadlines.push(deadline);
   }
@@ -55,7 +57,7 @@ $(function() {
         return function(event) {
           diff = moment() - confDeadline
           if (diff <= 0) {
-             $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+            $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
           } else {
             $(this).html(confDeadline.fromNow());
           }
@@ -81,7 +83,13 @@ $(function() {
   var confs = $('.conf').detach();
   confs.sort(function(a, b) {
     var aDeadline = deadlineByConf[a.id];
+    if (!aDeadline.isValid()) {
+      return 1;
+    }
     var bDeadline = deadlineByConf[b.id];
+    if (!bDeadline.isValid()) {
+      return -1;
+    }
     var aDiff = today.diff(aDeadline);
     var bDiff = today.diff(bDeadline);
     if (aDiff < 0 && bDiff > 0) {
