@@ -17,8 +17,8 @@
 - name: Short paper track
   tag: SPT
   type: track
-- name: Industry track
-  tag: INT
+- name: In practice track
+  tag: IPT
   type: track
 - name: Society track
   tag: SOT
@@ -31,6 +31,9 @@
   type: track
 - name: Artifact track
   tag: ART
+  type: track
+- name: Tool track
+  tag: TOT
   type: track
 - name: New ideas and emerging results track
   tag: NIER
@@ -50,8 +53,18 @@
 - name: Registered reports track
   tag: RRT
   type: track
-- name: Challenge proposals
-  tag: CAP
+- name: Challenge track
+  tag: CHT
   type: track
-
-
+- name: Tutorials and technical briefings track
+  tag: TTBT
+  type: track
+- name: Research projects track
+  tag: RPT
+  type: track
+- name: Experience papers track
+  tag: EXPT
+  type: track
+- name: Replicability studies track
+  tag: REST
+  type: track
