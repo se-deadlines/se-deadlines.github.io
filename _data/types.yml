@@ -1,8 +1,57 @@
 ---
+#Venue type
 - name: Conference
   tag: CO
+  type: venue
 - name: Journal
   tag: JO
+  type: venue
 - name: Workshop
   tag: WO
-  
+  type: venue
+
+#Track types
+- name: Research paper track
+  tag: RPT
+  type: track
+- name: Short paper track
+  tag: SPT
+  type: track
+- name: Industry track
+  tag: INT
+  type: track
+- name: Society track
+  tag: SOT
+  type: track
+- name: Education track
+  tag: EDT
+  type: track
+- name: Journal first track
+  tag: JFT
+  type: track
+- name: Artifact track
+  tag: ART
+  type: track
+- name: New ideas and emerging results track
+  tag: NIER
+  type: track
+- name: Doctoral symposium
+  tag: DOS
+  type: track
+- name: New faculty symposium
+  tag: NFS
+  type: track
+- name: Student research competition
+  tag: SRC
+  type: track
+- name: Late breaking track
+  tag: LBT
+  type: track
+- name: Registered reports track
+  tag: RRT
+  type: track
+- name: Challenge proposals
+  tag: CAP
+  type: track
+
+

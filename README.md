@@ -23,21 +23,22 @@ Example record:
   - "2024-06-26 23:59"
   date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO]
+  tags: [CO, RPT]
 ```
 
 Descriptions of the fields:
 
-| Field name    | Description                                                 |
-|---------------|-------------------------------------------------------------|
-| `name`\*      | Short conference name, without year                         |
-| `description` | Description, or long name                                   |
-| `year`\*      | Year the conference is happening                            |
-| `link`\*      | URL to the conference home page                             |
-| `deadline`\*  | A list of deadlines. (Gory details below)                   |
-| `date`        | When the conference is happening                            |
-| `place`       | Where the conference is happening                           |
-| `tags`        | One or multiple tags: `CO`, `JO`, or `WO`            |
+| Field name    | Description                                                             |
+|---------------|-------------------------------------------------------------------------|
+| `name`\*      | Short conference name, without year       |
+| `description` | Description, or long name                 |
+| `year`\*      | Year the conference is happening          |
+| `link`\*      | URL to the conference home page           |
+| `deadline`\*  | A list of deadlines. (Gory details below) |
+| `date`        | When the conference is happening          |
+| `place`       | Where the conference is happening         |
+| `tags`        | One or multiple [tags][3]                 |
+
 
 Fields marked with asterisk (\*) are required.
 
@@ -64,6 +65,7 @@ On the page, all deadlines are displayed in viewer's local time (that's a featur
 
 *Note:* If the deadline hour is `{h}:00`, it will be automatically translated into `{h-1}:59:59` to avoid pain and confusion when it happens to be midnight in local time.
 
+
 ### Timezones
 
 Please remember that the timezone should be AoE (Anywhere on Earth) when you submit a pull request.
@@ -80,6 +82,19 @@ Please remember that the timezone should be AoE (Anywhere on Earth) when you sub
 | American Samoa Time (UTC-11)  | `Pacific/Samoa` or `Etc/GMT+11`. This timezone does not use DST.   |
 | Aleutian Islands              | `America/Adak`                                                     | -->
 
+### Tags
+
+Tags indicate the type of deadline entry you are adding. Users can filter deadlines based on tags. There are two main categories:
+
+- **Venue type:** The type of venues the deadline indicates. For example, is it a conference (`CO`), a workshop (`WO`), or a special edition of a journal (`JO`).
+- **Tracks:** Software engineering conferences generally have multiple tracks with different goals, scopes, requirements, and deadlines. For example, ICSE 2025 has a [Research][5] and a [New Ideas and Emerging Results][6] tracks. The former is a research paper track (`RPT`), while the latter is a new idea and emerging results track (`NIER`). We are currently testing our tag groups for tracks and welcome any suggestions! :)
+
+A complete tag list is available in [`types.yml`][4].
+
 [0]: https://momentjs.com/timezone/docs/#/zone-object/offset/
 [1]: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 [2]: https://www.timeanddate.com/time/zones/aoe
+[3]: #tags
+[4]: _data/types.yml
+[5]: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
+[6]: https://conf.researchr.org/track/icse-2025/icse-2025-nier
