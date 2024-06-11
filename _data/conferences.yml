@@ -10,7 +10,7 @@
   - "2024-07-26 23:59"
   date: April 27 - May 3, 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO]
+  tags: [CO, RPT]
 
 - name: ICSE-SEIP
   description: International Conference on Software Engineering - Software Engineering in Practice
@@ -20,8 +20,7 @@
   - "2024-10-10 23:59"
   date: April 27 - May 3, 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO]
-
+  tags: [CO, IPT]
 
 - name: ICSE-SEIS
   description: International Conference on Software Engineering - Software Engineering in Society
@@ -31,7 +30,7 @@
   - "2024-10-10 23:59"
   date: April 27 - May 3, 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO]
+  tags: [CO, SOT]
 
 - name: ICSE-NIER
   description: International Conference on Software Engineering - New Ideas and Emerging Results
@@ -41,7 +40,7 @@
   - "2024-10-10 23:59"
   date: April 27 - May 3, 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO]
+  tags: [CO, NIER]
 
 - name: ICSE-JF
   description: International Conference on Software Engineering - Journal-first Papers
@@ -51,7 +50,7 @@
   - "2024-10-21 23:59"
   date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO]
+  tags: [CO, JFT]
 
 - name: ICSE-DS
   description: International Conference on Software Engineering - Doctoral Symposium
@@ -61,7 +60,7 @@
   - "2024-11-11 23:59"
   date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO]
+  tags: [CO,DOS]
 
 - name: ICSE-T&TB
   description: International Conference on Software Engineering - Tutorials and Technical Briefings
@@ -71,7 +70,7 @@
   - "2024-10-10 23:59"
   date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO]
+  tags: [CO, TTBT]
 
 - name: ICSE-NFS
   description: International Conference on Software Engineering - New Faculty Symposium
@@ -80,7 +79,7 @@
   deadline: ["TBA"]
   date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO]
+  tags: [CO, NFS]
 
 - name: ICSE-SRC
   description: International Conference on Software Engineering - Student Research Competition
@@ -90,7 +89,7 @@
   - "2024-11-15 23:59"
   date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO]
+  tags: [CO, SRC]
 
 - name: SMeW
   description: Student Mentoring Workshop
@@ -111,7 +110,7 @@
   - "2024-09-05 23:59"
   date: July 23 - 27, 2025
   place: Trondheim, Norway
-  tags: [CO]
+  tags: [CO,RPT]
 
 - name: FSE-IP
   description: International Conference on the Foundations of Software Engineering - Industry Papers
@@ -121,7 +120,7 @@
   - "2024-02-08 23:59"
   date: July 15 - 19, 2024
   place:  Porto de Galinhas, Brazil, Brazil
-  tags: [CO]
+  tags: [CO,IPT]
 
 - name: FSE-IVR
   description: International Conference on the Foundations of Software Engineering - Ideas, Visions and Reflections Track 
@@ -131,7 +130,7 @@
   - "2024-01-28 23:59"
   date: July 15 - 19, 2024
   place:  Porto de Galinhas, Brazil, Brazil
-  tags: [CO]
+  tags: [CO, NIER]
 
 - name: FSE-JF
   description: International Conference on the Foundations of Software Engineering - Journal First Papers 
@@ -141,7 +140,7 @@
   - "2024-03-25 23:59"
   date: July 15 - 19, 2024
   place:  Porto de Galinhas, Brazil, Brazil
-  tags: [CO]
+  tags: [CO, JFT]
 
 - name: SE 2030
   description: Software Engineering in 2030
@@ -203,18 +202,18 @@
    - "2024-03-23 23:59"
   date: July 16, 2024 co-hosted with FSE 2024
   place: Porto de Galinhas, Brazil, Brazil
-  tags: [CO]
+  tags: [CO, RPT, IPT, NIER, JFT]
 
 #AIware
 - name: AIware
   description: International Conference on AIware - Main Track
   year: 2024
-  link: https://conf.researchr.org/home/aiware-2024
+  link: https://2024.aiwareconf.org/track/aiware-2024-papers
   deadline: 
   - "2024-03-29 23:59"
   date: July 15 - 19, 2024 co-hosted with FSE 2024
   place: Porto de Galinhas, Brazil, Brazil
-  tags: [CO]
+  tags: [CO, RPT]
 
 - name: AIware-CT
   description: International Conference on AIware - Challenge Track
@@ -224,7 +223,7 @@
   - "2024-04-24 23:59"
   date: July 15 - 19, 2024 co-hosted with FSE 2024
   place: Porto de Galinhas, Brazil, Brazil
-  tags: [CO]
+  tags: [CO, CHT]
 
 - name: AIware-ISDT
   description: International Conference on AIware - Industry Statements and Demo Track
@@ -234,7 +233,7 @@
   - "2024-04-30 23:59"
   date: July 15 - 19, 2024 co-hosted with FSE 2024
   place: Porto de Galinhas, Brazil, Brazil
-  tags: [CO]
+  tags: [CO, IPT, ART]
 
 - name: AIware-LBAT
   description: International Conference on AIware - Late Breaking Arxiv Track
@@ -244,19 +243,19 @@
   - "2024-06-10 23:59"
   date: July 15 - 19, 2024 co-hosted with FSE 2024
   place: Porto de Galinhas, Brazil, Brazil
-  tags: [CO]
+  tags: [CO, LBT]
 
 
 # ESEIW&ESEM
 - name: ESEM
   description: International Symposium on Empirical Software Engineering and Measurement - Technical Papers Track
   year: 2024
-  link: https://conf.researchr.org/home/esem-2024
+  link: https://conf.researchr.org/track/esem-2024/esem-2024-technical-track
   deadline: 
   - "2024-05-02 23:59"
   date: October 20-25, 2024
   place: Barcelona, Spain
-  tags: [CO]
+  tags: [CO, RPT]
 
 - name: ESEM-ERVR
   description: International Symposium on Empirical Software Engineering and Measurement - Emerging Results, Vision and Reflection Papers
@@ -266,7 +265,7 @@
   - "2024-05-30 23:59"
   date: October 20-25, 2024
   place: Barcelona, Spain
-  tags: [CO]
+  tags: [CO, NIER]
 
 - name: ESEM-RR
   description: International Symposium on Empirical Software Engineering and Measurement - Registered Reports
@@ -276,7 +275,7 @@
   - "2024-05-06 23:59"
   date: October 20-25, 2024
   place: Barcelona, Spain
-  tags: [CO]
+  tags: [CO, RRT]
 
 - name: ESEM-JFP
   description: International Symposium on Empirical Software Engineering and Measurement - Journal-First Papers
@@ -286,7 +285,7 @@
   - "2024-07-01 23:59"
   date: October 20-25, 2024
   place: Barcelona, Spain
-  tags: [CO]
+  tags: [CO, JFT]
 
 - name: ESEM-IGC
   description: International Symposium on Empirical Software Engineering and Measurement - Industry, Government, and Community
@@ -296,7 +295,7 @@
   - "2024-07-01 23:59"
   date: October 20-25, 2024
   place: Barcelona, Spain
-  tags: [CO]
+  tags: [CO, IPT]
 
 - name: ESEM-RP
   description: International Symposium on Empirical Software Engineering and Measurement - Research Projects
@@ -306,7 +305,7 @@
   - "2024-06-15 23:59"
   date: October 20-25, 2024
   place: Barcelona, Spain
-  tags: [CO]
+  tags: [CO, RPT]
 
 - name: ESEM-IDoESE
   description: International Doctoral Symposium on Empirical Software Engineering
@@ -316,7 +315,7 @@
   - "2024-06-26 23:59"
   date: October 20-25, 2024
   place: Barcelona, Spain
-  tags: [CO]
+  tags: [CO, DOS]
 
 
 # ASE
@@ -328,7 +327,7 @@
   - "2024-05-31 23:59"
   date: October 27-November 1, 2024
   place: Sacramento, California, United States
-  tags: [CO]
+  tags: [CO, RPT]
 
 - name: ASE-IS
   description: International Conference on Automated Software Engineering - Industry Showcase
@@ -338,7 +337,7 @@
   - "2024-07-12 23:59"
   date: October 27-November 1, 2024
   place: Sacramento, California, United States
-  tags: [CO]
+  tags: [CO, IPT]
 
 - name: ASE-JF
   description: International Conference on Automated Software Engineering - Journal-first Papers
@@ -348,7 +347,7 @@
   - "2024-07-02 23:59"
   date: October 20-25, 2024
   place: Sacramento, California, United States
-  tags: [CO]
+  tags: [CO, JFT]
 
 - name: ASE-TD
   description: International Conference on Automated Software Engineering - Tool Demonstrations
@@ -358,7 +357,7 @@
   - "2024-06-26 23:59"
   date: October 27-November 1, 2024
   place: Sacramento, California, United States
-  tags: [CO]
+  tags: [CO, TOT]
 
 - name: ASE-NIER
   description: International Conference on Automated Software Engineering - New Ideas and Emerging Results
@@ -368,7 +367,7 @@
   - "2024-06-10 23:59"
   date: October 27-November 1, 2024
   place: Sacramento, California, United States
-  tags: [CO]
+  tags: [CO, NIER]
 
 - name: ASE-SRC
   description: International Conference on Automated Software Engineering - Student Research Competition
@@ -378,7 +377,7 @@
   - "2024-07-22 23:59"
   date: October 27-November 1, 2024
   place: Sacramento, California, United States
-  tags: [CO]
+  tags: [CO, SRC]
 
 - name: ASE-DS
   description: International Conference on Automated Software Engineering - Doctoral Symposium
@@ -388,7 +387,7 @@
   - "2024-08-01 23:59"
   date: October 27-November 1, 2024
   place: Sacramento, California, United States
-  tags: [CO]
+  tags: [CO, DOS]
 
 - name: ASE-NFS
   description: International Conference on Automated Software Engineering - New Faculty Symposium
@@ -397,7 +396,7 @@
   deadline: ["TBA"]
   date: October 27-November 1, 2024
   place: Sacramento, California, United States
-  tags: [CO]
+  tags: [CO, NFS]
 
 - name: RENE
   description: Replications and Negative Results
@@ -458,7 +457,7 @@
   - "2024-10-03 23:59"
   date: April 27 - May 3, 2025  co-located with ICSE 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO]
+  tags: [CO, EDT]
 
 #SCORED
 - name: SCORED
@@ -469,7 +468,7 @@
   - "2024-06-27 23:59"
   date: October 18, 2024 with ACM CCS 2024
   place: Salt Lake City, Utah, United States
-  tags: [WO]
+  tags: [WO, RPT, IPT]
 
 
 # ICSMEs
@@ -481,7 +480,7 @@
   - "2024-04-04 23:59"
   date: October 6-11, 2024
   place: Flagstaff, Arizona, United States
-  tags: [CO]
+  tags: [CO, RPT]
 
 - name: ICSME-NIER
   description: International Conference on Software Maintenance and Evolution - New Ideas and Emerging Results
@@ -491,7 +490,68 @@
   - "2024-06-20 23:59"
   date: October 6-11, 2024
   place: Flagstaff, Arizona, United States
-  tags: [CO]
+  tags: [CO, NIER]
+
+- name: ICSME-ROSE
+  description: International Conference on Software Maintenance and Evolution - Artifact Evaluation Track and ROSE Festival
+  year: 2024
+  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-artifact-evaluation-track-and-rose-festival
+  deadline: 
+  - "2024-07-19 23:59"
+  date: October 6-11, 2024
+  place: Flagstaff, Arizona, United States
+  tags: [CO, ART]
+
+- name: ICSME-RRT
+  description: International Conference on Software Maintenance and Evolution - Registered Reports Track
+  year: 2024
+  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-doctoral-symposium-track
+  deadline: 
+  - "2024-07-19 23:59"
+  date: October 6-11, 2024
+  place: Flagstaff, Arizona, United States
+  tags: [CO, DOS]
+
+
+- name: ICSME-TDT
+  description: International Conference on Software Maintenance and Evolution - Tool Demo Track
+  year: 2024
+  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-tool-demo-track
+  deadline: 
+  - "2024-07-19 23:59"
+  date: October 6-11, 2024
+  place: Flagstaff, Arizona, United States
+  tags: [CO, TOT]
+
+- name: ICSME-IT
+  description: International Conference on Software Maintenance and Evolution - Industry Track
+  year: 2024
+  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-industry-track
+  deadline: 
+  - "2024-06-26 23:59"
+  date: October 6-11, 2024
+  place: Flagstaff, Arizona, United States
+  tags: [CO, IPT]
+
+- name: ICSME-JF
+  description: International Conference on Software Maintenance and Evolution - Journal First Track
+  year: 2024
+  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-journal-first-track
+  deadline: 
+  - "2024-06-17 23:59"
+  date: October 6-11, 2024
+  place: Flagstaff, Arizona, United States
+  tags: [CO, JFT]
+
+- name: ICSME-RRT
+  description: International Conference on Software Maintenance and Evolution - Journal First Track
+  year: 2024
+  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-registered-reports-track
+  deadline: 
+  - "2024-05-31 23:59"
+  date: October 6-11, 2024
+  place: Flagstaff, Arizona, United States
+  tags: [CO, RRT]
 
 # ISSTA
 - name: ISSTA
@@ -503,7 +563,7 @@
   - "2024-04-12 23:59"
   date: September 16-20, 2024
   place: Vienna, Austria
-  tags: [CO]
+  tags: [CO, RPT, EXPT, REST]
 
 # SecDev
 - name: SecDev
@@ -514,18 +574,38 @@
   - "2024-05-14 23:59"
   date: October 7-10, 2024
   place: Pittsburgh, Pennsylvania, United States
-  tags: [CO]
+  tags: [CO, RPT, SPT, IPT, TTBT]
 
 # ISSRE
 - name: ISSRE
-  description: International Symposium on Software Reliability Engineering
+  description: International Symposium on Software Reliability Engineering - Research Track
   year: 2024
   link: https://issre.github.io/2024/calls_cfp-research.html
   deadline: 
-  - "2024-06-05 23:59"
+  - "2024-05-15 23:59"
   date: October 28-31, 2024
   place: Tsukuba, Japan
-  tags: [CO]
+  tags: [CO, RPT]
+
+- name: ISSRE-IT
+  description: International Symposium on Software Reliability Engineering - Industry Track
+  year: 2024
+  link: https://issre.github.io/2024/calls_cfp-research.html
+  deadline: 
+  - "2024-06-21 23:59"
+  date: October 28-31, 2024
+  place: Tsukuba, Japan
+  tags: [CO, IPT]
+
+- name: ISSRE-DOS
+  description: International Symposium on Software Reliability Engineering - Doctoral Symposium
+  year: 2024
+  link: https://issre.github.io/2024/calls_cfp-research.html
+  deadline: 
+  - "2024-07-23 23:59"
+  date: October 28-31, 2024
+  place: Tsukuba, Japan
+  tags: [CO, DOS]
 
 #SANER
 - name: SANER
@@ -536,7 +616,7 @@
   - "2024-10-04 23:59"
   date: March 4 - 7, 2025
   place: Montréal, Québec, Canada
-
+  tags: [CO, RPT]
 
 #CHASEs
 - name: CHASE
@@ -546,6 +626,7 @@
   deadline: ["TBA"]
   date: April 27 - May 3, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
+  tags: [CO, RPT]
 
 - name: CHASE-SP
   description: International Conference on Cooperative and Human Aspects of Software Engineering - Short Papers
@@ -554,6 +635,7 @@
   deadline: ["TBA"]
   date: April 27 - May 3, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
+  tags: [CO, SPT]
 
 - name: CHASE-JF
   description: International Conference on Cooperative and Human Aspects of Software Engineering - Journal First
@@ -562,6 +644,7 @@
   deadline: ["TBA"]
   date: April 27 - May 3, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
+  tags: [CO, JFT]
 
 #SEAMS
 - name: SEAMS
@@ -571,6 +654,8 @@
   deadline: ["TBA"]
   date: April 27 - May 3, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
+  tags: [CO, RPT]
+
 
 - name: SEAMS-AT
   description: International Conference on Software Engineering for Adaptive and Self-Managing Systems - Artifact Track
@@ -579,6 +664,7 @@
   deadline: ["TBA"]
   date: April 27 - May 3, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
+  tags: [CO, ART]
 
 #MSR
 - name: MSR
@@ -588,12 +674,4 @@
   deadline: ["TBA"]
   date: April 28 - April 29, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
-
-- name: MSR-MCP
-  description: Mining Software Repositories - Mining Challenge Proposals
-  year: 2025
-  link: https://2025.msrconf.org/track/msr-2025-mining-challenge-proposals
-  deadline: 
-   - "2024-08-19 23:59"
-  date: April 28 - April 29, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
+  tags: [CO, RPT]
