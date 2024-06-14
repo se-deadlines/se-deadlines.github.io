@@ -23,6 +23,8 @@ Example record:
   - "2024-06-26 23:59"
   date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
+  notes: April 26 - May 4, 2025
+
   tags: [CO, RPT]
 ```
 
@@ -30,14 +32,15 @@ Descriptions of the fields:
 
 | Field name    | Description                                                             |
 |---------------|-------------------------------------------------------------------------|
-| `name`\*      | Short conference name, without year       |
-| `description` | Description, or long name                 |
-| `year`\*      | Year the conference is happening          |
-| `link`\*      | URL to the conference home page           |
-| `deadline`\*  | A list of deadlines. (Gory details below) |
-| `date`        | When the conference is happening          |
-| `place`       | Where the conference is happening         |
-| `tags`        | One or multiple [tags][3]                 |
+| `name`\*      | Short entry name, without year                 |
+| `description` | Description, or long name                      |
+| `year`\*      | Year the event is happening                    |
+| `link`\*      | URL to the entry home page                     |
+| `deadline`\*  | A list of deadlines. ([Gory details below][8]) |
+| `date`        | When the entry is happening                    |
+| `place`       | Where the entry is happening                   |
+| `note`        | Extra [notes][7] about the deadline            |
+| `tags`        | One or multiple [tags][3]                      |
 
 
 Fields marked with asterisk (\*) are required.
@@ -82,9 +85,13 @@ Please remember that the timezone should be AoE (Anywhere on Earth) when you sub
 | American Samoa Time (UTC-11)  | `Pacific/Samoa` or `Etc/GMT+11`. This timezone does not use DST.   |
 | Aleutian Islands              | `America/Adak`                                                     | -->
 
+### Note
+
+The *note* field can be used to indicate additional information about a deadline. For example, if an abstract is required before the deadline.
+
 ### Tags
 
-Tags indicate the type of deadline entry you are adding. Users can filter deadlines based on tags. There are two main categories:
+The *tag* field indicates the type of deadline entry you are adding. Users can filter deadlines based on tags. There are two main categories:
 
 - **Venue type:** The type of venues the deadline indicates. For example, is it a conference (`CO`), a workshop (`WO`), or a special edition of a journal (`JO`).
 - **Tracks:** Software engineering conferences generally have multiple tracks with different goals, scopes, requirements, and deadlines. For example, ICSE 2025 has a [Research][5] and a [New Ideas and Emerging Results][6] tracks. The former is a research paper track (`RPT`), while the latter is a new idea and emerging results track (`NIER`). We are currently testing our tag groups for tracks and welcome any suggestions! :)
@@ -98,3 +105,5 @@ A complete tag list is available in [`types.yml`][4].
 [4]: _data/types.yml
 [5]: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
 [6]: https://conf.researchr.org/track/icse-2025/icse-2025-nier
+[7]: #note
+[8]: #deadline-format
