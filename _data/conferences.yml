@@ -199,7 +199,7 @@
 - name: PROMISE
   description: International Conference on Predictive Models and Data Analytics in Software Engineering
   year: 2024
-  ink: https://conf.researchr.org/home/promise-2024
+  link: https://conf.researchr.org/home/promise-2024
   deadline: 
    - "2024-03-28 23:59"
   date: July 16, 2024 co-hosted with FSE 2024
@@ -614,7 +614,7 @@
 - name: SANER
   description: International Conference on Software Analysis, Evolution and Reengineering - Research Papers
   year: 2025
-  ink: https://conf.researchr.org/track/saner-2025/saner-2025-papers
+  link: https://conf.researchr.org/track/saner-2025/saner-2025-papers
   deadline: 
   - "2024-10-11 23:59"
   date: March 4 - 7, 2025
@@ -626,25 +626,18 @@
 - name: CHASE
   description: International Conference on Cooperative and Human Aspects of Software Engineering - Full Papers
   year: 2025
-  ink: https://conf.researchr.org/track/chase-2025/chase-2025-papers
-  deadline: ["TBA"]
+  link: https://conf.researchr.org/track/chase-2025/chase-2025-papers
+  deadline: 
+    - "2024-11-08 23:59"
   date: April 27 - May 3, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO, RPT]
+  note: Recommended abstract deadline on November 1 2024.
+  tags: [CO, RPT, SPT, NIER]
 
-- name: CHASE-SP
-  description: International Conference on Cooperative and Human Aspects of Software Engineering - Short Papers
+- name: CHASE-JFF
+  description: International Conference on Cooperative and Human Aspects of Software Engineering - Journal Fast Track and Journal First
   year: 2025
-  link: https://conf.researchr.org/track/chase-2025/chase-2025-short-papers
-  deadline: ["TBA"]
-  date: April 27 - May 3, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [CO, SPT]
-
-- name: CHASE-JF
-  description: International Conference on Cooperative and Human Aspects of Software Engineering - Journal First
-  year: 2025
-  link: https://conf.researchr.org/track/chase-2025/chase-2025-journal-first
+  link: https://conf.researchr.org/track/chase-2025/chase-2025-papers
   deadline: ["TBA"]
   date: April 27 - May 3, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
@@ -654,7 +647,7 @@
 - name: SEAMS
   description: International Conference on Software Engineering for Adaptive and Self-Managing Systems- Research Track
   year: 2025
-  ink: https://conf.researchr.org/track/seams-2025/seams-2025-research-track
+  link: https://conf.researchr.org/track/seams-2025/seams-2025-research-track
   deadline: ["TBA"]
   date: April 27 - May 3, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
