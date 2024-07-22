@@ -61,7 +61,7 @@
                 <div class="meta">
                   {{ conf.description }}<br>
                   {{conf.date | replace: '-', '–'}} {% if conf.place %}// <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>{% endif %}<br>
-                  {% if conf.note %} <div class="note"> <b>Note: </b>{{conf.note}} </div> {% endif %}<br>
+                  {% if conf.note %} <div> <b>Note: </b>{{conf.note}} </div> {% endif %}
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6">

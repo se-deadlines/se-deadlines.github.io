@@ -23,8 +23,7 @@ Example record:
   - "2024-06-26 23:59"
   date: April 26 - May 4, 2025
   place: Ottawa, Ontario, Canada
-  notes: April 26 - May 4, 2025
-
+  note: Mandatory abstract deadline on March 15 (first deadline) and July 26 (second deadline) 2024.
   tags: [CO, RPT]
 ```
 
@@ -98,6 +97,13 @@ The *tag* field indicates the type of deadline entry you are adding. Users can f
 
 A complete tag list is available in [`types.yml`][4].
 
+## Run locally
+
+To run locally the page, the following must be done: 
+
+1. Install [Jekyll][9].
+2. Run the page with `jekyll serve.`
+
 [0]: https://momentjs.com/timezone/docs/#/zone-object/offset/
 [1]: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 [2]: https://www.timeanddate.com/time/zones/aoe
@@ -107,3 +113,4 @@ A complete tag list is available in [`types.yml`][4].
 [6]: https://conf.researchr.org/track/icse-2025/icse-2025-nier
 [7]: #note
 [8]: #deadline-format
+[9]: https://jekyllrb.com/
