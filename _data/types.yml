@@ -29,35 +29,14 @@
 - name: Journal first track
   tag: JFT
   type: track
-- name: Artifact track
-  tag: ART
-  type: track
 - name: Tool track
   tag: TOT
   type: track
 - name: New ideas and emerging results track
   tag: NIER
   type: track
-- name: Doctoral symposium
-  tag: DOS
-  type: track
-- name: New faculty symposium
-  tag: NFS
-  type: track
-- name: Student research competition
-  tag: SRC
-  type: track
-- name: Late breaking track
-  tag: LBT
-  type: track
 - name: Registered reports track
   tag: RRT
-  type: track
-- name: Challenge track
-  tag: CHT
-  type: track
-- name: Tutorials and technical briefings track
-  tag: TTBT
   type: track
 - name: Research projects track
   tag: RPT
@@ -65,6 +44,30 @@
 - name: Experience papers track
   tag: EXPT
   type: track
+
+# Others
+
+- name: Artifact track
+  tag: ART
+  type: others
+- name: Doctoral symposium
+  tag: DOS
+  type: others
+- name: New faculty symposium
+  tag: NFS
+  type: others
+- name: Student research competition
+  tag: SRC
+  type: others
+- name: Late breaking track
+  tag: LBT
+  type: others
+- name: Tutorials and technical briefings track
+  tag: TTBT
+  type: others
 - name: Replicability studies track
   tag: REST
-  type: track
+  type: others
+- name: Challenge track
+  tag: CHT
+  type: others
