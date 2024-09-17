@@ -92,6 +92,16 @@
   place: Ottawa, Ontario, Canada
   tags: [CO, SRC]
 
+- name: ICSE-ICT
+  description: International Conference on Software Engineering - Industry Challenge Track
+  year: 2025
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-industry-challenge-track
+  deadline: 
+  - "2024-11-07 23:59"
+  date: April 26 - May 4, 2025
+  place: Ottawa, Ontario, Canada
+  tags: [CO, CHT]
+
 - name: SMeW
   description: Student Mentoring Workshop
   year: 2025
@@ -700,6 +710,17 @@
   date: April 28 - April 29, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
   tags: [CO, NIER]
+
+- name: MSR-MC
+  description: Mining Software Repositories - Mining Challenge
+  year: 2025
+  link: https://2025.msrconf.org/track/msr-2025-mining-challenge
+  deadline:
+    - "2024-12-06 23:59"
+  date: April 28 - April 29, 2025 with ICSE 2025
+  place: Ottawa, Ontario, Canada
+  note: Mandatory abstract deadline on Dec 3, 2024.
+  tags: [CO, CHT]
 
 - name: RE-RP
   description: Requirements Engineering - Research Papers
