@@ -699,7 +699,7 @@
   deadline: ["TBA"]
   date: April 28 - April 29, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO, NIER]  tags: [CO, NIER]
+  tags: [CO, NIER]
 
 - name: RE-RP
   description: Requirements Engineering - Research Papers
@@ -713,3 +713,14 @@
   note: Mandatory abstract deadline on March 3rd (first deadline) and paper deadline on March 10th (second deadline)
   tags: [RPT]
 
+- name: REFSQ-RT
+  description: Requirements Engineering Foundation for Software Quality - Research Track
+  year: 2025
+  link: https://2025.refsq.org/track/refsq-2025-research-papers
+  deadline:
+   - "2024-11-01 23:59"
+   - "2024-11-08 23:59"
+  date: April 7 - April 10, 2025
+  place: Barcelona, Catalunya, Spain
+  note: Mandatory abstract deadline on November 1st (first deadline) and paper deadline on November 8th (second deadline)
+  tags: [RPT]
