@@ -699,4 +699,17 @@
   deadline: ["TBA"]
   date: April 28 - April 29, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
-  tags: [CO, NIER]
+  tags: [CO, NIER]  tags: [CO, NIER]
+
+- name: RE-RP
+  description: Requirements Engineering - Research Papers
+  year: 2025
+  link: https://conf.researchr.org/track/RE-2025/RE-2025-Research-Papers
+  deadline:
+   - "2025-03-03 23:59"
+   - "2025-03-10 23:59"
+  date: September 1 - September 5, 2025
+  place: Valencia, Spain
+  note: Mandatory abstract deadline on March 3rd (first deadline) and paper deadline on March 10th (second deadline)
+  tags: [RPT]
+
