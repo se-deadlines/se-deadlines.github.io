@@ -123,7 +123,6 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-
 - name: APR
   description: International Workshop on Automated Program Repair
   year: 2025
@@ -224,7 +223,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: GI
+- name: GI
   description: International Workshop on Genetic Improvement
   year: 2025
   link: https://geneticimprovementofsoftware.com/events/icse2025
@@ -234,7 +233,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: GREENS
+- name: GREENS
   description: International Workshop on Green and Sustainable Software
   year: 2025
   link: https://greensworkshop.github.io/
@@ -244,7 +243,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: IDE
+- name: IDE
   description: IDE Workshop
   year: 2025
   link: https://ide-workshop.github.io/
@@ -254,7 +253,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: IWSiB
+- name: IWSiB
   description: International Workshop on Software-intensive Business
   year: 2025
   link: https://conf.researchr.org/home/icse-2025/iwsib-2025
@@ -264,7 +263,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: LLM4Code
+- name: LLM4Code
   description: International Workshop on Large Language Model For Code
   year: 2025
   link: https://llm4code.github.io/
@@ -273,7 +272,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: MO2RE
+- name: MO2RE
   description: Workshop on Multi-disciplinary, Open, and IntegRatEd Requirements Engineering
   year: 2025
   link: https://mo2re.github.io/
@@ -283,7 +282,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: NLBSE
+- name: NLBSE
   description: International Workshop on NL-based Software Engineering
   year: 2025
   link: https://nlbse2025.github.io/
@@ -293,7 +292,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: NSE
+- name: NSE
   description: International Workshop on Neuro-Symbolic Software Engineering
   year: 2025
   link: https://conf.researchr.org/home/icse-2025/nse-2025
@@ -303,7 +302,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: Q-SE
+- name: Q-SE
   description: International Workshop on Quantum Software Engineering
   year: 2025
   link: https://conf.researchr.org/home/icse-2025/q-se-2025
@@ -313,7 +312,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: RAIE
+- name: RAIE
   description: International Workshop on Responsible AI Engineering
   year: 2025
   link: https://raiengineering.github.io/RAIE-Series/RAIE2025/
@@ -323,7 +322,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: RAISE
+- name: RAISE
   description: International Workshop on Requirements engineering for AI-powered SoftwarE
   year: 2025
   link: https://conf.researchr.org/home/icse-2025/raise-2025
@@ -334,7 +333,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: RoSE
+- name: RoSE
   description: International Workshop on Robotics Software Engineering
   year: 2025
   link: https://conf.researchr.org/home/icse-2025/rose-2025
@@ -344,7 +343,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: SATrends
+- name: SATrends
   description: International Workshop New Trends in Software Architecture
   year: 2025
   link: https://conf.researchr.org/home/icse-2025/satrends-2025
@@ -354,7 +353,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: SBFT
+- name: SBFT
   description: International Workshop on Search-Based and Fuzz Testing
   year: 2025
   link: https://sbft25.github.io/
@@ -364,7 +363,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: SE4ADS
+- name: SE4ADS
   description: International Workshop on Software Engineering for Autonomous Driving Systems
   year: 2025
   link: https://conf.researchr.org/home/icse-2025/se4ads-2025
@@ -374,7 +373,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: SERP4IoT
+- name: SERP4IoT
   description: International Workshop on Software Engineering Research & Practices for the Internet of Things
   year: 2025
   link: https://conf.researchr.org/home/icse-2025/serp4iot-2025
@@ -384,7 +383,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: SESESoS
+- name: SESESoS
   description: International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems
   year: 2025
   link: https://conf.researchr.org/home/icse-2025/sesos-2025
@@ -394,7 +393,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: STATIC
+- name: STATIC
   description: International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems
   year: 2025
   link: https://conf.researchr.org/home/icse-2025/static-2025
@@ -405,7 +404,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: SVM
+- name: SVM
   description: International Workshop on Software Vulnerability Management
   year: 2025
   link: https://conf.researchr.org/home/icse-2025/svm-2025
@@ -415,7 +414,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: WETSEB
+- name: WETSEB
   description: International Workshop on Emerging Trends in Software Engineering for Blockchain
   year: 2025
   link: https://www.agile-group.org/wetseb2025/
@@ -425,7 +424,7 @@
   place: Ottawa, Ontario, Canada
   tags: [WO]
 
-  - name: WSESE
+- name: WSESE
   description: International Workshop on Methodological Issues with Empirical Studies in Software Engineering
   year: 2025
   link: https://2025.ese-workshops.org/
