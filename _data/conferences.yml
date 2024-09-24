@@ -882,14 +882,13 @@
 # ISSTA
 - name: ISSTA
   description: International Symposium on Software Testing and Analysis
-  year: 2024
-  link: https://2024.issta.org/track/issta-2024-papers
+  year: 2025
+  link: https://conf.researchr.org/track/issta-2025/issta-2025-papers#Call-for-Papers
   deadline: 
-  - "2023-12-15 23:59"
-  - "2024-04-12 23:59"
-  date: July 23 - 27, 2025 co-located with FSE 2025
+  - "2024-10-31 23:59"
+  date: June 25-28, 2025 co-located with FSE 2025
   place: Trondheim, Norway
-  tags: [CO, RPT, EXPT, REST]
+  tags: [CO, RPT]
 
 # SecDev
 - name: SecDev
