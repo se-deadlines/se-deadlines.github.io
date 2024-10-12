@@ -807,13 +807,13 @@
 # ICSMEs
 - name: ICSME
   description: International Conference on Software Maintenance and Evolution - Research Track
-  year: 2024
-  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-papers
+  year: 2025
+  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-papers
   deadline: 
-  - "2024-04-11 23:59"
-  date: October 6-11, 2024
-  place: Flagstaff, Arizona, United States
-  note: Mandatory abstract deadline on April 4 2024.
+  - "2024-03-13 23:59"
+  date: September 8-13, 2025
+  place: Auckland, New Zealand
+  note: Mandatory abstract deadline on March 6, 2025.
   tags: [CO, RPT]
 
 - name: ICSME-NIER
