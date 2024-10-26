@@ -1077,3 +1077,14 @@
   place: Brugg - Windisch, Switzerland
   note: Recommended abstract deadline on January 19, 2025
   tags: [CO, RPT]
+
+name: EASE-RPT
+  description: International Conference on Agile Software Development - Research Track
+  year: 2025
+  link: https://conf.researchr.org/home/ease-2025
+  deadline:
+   - "2025-01-19 23:59"
+  date: June 17 - June 20, 2025
+  place: Istanbul, Turkey
+  note: Abstract deadline on January 12, 2025
+  tags: [CO, RPT]
