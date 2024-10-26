@@ -1066,3 +1066,14 @@
   place: Barcelona, Catalunya, Spain
   note: Mandatory abstract deadline on November 1st (first deadline) and paper deadline on November 8th (second deadline)
   tags: [RPT]
+
+- name: XP-RPT
+  description: International Conference on Agile Software Development - Research Track
+  year: 2025
+  link: https://conf.researchr.org/home/xp-2025
+  deadline:
+   - "2025-01-26 23:59"
+  date: June 2 - June 5, 2025
+  place: Brugg - Windisch, Switzerland
+  note: Recommended abstract deadline on January 19, 2025
+  tags: [RPT]
