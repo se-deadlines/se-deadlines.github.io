@@ -267,7 +267,7 @@
   description: International Workshop on Large Language Model For Code
   year: 2025
   link: https://llm4code.github.io/
-  deadline: ["TBA"]
+  - "2024-11-18 23:59"
   date: April 26 - May 4, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
   tags: [WO]
@@ -973,8 +973,9 @@
   description: International Conference on Software Engineering for Adaptive and Self-Managing Systems - Artifact Track
   year: 2025
   link: https://conf.researchr.org/track/seams-2025/seams-2025-artifact-track
-  deadline: ["TBA"]
+  - "2024-12-13 23:59"
   date: April 27 - May 3, 2025 with ICSE 2025
+  note: Mandatory abstract deadline on December 6 2024.
   place: Ottawa, Ontario, Canada
   tags: [CO, ART]
 
