@@ -267,6 +267,7 @@
   description: International Workshop on Large Language Model For Code
   year: 2025
   link: https://llm4code.github.io/
+  deadline: 
   - "2024-11-18 23:59"
   date: April 26 - May 4, 2025 with ICSE 2025
   place: Ottawa, Ontario, Canada
@@ -973,7 +974,8 @@
   description: International Conference on Software Engineering for Adaptive and Self-Managing Systems - Artifact Track
   year: 2025
   link: https://conf.researchr.org/track/seams-2025/seams-2025-artifact-track
-  - "2024-12-13 23:59"
+  deadline: 
+    - "2024-12-13 23:59"
   date: April 27 - May 3, 2025 with ICSE 2025
   note: Mandatory abstract deadline on December 6 2024.
   place: Ottawa, Ontario, Canada
@@ -1079,7 +1081,7 @@
   note: Recommended abstract deadline on January 19, 2025
   tags: [CO, RPT]
 
-name: EASE-RPT
+- name: EASE-RPT
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Research Track
   year: 2025
   link: https://conf.researchr.org/home/ease-2025
