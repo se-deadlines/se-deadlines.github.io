@@ -102,6 +102,16 @@
   place: Ottawa, Ontario, Canada
   tags: [CO, CHT]
 
+- name: Forge-Benchmarking
+  description: The 2nd ACM international conference on AI Foundation Models and Software Engineering - Data and Benchmarking Track
+  year: 2025
+  link: https://conf.researchr.org/track/forge-2025/forge-2025-benchmarking
+  deadline: 
+  - "2024-12-13 23:59"
+  date: April 27 - April 28, 2025
+  place: Ottawa, Ontario, Canada
+  tags: [CO, Benchmarking]
+
 - name: SMeW
   description: Student Mentoring Workshop
   year: 2025
