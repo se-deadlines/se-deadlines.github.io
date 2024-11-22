@@ -1092,7 +1092,7 @@
   tags: [CO, RPT]
 
 - name: EASE-RPT
-  description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Research Track
+  description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Research Paper Track
   year: 2025
   link: https://conf.researchr.org/home/ease-2025
   deadline:
