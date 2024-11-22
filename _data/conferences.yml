@@ -1101,3 +1101,23 @@
   place: Istanbul, Turkey
   note: Abstract deadline on January 12, 2025
   tags: [CO, RPT]
+
+- name: SEAA-RPT
+  description: The 51st Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA) - Research Track
+  year: 2025
+  link: https://dsd-seaa.com/seaa2025/
+  deadline:
+  - "TBA"
+  date: September 10 - September 12, 2025
+  place: Salerno, Italy
+  tags: [CO, RPT]
+
+- name: DSD-RPT
+  description: The 28th Euromicro Conference Series on Digital System Design (DSD) - Research Track
+  year: 2025
+  link: https://dsd-seaa.com/dsd2025/
+  deadline:
+  - "2025-04-15 23:59"
+  date: September 10 - September 12, 2025
+  place: Salerno, Italy
+  tags: [CO, RPT]
