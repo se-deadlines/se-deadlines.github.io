@@ -1092,7 +1092,7 @@
   tags: [CO, RPT]
 
 - name: EASE-RPT
-  description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Research Track
+  description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Research Paper Track
   year: 2025
   link: https://conf.researchr.org/home/ease-2025
   deadline:
@@ -1100,4 +1100,4 @@
   date: June 17 - June 20, 2025
   place: Istanbul, Turkey
   note: Abstract deadline on January 12, 2025
-  tags: [CO, RPT]
+  tags: [CO, RPT, SPT, IPT, JFT, NIER]
