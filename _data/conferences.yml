@@ -1101,3 +1101,14 @@
   place: Istanbul, Turkey
   note: Abstract deadline on January 12, 2025
   tags: [CO, RPT]
+
+# ASE 2025
+- name: ASE-RPT
+  description: International Conference on Automated Software Engineering (ASE) - Research Paper Track
+  year: 2025
+  link: https://conf.researchr.org/home/ase-2025
+  deadline: 
+  - "TBA"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [CO, RPT]
