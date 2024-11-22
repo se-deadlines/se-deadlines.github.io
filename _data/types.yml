@@ -49,7 +49,6 @@
   type: track
   
 # Others
-
 - name: Artifact track
   tag: ART
   type: others
@@ -73,4 +72,7 @@
   type: others
 - name: Challenge track
   tag: CHT
+  type: others
+- name: Posters
+  tag: POS
   type: others
