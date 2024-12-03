@@ -1192,3 +1192,78 @@
   date: June 17 - June 20, 2025
   place: Istanbul, Turkey
   tags: [CO, DB]
+
+# IST
+- name: IST-MDDT
+  description: Information and Software Technology - Model- and Data-driven Digital Twins
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/315430/model-and-data-driven-digital-twins
+  deadline: 
+  - "2025-05-05 23:59"
+  tags: [JO]
+
+- name: IST-S&S
+  description: Information and Software Technology - Software and Society Ethics, Equity, and Sustainability in Software
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/315503/software-and-society-ethics-equity-and-sustainability-in-software
+  deadline: 
+  - "2025-02-14 23:59"
+  tags: [JO]
+
+- name: IST-AYR
+  description: Information and Software Technology - Are you ready for the age of fairness in software systems?
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/315807/are-you-ready-for-the-age-of-fairness-in-software-systems
+  deadline: 
+  - "2025-03-30 23:59"
+  tags: [JO]
+
+- name: IST-MT
+  description: Information and Software Technology - Special Issue on Metamorphic Testing
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/317272/special-issue-on-metamorphic-testing
+  deadline: 
+  - "2025-03-20 23:59"
+  tags: [JO]
+
+# JSS
+- name: JSS-QAICT
+  description: Journal of Systems and Software - Quality Assurance in ICT-based Systems
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/313655/quality-assurance-in-ict-based-systems
+  deadline: 
+  - "2025-03-31 23:59"
+  tags: [JO]
+
+- name: JSS-SATS
+  description: Journal of Systems and Software - Software Architecture for Trustworthy Software
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/314157/software-architecture-for-trustworthy-software
+  deadline: 
+  - "2025-01-31 23:59"
+  tags: [JO]
+
+- name: JSS-RSLLM
+  description: Journal of Systems and Software - Reliable and Secure Large Language Models for Software Engineering
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/314784/reliable-and-secure-large-language-models-for-software-engineering
+  deadline: 
+  - "2025-01-04 23:59"
+  tags: [JO]
+
+- name: JSS-ESEAA
+  description: Journal of Systems and Software - Euromicro Software Engineering and Advanced Applications 50th Anniversary
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/315006/euromicro-software-engineering-and-advanced-applications-50th-anniversary
+  deadline: 
+  - "2025-02-02 23:59"
+  tags: [JO]
+
+
+- name: JSS-TSSPLE
+  description: Journal of Systems and Software - Trends in Systems and Software Product Line Engineering
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/315468/trends-in-systems-and-software-product-line-engineering
+  deadline: 
+  - "2025-01-15 23:59"
+  tags: [JO]
