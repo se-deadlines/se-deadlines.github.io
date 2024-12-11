@@ -1267,3 +1267,11 @@
   deadline: 
   - "2025-01-15 23:59"
   tags: [JO]
+  
+  - name: VehicleSec
+  description: USENIX Vehicle Security and Privacy
+  year: 2025
+  link: https://www.usenix.org/conference/vehiclesec25/call-for-papers
+  deadline: 
+  - "2025-02-27 23:59"
+  tags: [CO]
