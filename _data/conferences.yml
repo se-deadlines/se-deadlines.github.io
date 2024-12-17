@@ -463,7 +463,7 @@
   link: https://conf.researchr.org/track/fse-2025/fse-2025-industry-papers
   deadline: 
   - "2025-01-15 23:59"
-  date: July 15 - 19, 2024
+  date: July 23 - 27, 2025
   place: Trondheim, Norway
   tags: [CO,IPT]
 
@@ -473,7 +473,7 @@
   link: https://conf.researchr.org/track/fse-2025/fse-2025-ideas-visions-and-reflections
   deadline: 
   - "2025-01-16 23:59"
-  date: July 15 - 19, 2024
+  date: July 23 - 27, 2025
   place: Trondheim, Norway
   tags: [CO, NIER]
 
@@ -483,59 +483,147 @@
   link: https://conf.researchr.org/track/fse-2025/fse-2025-journal-first
   deadline: 
   - "2025-03-04 23:59"
-  date: July 15 - 19, 2024
+  date: July 23 - 27, 2025
   place: Trondheim, Norway
   tags: [CO, JFT]
 
 - name: SE 2030
-  description: Software Engineering in 2030
+  description: 2030 Software Engineering
   year: 2024
-  link: https://conf.researchr.org/home/2030-se
+  link: https://conf.researchr.org/home/2030-se-2025
   deadline: 
-  - "2024-04-05 23:59"
-  date: July 15 - 19, 2024 with FSE
-  place: Porto de Galinhas, Brazil, Brazil
+  - "2025-02-23 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
   tags: [WO]
 
 - name: FaSE4Games
   description: International Workshop Foundations of Applied Software Engineering for Games
-  year: 2024
+  year: 2025
   link: https://fase4games.quest/
   deadline: 
-  - "2024-03-27 23:59"
-  date: July 15 - 19, 2024 with FSE
-  place: Porto de Galinhas, Brazil, Brazil
+  - "2025-02-25 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
   tags: [WO]
 
-- name: SEA4DQ
-  description: International Workshop on Software Engineering and AI for Data Quality
-  year: 2024
-  link: https://sea4dq.github.io/
+- name: AI IDE
+  description: International Workshop on Artificial Intelligence for Integrated Development Environments
+  year: 2025
+  link: https://conf.researchr.org/home/fse-2025/ai-ide-2025
   deadline: 
-  - "2024-04-05 23:59"
-  date: July 15 - 19, 2024 with FSE
-  place: Porto de Galinhas, Brazil, Brazil
+  - "2025-02-13 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
   tags: [WO]
 
-
-- name: MODAL
-  description: Infrastructure for Mobile App Data Collection & Analysis
-  year: 2024
-  link: https://2024.esec-fse.org/home/modal-2024-fse
+- name: AI-SDLC
+  description: International Workshop on Envisioning the AI-Augmented Software Development Life Cycle
+  year: 2025
+  link: https://resources.sei.cmu.edu/news-events/events/ai-augmented-sdlc/
   deadline: 
-  - "2024-04-29 23:59"
-  date: July 15 - 19, 2024 with FSE
-  place: Porto de Galinhas, Brazil, Brazil
+  - "2025-03-04 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
+  tags: [WO]
+
+- name: BI4LLMC
+  description: International Workshop on Benchmark Infrastructure for LLMs for Code
+  year: 2025
+  link: https://bi4llmc25.github.io/
+  deadline: ["TBA"]
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
+  tags: [WO]
+
+- name: CauSE
+  description: Causal Methods in Software Engineering
+  year: 2025
+  link: https://causality-software-engineering.github.io/cause-workshop-2025/
+  deadline: 
+  - "2025-02-25 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
+  tags: [WO]
+
+- name: DevOpsSustain
+  description: International Workshop on DevOps for Sustainability
+  year: 2025
+  link: https://devopssustain.github.io/ws2025/
+  deadline: 
+  - "2025-02-25 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
+  tags: [WO]
+
+- name: ResponsibleSE
+  description: International Workshop on Responsible Software Engineering ResponsibleSE
+  year: 2025
+  link: https://sites.google.com/view/responsible-se/
+  deadline: 
+  - "2025-02-18 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
+  tags: [WO]
+
+- name: SWGeno
+  description: Workshop on Software Genomics
+  year: 2025
+  link: https://sites.google.com/view/softgeno2025/
+  deadline: 
+  - "2025-02-25 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
+  tags: [WO]
+
+- name: HumanAISE
+  description: Workshop on Human-Centered AI for SE
+  year: 2025
+  link: https://humanai4se.github.io/
+  deadline: 
+  - "2025-02-15 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
+  tags: [WO]
+
+- name: Intersectionality@FSE
+  description: Intersectionality as a Foundation of Software Engineering Workshop
+  year: 2025
+  link: https://intersectionalitywork.github.io/
+  deadline: 
+  - "2025-02-25 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
+  tags: [WO]
+
+- name: LLMapp
+  description: International Workshop on LLM App Store Analysis
+  year: 2025
+  link: https://llmappworkshop.github.io/
+  deadline: 
+  - "2025-02-25 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
+  tags: [WO]
+
+- name: LLanMER
+  description: International Workshop on Large Language Model-Oriented Empirical Research
+  year: 2025
+  link: https://llanmer.github.io/
+  deadline: 
+  - "2025-02-25 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
   tags: [WO]
 
 - name: QSE-NE
-  description: International Workshop on Quantum Software Engineering - The Next Evolution
-  year: 2024
-  link: https://sites.google.com/view/qse-ne
+  description: International Workshop on Quantum Software Engineering The Next Evolution
+  year: 2025
+  link: https://sites.google.com/view/qse-ne-fse25/call-for-papers
   deadline: 
-  - "2024-04-25 23:59"
-  date: July 15 - 19, 2024 with FSE
-  place: Porto de Galinhas, Brazil, Brazil
+  - "2025-03-05 23:59"
+  date: July 23 - 27, 2025 with FSE
+  place: Trondheim, Norway
   tags: [WO]
 
 #PROMISE
