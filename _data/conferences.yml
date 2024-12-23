@@ -1371,8 +1371,6 @@
   link: https://conf.researchr.org/track/saner-2025/saner-2025-tutorials-track
   deadline:
     - "2024-12-20" # Submission Date
-    - "2024-12-22" # Author Notification
-    - "2024-12-30" # Camera-Ready Version
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
   note: Includes a submission deadline, author notification, and camera-ready deadline.
@@ -1383,10 +1381,7 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-reproducibility-studies-and-negative-results-rene-track
   deadline:
-    - "2024-11-07" # Abstract Submission Deadline
     - "2024-11-12" # Paper Submission Deadline
-    - "2024-12-20" # Notifications
-    - "2025-01-24" # Camera Ready
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
   note: Focus on reproducibility studies and negative results with clear submission deadlines.
@@ -1397,10 +1392,7 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-short-papers-and-posters-track
   deadline:
-    - "2024-11-04" # Abstract Submission Deadline
     - "2024-11-11" # Paper Submission Deadline
-    - "2024-12-11" # Notifications
-    - "2024-12-20" # Camera Ready
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
   note: Emphasizes concise research contributions and posters.
@@ -1412,10 +1404,6 @@
   link: https://conf.researchr.org/track/saner-2025/saner-2025-registered-report-track
   deadline:
     - "2024-11-04" # RR Submission
-    - "2024-12-02" # First Notification
-    - "2024-12-09" # Second Round Submission
-    - "2024-12-20" # Final Notification
-    - "2025-01-07" # Accepted RR Report to arXiv Submission
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
   note: Includes multiple stages for submission, revision, and final notifications.
@@ -1427,7 +1415,6 @@
   link: https://conf.researchr.org/track/saner-2025/saner-2025-student-volunteers
   deadline:
     - "2024-12-25" # Application Deadline
-    - "2025-01-03" # Notifications
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
   note: Provides opportunities for students to engage with the conference as volunteers.
@@ -1438,10 +1425,7 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-papers
   deadline:
-    - "2024-10-04" # Abstract Submission
     - "2024-10-13" # Paper Submission
-    - "2024-11-29" # Author Notification
-    - "2024-12-27" # Camera Ready
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
   note: Mandatory abstract deadline for the research papers track.
@@ -1452,10 +1436,7 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-industrial-track
   deadline:
-    - "2024-11-01" # Abstract Submission Deadline
     - "2024-11-08" # Paper Submission Deadline
-    - "2024-12-18" # Notifications
-    - "2025-01-19" # Camera Ready
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
   note: Focused on industry-relevant research and case studies.
@@ -1467,8 +1448,6 @@
   link: https://conf.researchr.org/track/saner-2025/saner-2025-tool-demo-track
   deadline:
     - "2024-11-11" # Paper Submission Deadline
-    - "2024-12-13" # Notifications
-    - "2025-01-10" # Camera Ready
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
   note: Focus on demonstrations of tools and prototypes.
@@ -1479,9 +1458,7 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-early-research-achievement-era--track
   deadline:
-    - "2024-11-11" # Abstract Submission Deadline
     - "2024-11-18" # Paper Submission Deadline
-    - "2024-12-18" # Notifications
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
   note: Targeted at showcasing preliminary and exploratory research.
@@ -1493,7 +1470,6 @@
   link: https://conf.researchr.org/track/saner-2025/saner-2025-journal-first-track
   deadline:
     - "2024-12-03" # Paper Submission Deadline
-    - "2024-12-17" # Notifications
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
   note: Dedicated to journal-first publications.
