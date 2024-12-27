@@ -1370,10 +1370,9 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-tutorials-track
   deadline:
-    - "2024-12-20" # Submission Date
+    - "2024-12-20"
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
-  note: Includes a submission deadline, author notification, and camera-ready deadline.
   tags: [CO, TTBT]
 
 - name: SANER Reproducibility Studies and Negative Results (RENE) Track
@@ -1381,10 +1380,9 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-reproducibility-studies-and-negative-results-rene-track
   deadline:
-    - "2024-11-12" # Paper Submission Deadline
+    - "2024-11-12"
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
-  note: Focus on reproducibility studies and negative results with clear submission deadlines.
   tags: [CO, REST]
 
 - name: SANER Short Papers and Posters Track
@@ -1392,10 +1390,9 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-short-papers-and-posters-track
   deadline:
-    - "2024-11-11" # Paper Submission Deadline
+    - "2024-11-11"
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
-  note: Emphasizes concise research contributions and posters.
   tags: [CO, SPT]
 
 - name: SANER Registered Report Track
@@ -1403,10 +1400,9 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-registered-report-track
   deadline:
-    - "2024-11-04" # RR Submission
+    - "2024-11-04"
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
-  note: Includes multiple stages for submission, revision, and final notifications.
   tags: [CO, RRT]
 
 - name: SANER Student Volunteers
@@ -1414,10 +1410,9 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-student-volunteers
   deadline:
-    - "2024-12-25" # Application Deadline
+    - "2024-12-25"
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
-  note: Provides opportunities for students to engage with the conference as volunteers.
   tags: [CO, DOS]
 
 - name: SANER Research Papers
@@ -1425,10 +1420,10 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-papers
   deadline:
-    - "2024-10-13" # Paper Submission
+    - "2024-10-13"
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
-  note: Mandatory abstract deadline for the research papers track.
+  note: Mandatory abstract deadline on October 4, 2024 for the research papers track.
   tags: [CO, RPT]
 
 - name: SANER Industrial Track
@@ -1436,10 +1431,9 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-industrial-track
   deadline:
-    - "2024-11-08" # Paper Submission Deadline
+    - "2024-11-08"
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
-  note: Focused on industry-relevant research and case studies.
   tags: [CO, IPT]
 
 - name: SANER Tool Demo Track
@@ -1447,10 +1441,9 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-tool-demo-track
   deadline:
-    - "2024-11-11" # Paper Submission Deadline
+    - "2024-11-11"
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
-  note: Focus on demonstrations of tools and prototypes.
   tags: [CO, TOT]
 
 - name: SANER Early Research Achievement (ERA) Track
@@ -1458,10 +1451,9 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-early-research-achievement-era--track
   deadline:
-    - "2024-11-18" # Paper Submission Deadline
+    - "2024-11-18"
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
-  note: Targeted at showcasing preliminary and exploratory research.
   tags: [CO, NIER]
 
 - name: SANER Journal First Track
@@ -1469,8 +1461,7 @@
   year: 2025
   link: https://conf.researchr.org/track/saner-2025/saner-2025-journal-first-track
   deadline:
-    - "2024-12-03" # Paper Submission Deadline
+    - "2024-12-03"
   date: March 4 - March 7, 2025
   place: Montreal, QC, Canada
-  note: Dedicated to journal-first publications.
   tags: [CO, JFT]
