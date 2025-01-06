@@ -1,6 +1,6 @@
 # Contributor Guidelines
 
-Thank you for contributing to Software Engineering deadlines! Please follow these simple rules to ensure consistency and clarity in our repository.
+Thank you for contributing to Software Engineering deadlines! Please follow these rules to ensure consistency and clarity in the repository.
 
 ## Submission Deadlines
 
@@ -9,14 +9,14 @@ Thank you for contributing to Software Engineering deadlines! Please follow thes
 
 2. **Abstract Submission Deadline as Notes**:  
    - If a track has separate abstract submission deadline, please mention the abstract submission deadline as a **note** (e.g., "note: Mandatory abstract submission deadline on [date]").  
-   - We do not consider the abstract submission deadline as a primary deadline.
+   - We consider the submission deadline as the final deadline, hence is the deadline submitted within the page.
 
 3. **Exclude Non-Author Deadlines**:  
-   - Do not include deadlines such as notification, camera-ready, or other administrative dates.
+   - Currently we are not including other types of deadlines such as notification, camera-ready, or other administrative deadlines. Hence, do not include such dates.
 
 ## Formatting
 
 - Ensure all dates are clear and accurate.  
 - Use consistent formatting for dates (e.g., `YYYY-MM-DD HH:MM`).  
 
-By adhering to these guidelines, you help maintain a clean and focused repository for all our users. Thank you for your cooperation!
+By adhering to these guidelines, you help maintain a clean and focused repository for everyone. Thank you for your cooperation!
