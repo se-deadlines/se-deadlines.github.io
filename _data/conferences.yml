@@ -729,7 +729,7 @@
   year: 2025
   link: https://conf.researchr.org/track/esem-2025/esem-2025-industrial-track-
   deadline: 
-  - "2054-05-16 23:59"
+  - "2025-05-16 23:59"
   date: September 29 - October 3, 2025
   place: Honolulu, Hawai, USA
   tags: [CO, IPT]
@@ -866,23 +866,24 @@
 # SecDev
 - name: SecDev
   description: IEEE Secure Development Conference
-  year: 2024
-  link: https://secdev.ieee.org/2024/cfp/
+  year: 2025
+  link: https://secdev.ieee.org/2025/cfp/
   deadline: 
-  - "2024-05-14 23:59"
+  - "2025-05-13 23:59"
   date: October 7-10, 2024
-  place: Pittsburgh, Pennsylvania, United States
-  tags: [CO, RPT, SPT, IPT, TTBT]
+  place: Indianapolis, IN, United States
+  tags: [CO, RPT, SPT, TTBT]
 
 # ISSRE
 - name: ISSRE
   description: International Symposium on Software Reliability Engineering - Research Track
-  year: 2024
-  link: https://issre.github.io/2024/calls_cfp-research.html
+  year: 2025
+  link: https://issre.github.io/2025/calls_cfp-research.html
   deadline: 
-  - "2024-05-15 23:59"
-  date: October 28-31, 2024
-  place: Tsukuba, Japan
+  - "2025-05-05 23:59"
+  date: October 21-24, 2025
+  place: Sao Paulo, Brazil
+  note: Mandatory abstract deadline on April 28 2025.
   tags: [CO, RPT]
 
 - name: ISSRE-IT
