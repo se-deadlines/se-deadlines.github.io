@@ -13,8 +13,6 @@
   note: Mandatory abstract deadline on March 7 (first deadline) and July 11 (second deadline) 2025.
   tags: [CO, RPT]
    
-# ICSEs
-
 - name: ICSE-SEIP
   description: International Conference on Software Engineering - Software Engineering in Practice
   year: 2025
@@ -643,13 +641,13 @@
 #AIware
 - name: AIware
   description: International Conference on AIware - Main Track
-  year: 2024
-  link: https://2024.aiwareconf.org/track/aiware-2024-papers
+  year: 2025
+  link: https://2025.aiwareconf.org/
   deadline: 
-  - "2024-04-05 23:59"
-  date: July 15 - 19, 2024 co-hosted with FSE 2024
-  place: Porto de Galinhas, Brazil, Brazil
-  note: Optional intent submission on March 29 2024.
+  - "2024-07-12 23:59"
+  date: November 20 - November 21, 2025
+  place: Seoul, South Korea
+  note: Optional intent submission on Jul 15 2025.
   tags: [CO, RPT]
 
 - name: AIware-CT
@@ -687,199 +685,74 @@
 # ESEIW&ESEM
 - name: ESEM
   description: International Symposium on Empirical Software Engineering and Measurement - Technical Papers Track
-  year: 2024
-  link: https://conf.researchr.org/track/esem-2024/esem-2024-technical-track
+  year: 2025
+  link: https://conf.researchr.org/track/esem-2025/esem-2025-technical-track
   deadline: 
-  - "2024-05-06 23:59"
-  date: October 20-25, 2024
-  place: Barcelona, Spain
-  note: Mandatory abstract deadline on May 2 2024.
+  - "2025-04-25 23:59"
+  date: September 29 - October 3, 2025
+  place: Honolulu, Hawai, USA
+  note: Mandatory abstract deadline on Apr 18, 2025.
   tags: [CO, RPT]
 
 - name: ESEM-ERVR
   description: International Symposium on Empirical Software Engineering and Measurement - Emerging Results, Vision and Reflection Papers
-  year: 2024
-  link: https://conf.researchr.org/track/esem-2024/esem-2024-emerging-results-vision-and-reflection-papers
+  year: 2025
+  link: https://conf.researchr.org/track/esem-2025/esem-2025-vision-and-emerging-results-track-
   deadline: 
-  - "2024-06-07 23:59"
-  note: Mandatory abstract deadline on May 30 2024.
-  date: October 20-25, 2024
-  place: Barcelona, Spain
+  - "2025-05-16 23:59"
+  date: September 29 - October 3, 2025
+  place: Honolulu, Hawai, USA
   tags: [CO, NIER]
 
 - name: ESEM-RR
   description: International Symposium on Empirical Software Engineering and Measurement - Registered Reports
-  year: 2024
-  link: https://conf.researchr.org/track/esem-2024/esem-2024-registered-reports
+  year: 2025
+  link: https://conf.researchr.org/track/esem-2025/esem-2025-registered-reports-track-
   deadline: 
-  - "2024-05-06 23:59"
-  date: October 20-25, 2024
-  place: Barcelona, Spain
+  - "2025-04-14 23:59"
+  date: September 29 - October 3, 2025
+  place: Honolulu, Hawai, USA
   tags: [CO, RRT]
 
 - name: ESEM-JFP
   description: International Symposium on Empirical Software Engineering and Measurement - Journal-First Papers
-  year: 2024
-  link: https://conf.researchr.org/track/esem-2024/esem-2024-journal-first
+  year: 2025
+  link: https://conf.researchr.org/track/esem-2025/esem-2025-journal-first-track
   deadline: 
-  - "2024-07-01 23:59"
-  date: October 20-25, 2024
-  place: Barcelona, Spain
+  - "2025-07-01 23:59"
+  date: September 29 - October 3, 2025
+  place: Honolulu, Hawai, USA
   tags: [CO, JFT]
 
 - name: ESEM-IGC
   description: International Symposium on Empirical Software Engineering and Measurement - Industry, Government, and Community
-  year: 2024
-  link: https://conf.researchr.org/track/esem-2024/esem-2024-industry-government-community
+  year: 2025
+  link: https://conf.researchr.org/track/esem-2025/esem-2025-industrial-track-
   deadline: 
-  - "2024-07-01 23:59"
-  date: October 20-25, 2024
-  place: Barcelona, Spain
+  - "2054-05-16 23:59"
+  date: September 29 - October 3, 2025
+  place: Honolulu, Hawai, USA
   tags: [CO, IPT]
 
 - name: ESEM-RP
   description: International Symposium on Empirical Software Engineering and Measurement - Research Projects
-  year: 2024
-  link: https://conf.researchr.org/track/esem-2024/esem-2024-esem-research-projects
+  year: 2025
+  link: https://conf.researchr.org/track/esem-2025/esem-2025-research-projects-track-
   deadline: 
-  - "2024-06-15 23:59"
-  date: October 20-25, 2024
-  place: Barcelona, Spain
+  - "2025-06-06 23:59"
+  date: September 29 - October 3, 2025
+  place: Honolulu, Hawai, USA
   tags: [CO, RPT]
 
 - name: ESEM-IDoESE
   description: International Doctoral Symposium on Empirical Software Engineering
-  year: 2024
-  link: https://conf.researchr.org/track/esem-2024/esem-2024-doctoral-symposium
+  year: 2025
+  link: https://conf.researchr.org/track/esem-2025/esem-2025-idoese---doctoral-symposium-
   deadline: 
-  - "2024-06-26 23:59"
-  date: October 20-25, 2024
+  - "2025-06-06 23:59"
+  date: September 29 - October 3, 2025
   place: Barcelona, Spain
   tags: [CO, DOS]
-
-
-# ASE
-- name: ASE
-  description: International Conference on Automated Software Engineering - Research Papers
-  year: 2024
-  link: https://conf.researchr.org/track/ase-2024/ase-2024-research
-  deadline: 
-  - "2024-06-07 23:59"
-  date: October 27-November 1, 2024
-  note: Mandatory abstract deadline on May 31 2024.
-  place: Sacramento, California, United States
-  tags: [CO, RPT]
-
-- name: ASE-IS
-  description: International Conference on Automated Software Engineering - Industry Showcase
-  year: 2024
-  link: https://conf.researchr.org/track/ase-2024/ase-2024-industry-showcase
-  deadline: 
-  - "2024-07-12 23:59"
-  date: October 27-November 1, 2024
-  place: Sacramento, California, United States
-  tags: [CO, IPT]
-
-- name: ASE-JF
-  description: International Conference on Automated Software Engineering - Journal-first Papers
-  year: 2024
-  link: https://conf.researchr.org/track/ase-2024/ase-2024-journal-first-papers
-  deadline: 
-  - "2024-07-02 23:59"
-  date: October 20-25, 2024
-  place: Sacramento, California, United States
-  tags: [CO, JFT]
-
-- name: ASE-TD
-  description: International Conference on Automated Software Engineering - Tool Demonstrations
-  year: 2024
-  link: https://conf.researchr.org/track/ase-2024/ase-2024-tool-demonstrations
-  deadline: 
-  - "2024-06-26 23:59"
-  date: October 27-November 1, 2024
-  place: Sacramento, California, United States
-  tags: [CO, TOT]
-
-- name: ASE-NIER
-  description: International Conference on Automated Software Engineering - New Ideas and Emerging Results
-  year: 2024
-  link: https://conf.researchr.org/track/ase-2024/ase-2024-nier-track
-  deadline: 
-  - "2024-06-17 23:59"
-  date: October 27-November 1, 2024
-  place: Sacramento, California, United States
-  note: Mandatory abstract deadline on June 14 2024.
-  tags: [CO, NIER]
-
-- name: ASE-SRC
-  description: International Conference on Automated Software Engineering - Student Research Competition
-  year: 2024
-  link: https://conf.researchr.org/track/ase-2024/ase-2024-student-research-competition-
-  deadline: 
-  - "2024-07-22 23:59"
-  date: October 27-November 1, 2024
-  place: Sacramento, California, United States
-  tags: [CO, SRC]
-
-- name: ASE-DS
-  description: International Conference on Automated Software Engineering - Doctoral Symposium
-  year: 2024
-  link: https://conf.researchr.org/track/ase-2024/ase-2024-doctoral-symposium
-  deadline: 
-  - "2024-08-01 23:59"
-  date: October 27-November 1, 2024
-  place: Sacramento, California, United States
-  tags: [CO, DOS]
-
-- name: RENE
-  description: Replications and Negative Results
-  year: 2024
-  link: https://conf.researchr.org/track/ase-2024/ase-2024--workshop--rene
-  deadline: 
-  - "2024-08-02 23:59"
-  date: October 27-November 1, 2024 with ASE 2024
-  place: Sacramento, California, United States
-  tags: [WO]
-
-- name: ASYDE
-  description: International Workshop on Automated and verifiable Software sYstem DEvelopment
-  year: 2024
-  link: https://asyde-series.github.io/asyde2024/
-  deadline: 
-  - "2024-07-28 23:59"
-  date: October 27-November 1, 2024 with ASE 2024
-  place: Sacramento, California, United States
-  tags: [WO]
-
-- name: HCSE&CS
-  description: Workshop on Human Centric Software Engineering and Cyber Security
-  year: 2024
-  link: https://research.csiro.au/cybersecurity-quantum-systems/hcse-cs-2024/
-  deadline: 
-  - "2024-08-02 23:59"
-  date: October 27-November 1, 2024 with ASE 2024
-  place: Sacramento, California, United States
-  tags: [WO]
-
-- name: A-Mobile
-  description: International Workshop on Advances in Mobile App Analysis
-  year: 2024
-  link: https://research.csiro.au/cybersecurity-quantum-systems/hcse-cs-2024/
-  deadline: 
-  - "2024-08-02 23:59"
-  date: October 27-November 1, 2024 with ASE 2024
-  place: Sacramento, California, United States
-  tags: [WO]
-
-- name: VARSE
-  description: International Workshop on Virtual and Augmented Reality Software Engineering
-  year: 2024
-  link: https://varse-events.github.io/varse2024/
-  deadline: 
-  - "2024-08-10 23:59"
-  date: October 27-November 1, 2024 with ASE 2024
-  place: Sacramento, California, United States
-  tags: [WO]
 
 # CSEE&T
 - name: CSEE&T
@@ -903,7 +776,6 @@
   date: October 18, 2024 with ACM CCS 2024
   place: Salt Lake City, Utah, United States
   tags: [WO, RPT, IPT]
-
 
 # ICSMEs
 - name: ICSME
@@ -1222,6 +1094,57 @@
   date: November 16 - November 20, 2025
   place: Seoul, South Korea
   tags: [CO, RPT]
+
+- name: ASE-JFT
+  description: International Conference on Automated Software Engineering (ASE) - Journal-First Track
+  year: 2025
+  link: https://conf.researchr.org/track/ase-2025/ase-2025-journal-first-track
+  deadline: 
+  - "2025-09-01 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [CO, JFT]
+
+
+- name: ASE-IS
+  description: International Conference on Automated Software Engineering (ASE) - Industry Showcase
+  year: 2025
+  link: https://conf.researchr.org/track/ase-2025/ase-2025-industry-showcase
+  deadline: 
+  - "2025-08-01 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [CO, IPT]
+
+- name: ASE-NIER
+  description: International Conference on Automated Software Engineering (ASE) - New Ideas and Emerging Results Track
+  year: 2025
+  link: https://conf.researchr.org/track/ase-2025/ase-2025-nier-track
+  deadline: 
+  - "2025-07-12 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [CO, NIER]
+
+- name: ASE-TDT
+  description: International Conference on Automated Software Engineering (ASE) - Tool Demonstration Track
+  year: 2025
+  link: https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track
+  deadline: 
+  - "2025-07-23 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [CO, TOT]
+
+- name: ASE-SRC
+  description: International Conference on Automated Software Engineering (ASE) - Student Research Competition
+  year: 2025
+  link: https://conf.researchr.org/track/ase-2025/ase-2025-student-research-competition
+  deadline: 
+  - "2025-07-12 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [CO, SRC]
 
 - name: EASE-SPER
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Short Papers, Emerging Results
