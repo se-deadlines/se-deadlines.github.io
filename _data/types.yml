@@ -74,3 +74,6 @@
 - name: Challenge track
   tag: CHT
   type: others
+- name: Fast abstracts track
+  tag: FAB
+  type: others

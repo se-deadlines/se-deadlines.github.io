@@ -644,7 +644,7 @@
   year: 2025
   link: https://2025.aiwareconf.org/
   deadline: 
-  - "2024-07-12 23:59"
+  - "2025-07-25 23:59"
   date: November 20 - November 21, 2025
   place: Seoul, South Korea
   note: Optional intent submission on Jul 15 2025.
@@ -784,73 +784,83 @@
   link: https://conf.researchr.org/track/icsme-2025/icsme-2025-papers
   deadline: 
   - "2025-03-13 23:59"
-  date: September 8-13, 2025
+  date: September 7-12, 2025
   place: Auckland, New Zealand
   note: Mandatory abstract deadline on March 6, 2025.
   tags: [CO, RPT]
 
 - name: ICSME-NIER
   description: International Conference on Software Maintenance and Evolution - New Ideas and Emerging Results
-  year: 2024
-  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-new-ideas-and-emerging-results-track
+  year: 2025
+  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-nier
   deadline: 
-  - "2024-06-25 23:59"
-  date: October 6-11, 2024
-  place: Flagstaff, Arizona, United States
-  note: Mandatory abstract deadline on June 20 2024.
+  - "2025-06-05 23:59"
+  date: September 7-12, 2025
+  place: Auckland, New Zealand
+  note: Mandatory abstract deadline on May 30 2025.
   tags: [CO, NIER]
 
 - name: ICSME-ROSE
   description: International Conference on Software Maintenance and Evolution - Artifact Evaluation Track and ROSE Festival
-  year: 2024
-  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-artifact-evaluation-track-and-rose-festival
+  year: 2025
+  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-artifact---rose
   deadline: 
-  - "2024-07-19 23:59"
-  date: October 6-11, 2024
-  place: Flagstaff, Arizona, United States
+  - "2025-07-19 23:59"
+  date: September 7-12, 2025
+  place: Auckland, New Zealand
   tags: [CO, ART]
 
 - name: ICSME-RRT
   description: International Conference on Software Maintenance and Evolution - Registered Reports Track
-  year: 2024
-  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-registered-reports-track
+  year: 2025
+  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-registered-reports
   deadline: 
-  - "2024-05-31 23:59"
-  date: October 6-11, 2024
-  place: Flagstaff, Arizona, United States
+  - "2025-05-20 23:59"
+  date: September 7-12, 2025
+  place: Auckland, New Zealand
   tags: [CO, RRT]
 
 
 - name: ICSME-TDT
   description: International Conference on Software Maintenance and Evolution - Tool Demo Track
-  year: 2024
-  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-tool-demo-track
+  year: 2025
+  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-tool-demonstration
   deadline: 
-  - "2024-06-27 23:59"
-  date: October 6-11, 2024
-  place: Flagstaff, Arizona, United States
+  - "2025-06-27 23:59"
+  date: September 7-12, 2025
+  place: Auckland, New Zealand
   tags: [CO, TOT]
 
 - name: ICSME-IT
   description: International Conference on Software Maintenance and Evolution - Industry Track
-  year: 2024
-  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-industry-track
+  year: 2025
+  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track
   deadline: 
-  - "2024-06-26 23:59"
-  date: October 6-11, 2024
-  place: Flagstaff, Arizona, United States
-  note: Mandatory abstract deadline on June 20 2024.
+  - "2025-05-18 23:59"
+  date: September 7-12, 2025
+  place: Auckland, New Zealand
+  note: Mandatory abstract deadline on May 11 2025.
   tags: [CO, IPT]
 
 - name: ICSME-JF
   description: International Conference on Software Maintenance and Evolution - Journal First Track
-  year: 2024
-  link: https://conf.researchr.org/track/icsme-2024/icsme-2024-journal-first-track
+  year: 2025
+  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-journal-first
   deadline: 
-  - "2024-06-17 23:59"
-  date: October 6-11, 2024
-  place: Flagstaff, Arizona, United States
+  - "2025-06-06 23:59"
+  date: September 7-12, 2025
+  place: Auckland, New Zealand
   tags: [CO, JFT]
+
+- name: ICSME-DS
+  description: International Conference on Software Maintenance and Evolution - Doctoral Symposium
+  year: 2025
+  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-doctoral-symposium
+  deadline: 
+  - "2025-06-12 23:59"
+  date: September 7-12, 2025
+  place: Auckland, New Zealand
+  tags: [CO, DOS]
 
 # ISSTA
 - name: ISSTA
@@ -888,23 +898,54 @@
 
 - name: ISSRE-IT
   description: International Symposium on Software Reliability Engineering - Industry Track
-  year: 2024
-  link: https://issre.github.io/2024/calls_cfp-research.html
+  year: 2025
+  link: https://issre.github.io/2025/calls_cfp-industry.html
   deadline: 
-  - "2024-06-21 23:59"
-  date: October 28-31, 2024
-  place: Tsukuba, Japan
+  - "2025-07-05 23:59"
+  date: October 21-24, 2025
+  place: Sao Paulo, Brazil
+  note: Mandatory abstract deadline on June 28 2025.
   tags: [CO, IPT]
+
+- name: ISSRE-FA
+  description: International Symposium on Software Reliability Engineering - Fast Abstracts
+  year: 2025
+  link: https://issre.github.io/2025/calls_cfp-fast-abstracts.html
+  deadline: 
+  - "2025-07-31 23:59"
+  date: October 21-24, 2025
+  place: Sao Paulo, Brazil
+  tags: [CO, FAB]
+
+- name: ISSRE-J1C2
+  description: International Symposium on Software Reliability Engineering - Journal First, Conference Second
+  year: 2025
+  link: https://issre.github.io/2025/calls_cfp-j1c2.html
+  deadline: 
+  - "2025-07-16 23:59"
+  date: October 21-24, 2025
+  place: Sao Paulo, Brazil
+  tags: [CO, JFT]
 
 - name: ISSRE-DOS
   description: International Symposium on Software Reliability Engineering - Doctoral Symposium
-  year: 2024
-  link: https://issre.github.io/2024/calls_cfp-research.html
+  year: 2025
+  link: https://issre.github.io/2025/calls_cfp-doctoral_symposium.html
   deadline: 
-  - "2024-07-23 23:59"
-  date: October 28-31, 2024
-  place: Tsukuba, Japan
+  - "2025-07-13 23:59"
+  date: October 21-24, 2025
+  place: Sao Paulo, Brazil
   tags: [CO, DOS]
+
+- name: ISSRE-ART
+  description: International Symposium on Software Reliability Engineering - Artifacts
+  year: 2025
+  link: https://issre.github.io/2025/calls_cfp-artifact_evaluation.html
+  deadline: 
+  - "2025-08-19 23:59"
+  date: October 21-24, 2025
+  place: Sao Paulo, Brazil
+  tags: [CO, ART]
 
 #SANER
 - name: SANER
