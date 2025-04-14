@@ -73,15 +73,6 @@
   place: Ottawa, Ontario, Canada
   tags: [CO, TTBT]
 
-- name: ICSE-NFS
-  description: International Conference on Software Engineering - New Faculty Symposium
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2025/icse-2025-new-faculty-symposium
-  deadline: ["TBA"]
-  date: April 26 - May 4, 2025
-  place: Ottawa, Ontario, Canada
-  tags: [CO, NFS]
-
 - name: ICSE-SRC
   description: International Conference on Software Engineering - Student Research Competition
   year: 2025
@@ -1040,15 +1031,6 @@
   note: There are multiple deadlines for different stages (check the call for papers).
   tags: [CO, RRT]
 
-- name: MSR-VR
-  description: Mining Software Repositories - Vision and Reflection
-  year: 2025
-  link: https://2025.msrconf.org/track/msr-2025-vision-and-reflection
-  deadline: ["TBA"]
-  date: April 28 - April 29, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [CO, NIER]
-
 - name: MSR-MC
   description: Mining Software Repositories - Mining Challenge
   year: 2025
@@ -1223,7 +1205,8 @@
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Journal-first
   year: 2025
   link: https://conf.researchr.org/track/ease-2025/ease-2025-journal-first
-  deadline: ["TBA"]
+  deadline:
+   - "2025-03-20 23:59"
   date: June 17 - June 20, 2025
   place: Istanbul, Turkey
   tags: [CO, JFT]
