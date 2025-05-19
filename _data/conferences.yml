@@ -620,13 +620,12 @@
 #PROMISE
 - name: PROMISE
   description: International Conference on Predictive Models and Data Analytics in Software Engineering
-  year: 2024
-  link: https://conf.researchr.org/home/promise-2024
+  year: 2025
+  link: https://conf.researchr.org/home/promise-2025
   deadline: 
-   - "2024-03-28 23:59"
-  date: July 16, 2024 co-hosted with FSE 2024
-  place: Porto de Galinhas, Brazil, Brazil
-  note: Mandatory abstract deadline on March 22 2024.
+   - "2025-02-28 23:59"
+  date: June 26, 2025 co-hosted with FSE 2025
+  place: Trondheim, Norway
   tags: [CO, RPT, IPT, NIER, JFT]
 
 #AIware
@@ -1264,6 +1263,38 @@
   - "2025-03-20 23:59"
   tags: [JO]
 
+- name: IST-AISOC
+  description: Information and Software Technology - Artificial Intelligence and Service Oriented Computing (AI&SoC)
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/317558/artificial-intelligence-and-service-oriented-computing-aisoc
+  deadline: 
+  - "2025-05-31 23:59"
+  tags: [JO]
+
+- name: IST-NEXTGEN
+  description: Information and Software Technology - Next-Generation Model-Based Software Engineering with Foundation Models
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/318822/next-generation-model-based-software-engineering-with-foundation-models
+  deadline: 
+  - "2025-05-31 23:59"
+  tags: [JO]
+
+- name: IST-REG
+  description: Information and Software Technology - Regulatory Compliance in Software Engineering
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/319254/regulatory-compliance-in-software-engineering
+  deadline: 
+  - "2025-09-05 23:59"
+  tags: [JO]
+
+- name: IST-GENAI
+  description: Information and Software Technology - Engineering GenAI-enabled Software Systems
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/322047/engineering-genai-enabled-software-systems
+  deadline: 
+  - "2025-10-31 23:59"
+  tags: [JO]
+
 # JSS
 - name: JSS-QAICT
   description: Journal of Systems and Software - Quality Assurance in ICT-based Systems
@@ -1297,7 +1328,6 @@
   - "2025-02-02 23:59"
   tags: [JO]
 
-
 - name: JSS-TSSPLE
   description: Journal of Systems and Software - Trends in Systems and Software Product Line Engineering
   year: 2025
@@ -1305,7 +1335,39 @@
   deadline: 
   - "2025-01-15 23:59"
   tags: [JO]
-  
+
+- name: JSS-EVASISE
+  description: Journal of Systems and Software - Evaluation and Assessment in Industrial Software Engineering
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/319732/evaluation-and-assessment-in-industrial-software-engineering
+  deadline: 
+  - "2025-06-09 23:59"
+  tags: [JO]
+
+- name: JSS-SETC
+  description: Journal of Systems and Software - Software engineering teaching cases
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/319782/software-engineering-teaching-cases
+  deadline: 
+  - "2025-01-12 23:59"
+  tags: [JO]
+
+- name: JSS-INTDEVOPS
+  description: Journal of Systems and Software - Intelligent DevOps for Performance, Sustainability, and Reliability
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/320414/intelligent-devops-for-performance-sustainability-and-reliability
+  deadline: 
+  - "2025-09-30 23:59"
+  tags: [JO]
+
+- name: JSS-REFSQ
+  description: Journal of Systems and Software - REFSQ 2025 - Social REsponsibility
+  year: 2025
+  link: https://www.sciencedirect.com/special-issue/321600/refsq-2025-social-responsibility
+  deadline: 
+  - "2025-11-01 23:59"
+  tags: [JO]
+
 - name: VehicleSec
   description: USENIX Vehicle Security and Privacy
   year: 2025
