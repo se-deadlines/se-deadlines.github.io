@@ -439,13 +439,13 @@
 # ESEC/FSE
 - name: FSE
   description: International Conference on the Foundations of Software Engineering - Research Papers
-  year: 2025
-  link: https://conf.researchr.org/track/fse-2025/fse-2025-research-papers
+  year: 2026
+  link: https://conf.researchr.org/track/fse-2026/fse-2026-research-papers
   deadline: 
-  - "2024-09-12 23:59"
-  date: July 23 - 27, 2025
-  place: Trondheim, Norway
-  note: Mandatory abstract deadline on September 5 2024.
+  - "2025-09-11 23:59"
+  date: July 6 - 9, 2026
+  place: Montreal, Canada
+  note: Mandatory abstract deadline on September 4 2024.
   tags: [CO,RPT]
 
 - name: FSE-IP
@@ -760,12 +760,12 @@
 #SCORED
 - name: SCORED
   description: Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses
-  year: 2024
+  year: 2025
   link: https://scored.dev/
   deadline: 
-  - "2024-07-05 23:59"
-  date: October 18, 2024 with ACM CCS 2024
-  place: Salt Lake City, Utah, United States
+  - "2025-07-07 23:59"
+  date: October 17, 2025 with ACM CCS 2025
+  place: Taipei, Taiwan
   tags: [WO, RPT, IPT]
 
 # ICSMEs
