@@ -53,6 +53,16 @@
   place: Rio de Janeiro, Brazil
   tags: [CO, JFT]
 
+- name: ICSE-SEET
+  description: International Conference on Software Engineering - Software Engineering Education and Training
+  year: 2026
+  link: https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-education-and-training--seet-
+  deadline: 
+  - "2025-09-29 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [CO, EDT]
+
 - name: ICSE-DS
   description: International Conference on Software Engineering - Doctoral Symposium
   year: 2025
@@ -938,15 +948,90 @@
 
 #SANER
 - name: SANER
-  description: International Conference on Software Analysis, Evolution and Reengineering - Research Papers
-  year: 2025
-  link: https://conf.researchr.org/track/saner-2025/saner-2025-papers
+  description: International Conference on Software Analysis, Evolution and Reengineering - Research Track
+  year: 2026
+  link: https://conf.researchr.org/track/saner-2026/saner-2026-papers
   deadline: 
-  - "2024-10-11 23:59"
-  date: March 4 - 7, 2025
-  place: Montréal, Québec, Canada
-  note: Mandatory abstract deadline on October 4 2024.
+  - "2025-10-16 23:59"
+  date: March 17 - 20, 2026
+  place: Limassol, Cyprus
+  note: Mandatory abstract deadline on October 9 2025.
   tags: [CO, RPT]
+
+- name: SANER-IT
+  description: International Conference on Software Analysis, Evolution and Reengineering - Industrial Track
+  year: 2026
+  link: https://conf.researchr.org/track/saner-2026/saner-2026-industrial-track
+  deadline: 
+  - "2025-11-17 23:59"
+  date: March 17 - 20, 2026
+  place: Limassol, Cyprus
+  note: Mandatory abstract deadline on November 10 2025.
+  tags: [CO, IPT]
+
+
+- name: SANER-ERA
+  description: International Conference on Software Analysis, Evolution and Reengineering - Early Research Achievement
+  year: 2026
+  link: https://conf.researchr.org/track/saner-2026/saner-2026-early-research-achievement-era--track
+  deadline: 
+  - "2025-11-17 23:59"
+  date: March 17 - 20, 2026
+  place: Limassol, Cyprus
+  note: Mandatory abstract deadline on November 10 2025.
+  tags: [CO, NIER]
+
+- name: SANER-SP&PT
+  description: International Conference on Software Analysis, Evolution and Reengineering - Short Papers and Posters Track
+  year: 2026
+  link: https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track
+  deadline: 
+  - "2025-11-17 23:59"
+  date: March 17 - 20, 2026
+  place: Limassol, Cyprus
+  note: Mandatory abstract deadline on November 10 2025.
+  tags: [CO, SPT]
+
+- name: SANER-RENE
+  description: International Conference on Software Analysis, Evolution and Reengineering - Reproducibility Studies and Negative Results Track
+  year: 2026
+  link: https://conf.researchr.org/track/saner-2026/saner-2026-reproducibility-studies-and-negative-results-rene-track
+  deadline: 
+  - "2025-11-17 23:59"
+  date: March 17 - 20, 2026
+  place: Limassol, Cyprus
+  note: Mandatory abstract deadline on November 10 2025.
+  tags: [CO, SPT]
+
+- name: SANER-JFT
+  description: International Conference on Software Analysis, Evolution and Reengineering - Journal First Track
+  year: 2026
+  link: https://conf.researchr.org/track/saner-2026/saner-2026-journal-first-track
+  deadline: 
+  - "2025-12-08 23:59"
+  date: March 17 - 20, 2026
+  place: Limassol, Cyprus
+  tags: [CO, JFT]
+
+- name: SANER-TDT
+  description: International Conference on Software Analysis, Evolution and Reengineering - Tool Demo Track
+  year: 2026
+  link: https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track
+  deadline: 
+  - "2025-11-17 23:59"
+  date: March 17 - 20, 2026
+  place: Limassol, Cyprus
+  tags: [CO, TOT]
+
+- name: SANER-RR
+  description: International Conference on Software Analysis, Evolution and Reengineering - Registered Report Track
+  year: 2026
+  link: https://conf.researchr.org/track/saner-2026/saner-2026-registered-report-track-
+  deadline: 
+  - "2025-11-07 23:59"
+  date: March 17 - 20, 2026
+  place: Limassol, Cyprus
+  tags: [CO, RRT]
 
 #AST
 
@@ -1173,7 +1258,7 @@
   tags: [CO, RPT]
 
 # ASE 2025
-- name: ASE-RPT
+- name: ASE
   description: International Conference on Automated Software Engineering (ASE) - Research Paper Track
   year: 2025
   link: https://conf.researchr.org/home/ase-2025
@@ -1234,6 +1319,19 @@
   place: Seoul, South Korea
   tags: [CO, SRC]
 
+#SSBSE
+
+- name: SSBSE
+  description: Symposium on Search-Based Software Engineering - Research Paper Track
+  year: 2025
+  link: https://conf.researchr.org/home/ssbse-2025
+  deadline: 
+  - "2025-08-21 23:59"
+  date: November 16 - November 20, 2025 with ASE 2025
+  place: Seoul, South Korea
+  tags: [CO, RPT]
+
+#EASE
 - name: EASE-SPER
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Short Papers, Emerging Results
   year: 2025
@@ -1440,105 +1538,3 @@
   deadline: 
   - "2025-02-27 23:59"
   tags: [CO]
-
-# SANER
-- name: SANER Tutorials Track
-  description: International Conference on Software Analysis, Evolution, and Reengineering - Tutorials Track
-  year: 2025
-  link: https://conf.researchr.org/track/saner-2025/saner-2025-tutorials-track
-  deadline:
-    - "2024-12-20"
-  date: March 4 - March 7, 2025
-  place: Montreal, QC, Canada
-  tags: [CO, TTBT]
-
-- name: SANER Reproducibility Studies and Negative Results (RENE) Track
-  description: International Conference on Software Analysis, Evolution, and Reengineering - Reproducibility and Negative Results Track
-  year: 2025
-  link: https://conf.researchr.org/track/saner-2025/saner-2025-reproducibility-studies-and-negative-results-rene-track
-  deadline:
-    - "2024-11-12"
-  date: March 4 - March 7, 2025
-  place: Montreal, QC, Canada
-  tags: [CO, REST]
-
-- name: SANER Short Papers and Posters Track
-  description: International Conference on Software Analysis, Evolution, and Reengineering - Short Papers and Posters Track
-  year: 2025
-  link: https://conf.researchr.org/track/saner-2025/saner-2025-short-papers-and-posters-track
-  deadline:
-    - "2024-11-11"
-  date: March 4 - March 7, 2025
-  place: Montreal, QC, Canada
-  tags: [CO, SPT]
-
-- name: SANER Registered Report Track
-  description: International Conference on Software Analysis, Evolution, and Reengineering - Registered Reports Track
-  year: 2025
-  link: https://conf.researchr.org/track/saner-2025/saner-2025-registered-report-track
-  deadline:
-    - "2024-11-04"
-  date: March 4 - March 7, 2025
-  place: Montreal, QC, Canada
-  tags: [CO, RRT]
-
-- name: SANER Student Volunteers
-  description: International Conference on Software Analysis, Evolution, and Reengineering - Student Volunteers
-  year: 2025
-  link: https://conf.researchr.org/track/saner-2025/saner-2025-student-volunteers
-  deadline:
-    - "2024-12-25"
-  date: March 4 - March 7, 2025
-  place: Montreal, QC, Canada
-  tags: [CO, DOS]
-
-- name: SANER Research Papers
-  description: International Conference on Software Analysis, Evolution, and Reengineering - Research Papers Track
-  year: 2025
-  link: https://conf.researchr.org/track/saner-2025/saner-2025-papers
-  deadline:
-    - "2024-10-13"
-  date: March 4 - March 7, 2025
-  place: Montreal, QC, Canada
-  note: Mandatory abstract deadline on October 4, 2024 for the research papers track.
-  tags: [CO, RPT]
-
-- name: SANER Industrial Track
-  description: International Conference on Software Analysis, Evolution, and Reengineering - Industrial Track
-  year: 2025
-  link: https://conf.researchr.org/track/saner-2025/saner-2025-industrial-track
-  deadline:
-    - "2024-11-08"
-  date: March 4 - March 7, 2025
-  place: Montreal, QC, Canada
-  tags: [CO, IPT]
-
-- name: SANER Tool Demo Track
-  description: International Conference on Software Analysis, Evolution, and Reengineering - Tool Demonstrations Track
-  year: 2025
-  link: https://conf.researchr.org/track/saner-2025/saner-2025-tool-demo-track
-  deadline:
-    - "2024-11-11"
-  date: March 4 - March 7, 2025
-  place: Montreal, QC, Canada
-  tags: [CO, TOT]
-
-- name: SANER Early Research Achievement (ERA) Track
-  description: International Conference on Software Analysis, Evolution, and Reengineering - Early Research Achievement Track
-  year: 2025
-  link: https://conf.researchr.org/track/saner-2025/saner-2025-early-research-achievement-era--track
-  deadline:
-    - "2024-11-18"
-  date: March 4 - March 7, 2025
-  place: Montreal, QC, Canada
-  tags: [CO, NIER]
-
-- name: SANER Journal First Track
-  description: International Conference on Software Analysis, Evolution, and Reengineering - Journal First Track
-  year: 2025
-  link: https://conf.researchr.org/track/saner-2025/saner-2025-journal-first-track
-  deadline:
-    - "2024-12-03"
-  date: March 4 - March 7, 2025
-  place: Montreal, QC, Canada
-  tags: [CO, JFT]
