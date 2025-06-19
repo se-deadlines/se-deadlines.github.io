@@ -15,42 +15,42 @@
    
 - name: ICSE-SEIP
   description: International Conference on Software Engineering - Software Engineering in Practice
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-practice
+  year: 2026
+  link: https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-in-practice
   deadline: 
-  - "2024-10-10 23:59"
-  date: April 27 - May 3, 2025
-  place: Ottawa, Ontario, Canada
+  - "2025-09-29 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
   tags: [CO, IPT]
 
 - name: ICSE-SEIS
   description: International Conference on Software Engineering - Software Engineering in Society
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-society
+  year: 2026
+  link: https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-in-society
   deadline: 
-  - "2024-10-10 23:59"
-  date: April 27 - May 3, 2025
-  place: Ottawa, Ontario, Canada
+  - "2025-09-29 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
   tags: [CO, SOT]
 
 - name: ICSE-NIER
   description: International Conference on Software Engineering - New Ideas and Emerging Results
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2025/icse-2025-new-ideas-and-emerging-results
+  year: 2026
+  link: https://conf.researchr.org/track/icse-2026/icse-2026-nier
   deadline: 
-  - "2024-10-10 23:59"
-  date: April 27 - May 3, 2025
-  place: Ottawa, Ontario, Canada
+  - "2025-09-29 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
   tags: [CO, NIER]
 
 - name: ICSE-JF
   description: International Conference on Software Engineering - Journal-first Papers
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2025/icse-2025-journal-first-papers
+  year: 2026
+  link: https://conf.researchr.org/track/icse-2026/icse-2026-journal-first-papers
   deadline: 
-  - "2024-10-21 23:59"
-  date: April 26 - May 4, 2025
-  place: Ottawa, Ontario, Canada
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
   tags: [CO, JFT]
 
 - name: ICSE-DS
@@ -65,12 +65,12 @@
 
 - name: ICSE-T&TB
   description: International Conference on Software Engineering - Tutorials and Technical Briefings
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2025/icse-2025-tutorials
+  year: 2026
+  link: https://conf.researchr.org/track/icse-2026/icse-2026-tutorials
   deadline: 
-  - "2024-10-10 23:59"
-  date: April 26 - May 4, 2025
-  place: Ottawa, Ontario, Canada
+  - "2025-09-29 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
   tags: [CO, TTBT]
 
 - name: ICSE-SRC
@@ -85,12 +85,12 @@
 
 - name: ICSE-ICT
   description: International Conference on Software Engineering - Industry Challenge Track
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2025/icse-2025-industry-challenge-track
+  year: 2026
+  link: https://conf.researchr.org/track/icse-2026/icse-2026-industry-challenge-track
   deadline: 
-  - "2024-11-07 23:59"
-  date: April 26 - May 4, 2025
-  place: Ottawa, Ontario, Canada
+  - "2025-11-07 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
   tags: [CO, CHT]
 
 - name: Forge-Benchmarking
@@ -105,12 +105,11 @@
 
 - name: SMeW
   description: Student Mentoring Workshop
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2025/icse-2025-smew---student-mentoring-workshop
-  deadline: 
-  - "2024-10-21 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
+  year: 2026
+  link: https://conf.researchr.org/track/icse-2026/icse-2026-smew---student-mentoring-workshop
+  deadline: ["TBA"]
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
   tags: [WO]
 
 
@@ -949,52 +948,73 @@
   note: Mandatory abstract deadline on October 4 2024.
   tags: [CO, RPT]
 
+#AST
+
+- name: AST
+  description: International Conference on Automation of Software Test
+  year: 2026
+  link: https://conf.researchr.org/home/ast-2026#Call-for-Papers
+  deadline: 
+  - "2025-10-26 23:59"
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  tags: [CO, RPT, SPT, IPT]
+
+
 #CHASEs
 - name: CHASE
   description: International Conference on Cooperative and Human Aspects of Software Engineering - Full Papers
-  year: 2025
-  link: https://conf.researchr.org/track/chase-2025/chase-2025-papers
+  year: 2026
+  link: https://conf.researchr.org/track/chase-2026/chase-2026-papers
   deadline: 
-    - "2024-11-08 23:59"
-  date: April 27 - May 3, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  note: Recommended abstract deadline on November 1 2024.
-  tags: [CO, RPT, SPT, NIER]
+  - "2025-10-23 23:59"
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  note: Recommended abstract deadline on October 16 2025.
+  tags: [CO, RPT, SPT]
 
 #SEAMS
 - name: SEAMS
   description: International Conference on Software Engineering for Adaptive and Self-Managing Systems- Research Track
-  year: 2025
-  link: https://conf.researchr.org/track/seams-2025/seams-2025-research-track
+  year: 2026
+  link: https://conf.researchr.org/track/seams-2026/seams-2026-research-track
   deadline: 
-    - "2024-10-08 23:59"
-  date: April 27 - May 3, 2025 with ICSE 2025
-  note: Mandatory abstract deadline on October 1 2024.
-  place: Ottawa, Ontario, Canada
+    - "2025-10-23 23:59"
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  note: Mandatory abstract deadline on October 16 2024.
   tags: [CO, RPT]
 
 
 - name: SEAMS-AT
   description: International Conference on Software Engineering for Adaptive and Self-Managing Systems - Artifact Track
-  year: 2025
-  link: https://conf.researchr.org/track/seams-2025/seams-2025-artifact-track
+  year: 2026
+  link: https://conf.researchr.org/track/seams-2026/seams-2026-artifact-track
   deadline: 
-    - "2024-12-13 23:59"
-  date: April 27 - May 3, 2025 with ICSE 2025
-  note: Mandatory abstract deadline on December 6 2024.
-  place: Ottawa, Ontario, Canada
+    - "2025-12-11 23:59"
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  note: Mandatory abstract deadline on December 4 2024.
   tags: [CO, ART]
+
+- name: SEAMS-JF
+  description: International Conference on Software Engineering for Adaptive and Self-Managing Systems - Journal First Track
+  year: 2026
+  link: https://conf.researchr.org/track/seams-2026/seams-2026-journal-first-track
+  deadline: ["TBA"]
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  tags: [CO, JFT]
 
 #MSR
 - name: MSR
   description: Mining Software Repositories - Technical Papers
-  year: 2025
-  link: https://2025.msrconf.org/track/msr-2025-technical-papers
-  deadline: 
-    - "2024-11-09 23:59"
-  date: April 28 - April 29, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  note: Mandatory abstract deadline on November 6, 2024.
+  year: 2026
+  link: https://conf.researchr.org/track/msr-2026/msr-2026-technical-papers
+  deadline: ["TBA"]
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  note: Mandatory abstract deadline TBA.
   tags: [CO, RPT]
 
 - name: MSR-DTST
@@ -1041,6 +1061,51 @@
   note: Mandatory abstract deadline on Dec 3, 2024.
   tags: [CO, CHT]
 
+#CAIN
+
+- name: CAIN
+  description: International Conference on AI Engineering - Software Engineering for AIg - Research Track
+  year: 2026
+  link: https://conf.researchr.org/home/cain-2026
+  deadline: 
+  - "2025-10-23 23:59"
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  note: Recommended abstract deadline on October 16 2025.
+  tags: [CO, RPT]
+
+#TechDebt
+
+- name: TechDebt
+  description: International Conference on Technical Debt - Technical Papers
+  year: 2026
+  link: https://conf.researchr.org/track/TechDebt-2026/TechDebt-2026-main
+  deadline: 
+  - "2025-10-23 23:59"
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  note: Mandatory abstract deadline on October 16 2025.
+  tags: [CO, RPT]
+
+- name: TechDebt-JF
+  description: International Conference on Technical - Journal First Track
+  year: 2026
+  link: https://conf.researchr.org/track/TechDebt-2026/TechDebt-2026-journal-first
+  deadline: ["TBA"]
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  tags: [CO, JFT]
+
+- name: TechDebt-IT
+  description: International Conference on Technical - Industry Track
+  year: 2026
+  link: https://conf.researchr.org/committee/TechDebt-2026/TechDebt-2026-industry-track-industry-track-committee
+  deadline: ["TBA"]
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  tags: [CO, JFT]
+
+#REs
 - name: RE-RP
   description: Requirements Engineering - Research Papers
   year: 2025
