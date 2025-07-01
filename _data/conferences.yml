@@ -1190,6 +1190,17 @@
   place: Rio de Janeiro, Brazil
   tags: [CO, JFT]
 
+#FormaliSE
+- name: FormaliSE
+  description: FormaliSE - Research Track
+  year: 2026
+  link: https://2026.formalise.org/
+  deadline: 
+  - "2025-10-23 23:59"
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  tags: [CO, RPT]
+
 #REs
 - name: RE-RP
   description: Requirements Engineering - Research Papers
