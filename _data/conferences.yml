@@ -649,35 +649,31 @@
   note: Optional intent submission on Jul 15 2025.
   tags: [CO, RPT]
 
-- name: AIware-CT
-  description: International Conference on AIware - Challenge Track
-  year: 2024
-  link: https://2024.aiwareconf.org/track/aiware-2024-challenge-track
-  deadline: 
-  - "2024-04-24 23:59"
-  date: July 15 - 19, 2024 co-hosted with FSE 2024
-  place: Porto de Galinhas, Brazil, Brazil
+- name: AIware-B&T
+  description: International Conference on AIware - Benchmark & Dataset Track
+  year: 2025
+  link: https://2025.aiwareconf.org/track/aiware-2025-benchmark---dataset-track
+  date: November 20 - November 21, 2025
+  place: Seoul, South Korea
   tags: [CO, CHT]
 
-- name: AIware-ISDT
-  description: International Conference on AIware - Industry Statements and Demo Track
-  year: 2024
-  link: https://2024.aiwareconf.org/track/aiware-2024-industry-demo-track
-  deadline: 
-  - "2024-04-30 23:59"
-  date: July 15 - 19, 2024 co-hosted with FSE 2024
-  place: Porto de Galinhas, Brazil, Brazil
+- name: AIware-IDT
+  description: International Conference on AIware - Industry Demo Track
+  year: 2025
+  link: https://2025.aiwareconf.org/track/aiware-2025-industry-demo-track
+  deadline: ["TBA"]
+  date: November 20 - November 21, 2025
+  place: Seoul, South Korea
   tags: [CO, IPT, ART]
 
-- name: AIware-LBAT
-  description: International Conference on AIware - Late Breaking Arxiv Track
-  year: 2024
-  link: https://2024.aiwareconf.org/track/aiware-2024-late-breaking-arxiv-track
+- name: AIware-AXVT
+  description: International Conference on AIware - ArXiv Track
+  year: 2025
+  link: https://2025.aiwareconf.org/track/aiware-2025-arxiv-track
   deadline: 
-  - "2024-05-10 23:59"
-  - "2024-06-10 23:59"
-  date: July 15 - 19, 2024 co-hosted with FSE 2024
-  place: Porto de Galinhas, Brazil, Brazil
+  - "2025-09-05 23:59"
+  date: November 20 - November 21, 2025
+  place: Seoul, South Korea
   tags: [CO, LBT]
 
 
@@ -756,13 +752,13 @@
 # CSEE&T
 - name: CSEE&T
   description: Conference on Software Engineering Education and Training
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/cseet-2025
+  year: 2026
+  link: https://cseet26.techconf.org/
   deadline: 
-  - "2024-10-10 23:59"
-  date: April 27 - May 3, 2025  co-located with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  note: Mandatory abstract deadline on October 3 2024.
+  - "2026-02-10 23:59"
+  date: July 20-22, 2026
+  place: Florence, Italy
+  note: Mandatory abstract deadline on February 2026.
   tags: [CO, EDT]
 
 #SCORED
@@ -1330,8 +1326,100 @@
   place: Seoul, South Korea
   tags: [CO, SRC]
 
-#SSBSE
 
+#ASE Workshops
+- name: MAS-GAIN
+  description: International Workshop on Multi-Agent Systems using Generative Artificial INtelligence for Automated Software Engineering
+  year: 2025
+  link: https://masgain.github.io/masgain2025/
+  deadline: 
+  - "2025-08-26 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [WO]
+
+- name: ISE
+  description: International Workshop on Intelligent Software Engineering
+  year: 2025
+  link: https://sites.google.com/view/ise2025/home
+  deadline: 
+  - "2025-08-26 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [WO]
+
+- name: A-Mobile
+  description: International Workshop on Advances in Mobile App Analysis
+  year: 2025
+  link: https://a-mobile.github.io/
+  deadline: 
+  - "2025-08-26 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [WO]
+
+- name: ASE Code Completion Challenge
+  description: Workshop and Challenge on Code Completion Context Collection Optimization
+  year: 2025
+  link: https://jetbrains-research.github.io/ase2025-context-collection-workshop/
+  deadline: 
+  - "2025-08-26 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  note: Competition public phase ends July 25, 2025
+  tags: [WO]
+
+- name: ASYDE
+  description: International Workshop on Automated and verifiable Software sYstem DEvelopment
+  year: 2025
+  link: TBD
+  deadline: 
+  - "2025-08-26 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [WO]
+
+- name: AgenticSE
+  description: Autonomous Agents in Software Engineering
+  year: 2025
+  link: TBD
+  deadline: 
+  - "2025-08-26 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [WO]
+
+- name: Ex-ASE
+  description: International Workshop on Explainable Automated Software Engineering Exploring Theory, Adaptation, Needs, Challenges, and Ethics
+  year: 2025
+  link: https://exase.github.io/2025/
+  deadline: 
+  - "2025-08-26 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [WO]
+
+- name: AISM
+  description: AI for Software Modernization
+  year: 2025
+  link: https://aism25.github.io/aism25/
+  deadline: 
+  - "2025-08-26 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [WO]
+
+- name: VARSE
+  description: International Workshop on Virtual and Augmented Reality Software Engineering
+  year: 2025
+  link: TBD
+  deadline: 
+  - "2025-08-26 23:59"
+  date: November 16 - November 20, 2025
+  place: Seoul, South Korea
+  tags: [WO]
+
+#SSBSE
 - name: SSBSE
   description: Symposium on Search-Based Software Engineering - Research Paper Track
   year: 2025
