@@ -1111,7 +1111,7 @@
 
 - name: MSR-IT
   description: Mining Software Repositories - Industry Track
-    year: 2026
+  year: 2026
   link: https://2026.msrconf.org/track/msr-2026-industry-track
   deadline: 
     - "2025-11-23 23:59"
