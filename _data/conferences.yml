@@ -195,12 +195,12 @@
 
 - name: FTW
   description: International Flaky Tests Workshop
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/ftw-2025
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/ftw-2026
   deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
+  - "2025-10-20 23:59"
+  date: April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro
   tags: [WO]
 
 - name: Gamify
