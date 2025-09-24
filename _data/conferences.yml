@@ -117,7 +117,7 @@
   description: Student Mentoring Workshop
   year: 2026
   link: https://conf.researchr.org/track/icse-2026/icse-2026-smew---student-mentoring-workshop
-  deadline: ["TBA"]
+  - "2025-10-17 23:59"
   date: April 12 - April 18, 2026
   place: Rio de Janeiro, Brazil
   tags: [WO]
@@ -1134,14 +1134,25 @@
 
 - name: MSR-MC
   description: Mining Software Repositories - Mining Challenge
-  year: 2025
-  link: https://2025.msrconf.org/track/msr-2025-mining-challenge
-  deadline:
-    - "2024-12-06 23:59"
-  date: April 28 - April 29, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  note: Mandatory abstract deadline on Dec 3, 2024.
+  year: 2026
+  link: https://2026.msrconf.org/track/msr-2026-mining-challenge
+  deadline: 
+    - "2025-12-10 23:59"
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  note: There are multiple deadlines for different stages (check the call for papers).
   tags: [CO, CHT]
+
+- name: MSR-DT
+  description: Mining Software Repositories - Data and Tool Showcase Track
+  year: 2026
+  link: https://2026.msrconf.org/track/msr-2026-data-and-tool-showcase-track
+  deadline:
+    - "2025-11-10 23:59"
+  date: April 12 - April 18, 2026 with ICSE 2026
+  place: Rio de Janeiro, Brazil
+  note: Abstract deadline on Nov 5, 2025.
+  tags: [CO, DB]
 
 #CAIN
 
@@ -1181,11 +1192,11 @@
 - name: TechDebt-IT
   description: International Conference on Technical - Industry Track
   year: 2026
-  link: https://conf.researchr.org/committee/TechDebt-2026/TechDebt-2026-industry-track-industry-track-committee
-  deadline: ["TBA"]
+  link: https://conf.researchr.org/track/TechDebt-2026/TechDebt-2026-industry-track
+  deadline: ["2026-01-16 23:59"]
   date: April 12 - April 18, 2026 with ICSE 2026
   place: Rio de Janeiro, Brazil
-  tags: [CO, JFT]
+  tags: [CO, IPT]
 
 #FormaliSE
 - name: FormaliSE
