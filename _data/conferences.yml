@@ -123,6 +123,366 @@
   place: Rio de Janeiro, Brazil
   tags: [WO]
 
+- name: AGENT
+  description: International Workshop on Agentic Engineering
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/agent-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: AI-SQE
+  description: 'The 1st International Workshop on AI for Software Quality Evaluation: Judgement, Metrics, BenchMarks, and Beyond'
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/ai-sqe-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: BoatSE
+  description: International Workshop on Bots and Agents in Software Engineering
+  year: 2026
+  link: https://botse.github.io/
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: DeepTest
+  description: International Workshop on Deep Learning for Testing and Testing for Deep Learning
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/deeptest-2026#Call-for-Papers
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: Designing
+  description: 3rd International Workshop on Designing Software
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/designing-2026#Call-for-Papers
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: DSE
+  description: International Workshop on Dark Software Engineering
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/dse-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: EnCyCris
+  description: International Workshop on Engineering and Cybersecurity of Critical Systems
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/encycris-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: FinanSE
+  description: International Workshop on AI Solutions for Software Engineering Challenges in Financial Firms
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/finanse-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: FTW
+  description: International Flaky Tests Workshop
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/ftw-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: GAS
+  description: International Workshop on Games and Software Engineering
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/gas-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: GI
+  description: International Workshop on Genetic Improvement
+  year: 2026
+  link: https://geneticimprovementofsoftware.com/events/icse2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: GREENS
+  description: International Workshop on Green and Sustainable Software
+  year: 2026
+  link: https://greensworkshop.github.io/
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: IDE
+  description: IDE Workshop
+  year: 2026
+  link: https://ide-workshop.github.io/
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: IWSiB
+  description: International Workshop on Software-intensive Business
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/iwsib-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: JAWs
+  description: International Workshop on Software-intensive Business
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/jaws-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: LArc
+  description: International Workshop on Low-Code Development and Software Architecture
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/larc-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: LLM4Code
+  description: International Workshop on Large Language Models for Code
+  year: 2026
+  link: https://llm4code.github.io/
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: MO2RE
+  description: Workshop on Multi-disciplinary, Open, and integRatEd Requirements Engineering
+  year: 2026
+  link: https://mo2re.github.io/
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  note: Mandatory abstract submission deadline on Oct 13, 2025.
+  tags: [WO]
+
+- name: MSSiS
+  description: International Workshop on Software-intensive Systems
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/mssis-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: NLBSE
+  description: International Workshop on Natural Language-based Software Engineering
+  year: 2026
+  link: https://nlbse2026.github.io/
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: NSE
+  description: International Workshop on Neuro-Symbolic Software Engineering
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/nse-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: Q-SE
+  description: International Workshop on Quantum Software Engineering 
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/q-se-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: RAIE
+  description: International Workshop on Responsible AI Engineering
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/raie-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: RAISE
+  description: Workshop on Requirements Engineering for AI-powered Software
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/raise-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: ReCode
+  description: International Workshop on Code Translation, Transformation, and Modernization
+  year: 2026
+  link: https://conf.researchr.org/home/recode26
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: SBFT
+  description: International Workshop on Search-Based and Fuzz Testing
+  year: 2026
+  link: https://search-based-and-fuzz-testing.github.io/sbft26/
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: SEiGS
+  description: Symposium on Software Engineering in the Global South (SEiGS)
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/seigs-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: SERP4IoT
+  description: International Workshop on Software Engineering Research and Practices for the IoT
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/serp4iot-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: SERS
+  description: International Workshop on Software Engineering and Research Software
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/sers-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: SESoS
+  description: International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/sesos-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: STATIC
+  description: International Workshop on Advancing Static Analysis for Researchers and Industry Practitioners in Software Engineering
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/static-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: SVM
+  description: International Workshop on Software Vulnerability Management
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/svm-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: SWEBOK
+  description: International Workshop on Guide to the Software Engineering Body of Knowledge (SWEBOK Guide)
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/swebok-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: UISE
+  description: International Workshop on User Interface and Experience for Software Engineering
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/uise-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: WETSEB
+  description: Workshop on Emerging Trends in Software Engineering for Blockchain
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/wetseb-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
+
+- name: WSESE
+  description: International Workshop on Methodological Issues with Empirical Studies in Software Engineering
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/wses-2026
+  deadline:
+  - "2025-10-20 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [WO]
 
 - name: AIOps
   description: International Workshop on Cloud Intelligence / AIOps
