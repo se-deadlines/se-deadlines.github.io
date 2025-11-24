@@ -596,15 +596,6 @@
   place: Trondheim, Norway
   tags: [WO]
 
-- name: BI4LLMC
-  description: International Workshop on Benchmark Infrastructure for LLMs for Code
-  year: 2025
-  link: https://bi4llmc25.github.io/
-  deadline: ["TBA"]
-  date: July 23 - 27, 2025 with FSE
-  place: Trondheim, Norway
-  tags: [WO]
-
 - name: CauSE
   description: Causal Methods in Software Engineering
   year: 2025
@@ -726,15 +717,6 @@
   place: Seoul, South Korea
   tags: [CO, CHT]
 
-- name: AIware-IDT
-  description: International Conference on AIware - Industry Demo Track
-  year: 2025
-  link: https://2025.aiwareconf.org/track/aiware-2025-industry-demo-track
-  deadline: ["TBA"]
-  date: November 20 - November 21, 2025
-  place: Seoul, South Korea
-  tags: [CO, IPT, ART]
-
 - name: AIware-AXVT
   description: International Conference on AIware - ArXiv Track
   year: 2025
@@ -749,12 +731,11 @@
 # ESEIW&ESEM
 - name: ESEM
   description: International Symposium on Empirical Software Engineering and Measurement - Technical Papers Track
-  year: 2025
-  link: https://conf.researchr.org/track/esem-2025/esem-2025-technical-track
-  deadline: 
-  - "2025-04-25 23:59"
-  date: September 29 - October 3, 2025
-  place: Honolulu, Hawai, USA
+  year: 2026
+  link: https://conf.researchr.org/home/eseiw-2026
+  deadline: ["TBA"]
+  date: October 4 - October 9, 2026
+  place: München, Germany
   note: Mandatory abstract deadline on Apr 18, 2025.
   tags: [CO, RPT]
 
@@ -844,86 +825,88 @@
 # ICSMEs
 - name: ICSME
   description: International Conference on Software Maintenance and Evolution - Research Track
-  year: 2025
-  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-papers
+  year: 2026
+  link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers
   deadline: 
-  - "2025-03-13 23:59"
-  date: September 7-12, 2025
-  place: Auckland, New Zealand
-  note: Mandatory abstract deadline on March 6, 2025.
+  - "2026-03-06 23:59"
+  date: September 14 - September 18, 2026
+  place: Benevento, Italy
+  note: Abstract deadline on February 27, 2026.
   tags: [CO, RPT]
 
 - name: ICSME-NIER
   description: International Conference on Software Maintenance and Evolution - New Ideas and Emerging Results
-  year: 2025
-  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-nier
+  year: 2026
+  link: https://conf.researchr.org/track/icsme-2026/icsme-2026-nier
   deadline: 
-  - "2025-06-05 23:59"
-  date: September 7-12, 2025
-  place: Auckland, New Zealand
-  note: Mandatory abstract deadline on May 30 2025.
+  - "2026-05-16 23:59"
+  date: September 14 - September 18, 2026
+  place: Benevento, Italy
+  note: Abstract deadline on May 11, 2026.
   tags: [CO, NIER]
 
-- name: ICSME-ROSE
-  description: International Conference on Software Maintenance and Evolution - Artifact Evaluation Track and ROSE Festival
-  year: 2025
-  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-artifact---rose
+- name: ICSME-NIER
+  description: International Conference on Software Maintenance and Evolution - Replication and Negative Results
+  year: 2026
+  link: https://conf.researchr.org/track/icsme-2026/icsme-2026-replication-and-negative-results
   deadline: 
-  - "2025-07-19 23:59"
-  date: September 7-12, 2025
-  place: Auckland, New Zealand
-  tags: [CO, ART]
+  - "2026-05-16 23:59"
+  date: September 14 - September 18, 2026
+  place: Benevento, Italy
+  note: Abstract deadline on May 11, 2026.
+  tags: [CO, RENE]
 
 - name: ICSME-RRT
   description: International Conference on Software Maintenance and Evolution - Registered Reports Track
-  year: 2025
-  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-registered-reports
+  year: 2026
+  link: https://conf.researchr.org/track/icsme-2026/icsme-2026-registered-reports
   deadline: 
-  - "2025-05-20 23:59"
-  date: September 7-12, 2025
-  place: Auckland, New Zealand
+  - "2026-05-11 23:59"
+  date: September 14 - September 18, 2026
+  place: Benevento, Italy
+  note: Multiple deadlines, see call for papers for details.
   tags: [CO, RRT]
 
-
 - name: ICSME-TDT
-  description: International Conference on Software Maintenance and Evolution - Tool Demo Track
-  year: 2025
-  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-tool-demonstration
+  description: International Conference on Software Maintenance and Evolution - Tool Demonstration and Data Showcase Track
+  year: 2026
+  link: https://conf.researchr.org/track/icsme-2026/icsme-2026-tool-demonstration
   deadline: 
-  - "2025-06-27 23:59"
-  date: September 7-12, 2025
-  place: Auckland, New Zealand
-  tags: [CO, TOT]
+  - "2026-05-28 23:59"
+  date: September 14 - September 18, 2026
+  place: Benevento, Italy
+  note: Abstract deadline on May 24, 2026.
+  tags: [CO, TOT, DB]
 
 - name: ICSME-IT
   description: International Conference on Software Maintenance and Evolution - Industry Track
-  year: 2025
-  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track
+  year: 2026
+  link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track
   deadline: 
-  - "2025-05-18 23:59"
-  date: September 7-12, 2025
-  place: Auckland, New Zealand
-  note: Mandatory abstract deadline on May 11 2025.
+  - "2026-05-15 23:59"
+  date: September 14 - September 18, 2026
+  place: Benevento, Italy
+  note: Abstract deadline on May 8 2026.
   tags: [CO, IPT]
 
 - name: ICSME-JF
   description: International Conference on Software Maintenance and Evolution - Journal First Track
-  year: 2025
-  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-journal-first
+  year: 2026
+  link: https://conf.researchr.org/track/icsme-2026/icsme-2026-journal-first
   deadline: 
-  - "2025-06-06 23:59"
-  date: September 7-12, 2025
-  place: Auckland, New Zealand
+  - "2026-06-06 23:59"
+  date: September 14 - September 18, 2026
+  place: Benevento, Italy
   tags: [CO, JFT]
 
 - name: ICSME-DS
   description: International Conference on Software Maintenance and Evolution - Doctoral Symposium
-  year: 2025
-  link: https://conf.researchr.org/track/icsme-2025/icsme-2025-doctoral-symposium
+  year: 2026
+  link: https://conf.researchr.org/track/icsme-2026/icsme-2026-doctoral-symposium
   deadline: 
-  - "2025-06-12 23:59"
-  date: September 7-12, 2025
-  place: Auckland, New Zealand
+  - "2026-06-03 23:59"
+  date: September 14 - September 18, 2026
+  place: Benevento, Italy
   tags: [CO, DOS]
 
 # ISSTA
@@ -942,7 +925,7 @@
   description: Secure Development Conference
   year: 2026
   link: https://conf.researchr.org/track/secdev-2026/secdev-2026-papers#Call-for-Papers
-  link: TBD
+  deadline: ["TBA"]
   date: TBD, co-hosted with FSE 2026
   place: Montreal, Canada
   tags: [CO, RPT, SPT, TTBT, EXPT]
@@ -1054,7 +1037,7 @@
   date: March 17 - 20, 2026
   place: Limassol, Cyprus
   note: Mandatory abstract deadline on November 10 2025.
-  tags: [CO, SPT]
+  tags: [CO, SPT, POS]
 
 - name: SANER-RENE
   description: International Conference on Software Analysis, Evolution and Reengineering - Reproducibility Studies and Negative Results Track
@@ -1280,15 +1263,98 @@
 #REs
 - name: RE-RP
   description: Requirements Engineering - Research Papers
-  year: 2025
-  link: https://conf.researchr.org/track/RE-2025/RE-2025-Research-Papers
+  year: 2026
+  link: https://conf.researchr.org/track/RE-2026/RE-2026-Research-Papers
   deadline:
-   - "2025-03-03 23:59"
-   - "2025-03-10 23:59"
-  date: September 1 - September 5, 2025
-  place: Valencia, Spain
-  note: Mandatory abstract deadline on March 3rd (first deadline) and paper deadline on March 10th (second deadline)
-  tags: [RPT]
+   - "2026-02-23 23:59"
+  date: August 17 - August 21, 2026
+  place: Montreal, Canada
+  note: Abstract deadline February 16, 2026.
+  tags: [CO,RPT]
+
+- name: RE-ART
+  description: Requirements Engineering - Artifacts
+  year: 2026
+  link: https://conf.researchr.org/track/RE-2026/RE-2026-artifacts
+  deadline:
+   - "2026-06-01 23:59"
+  date: August 17 - August 21, 2026
+  place: Montreal, Canada
+  tags: [CO,ART]
+
+- name: RE-DS
+  description: Requirements Engineering - Doctoral Symposium
+  year: 2026
+  link: https://conf.researchr.org/track/RE-2026/RE-2026-doctoral-symposium
+  deadline:
+   - "2026-05-28 23:59"
+  date: August 17 - August 21, 2026
+  place: Montreal, Canada
+  tags: [CO,DS]
+
+- name: RE-IIP
+  description: Requirements Engineering - Industrial Innovation Papers
+  year: 2026
+  link: https://conf.researchr.org/track/RE-2026/RE-2026-industrial-innovation-papers
+  deadline:
+   - "2026-03-20 23:59"
+  date: August 17 - August 21, 2026
+  place: Montreal, Canada
+  note: Abstract deadline March 6, 2026.
+  tags: [CO,IPT]
+
+- name: RE-JF
+  description: Requirements Engineering - Journal-First
+  year: 2026
+  link: https://conf.researchr.org/track/RE-2026/RE-2026-journal-first
+  deadline:
+   - "2026-04-13 23:59"
+  date: August 17 - August 21, 2026
+  place: Montreal, Canada
+  tags: [CO,IPT]
+
+- name: RE-PTD
+  description: Requirements Engineering - Posters and Tool Demos
+  year: 2026
+  link: https://conf.researchr.org/track/RE-2026/RE-2026-posters-and-tool-demos
+  deadline:
+   - "2026-05-28 23:59"
+  date: August 17 - August 21, 2026
+  place: Montreal, Canada
+  tags: [CO,POS]
+
+- name: RE-ODI
+  description: Requirements Engineering - RE Open Data Initiative
+  year: 2026
+  link: https://conf.researchr.org/track/RE-2026/RE-2026-re-open-data-initiative
+  deadline:
+   - "2025-12-18 23:59"
+  date: August 17 - August 21, 2026
+  place: Montreal, Canada
+  tags: [CO,DB]
+
+- name: RE@Next!
+  description: Requirements Engineering - Next!
+  year: 2026
+  link: https://conf.researchr.org/track/RE-2026/RE-2026-re-next--papers
+  deadline:
+   - "2026-03-20 23:59"
+  date: August 17 - August 21, 2026
+  place: Montreal, Canada
+  note: Abstract deadline March 6, 2026.
+  tags: [CO,NIER]
+
+- name: RE-TUT
+  description: Requirements Engineering - Tutorials
+  year: 2026
+  link: https://conf.researchr.org/track/RE-2026/RE-2026-tutorials
+  deadline:
+   - "2026-04-13 23:59"
+  date: August 17 - August 21, 2026
+  place: Montreal, Canada
+  tags: [CO,TTBT]
+
+#REFSQ
 
 - name: REFSQ-RT
   description: Requirements Engineering Foundation for Software Quality - Research Track
@@ -1296,10 +1362,12 @@
   link: https://2026.refsq.org/track/refsq-2026-research-papers
   deadline:
    - "2025-10-17 23:59"
-  date: March 23 - 26, 2026
-  place: Poznań, Poland
+  date: August 17 - August 21, 2026
+  place: Montreal, Canada
   note: Optional abstract deadline on October 10th and paper deadline on October 17th 
   tags: [CO, RPT]
+
+#XPs
 
 - name: XP-RPT
   description: International Conference on Agile Software Development - Research Track
@@ -1321,25 +1389,25 @@
   place: São Paulo, Brazil
   tags: [CO, IPT]
 
-
+#SEAA and DSD
 - name: SEAA-RPT
-  description: The 51st Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA) - Research Paper Track
-  year: 2025
-  link: https://dsd-seaa.com/seaa2025/
+  description: Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA) - Research Paper Track
+  year: 2026
+  link: https://dsd-seaa.com/seaa2026/
   deadline:
-  - "2025-04-15 23:59"
-  date: September 10 - September 12, 2025
-  place: Salerno, Italy
+  - "2026-04-15 23:59"
+  date: September 2 - September 5, 2026
+  place: Krakow, Poland
   tags: [CO, RPT]
 
 - name: DSD-RPT
-  description: The 28th Euromicro Conference Series on Digital System Design (DSD) - Research Paper Track
-  year: 2025
-  link: https://dsd-seaa.com/dsd2025/
+  description: Euromicro Conference Series on Digital System Design (DSD) - Research Paper Track
+  year: 2026
+  link: https://dsd-seaa.com/dsd2026/
   deadline:
-  - "2025-04-15 23:59"
-  date: September 10 - September 12, 2025
-  place: Salerno, Italy
+  - "2026-04-15 23:59"
+  date: September 2 - September 5, 2026
+  place: Krakow, Poland
   tags: [CO, RPT]
 
 # ASE 2025
@@ -1604,68 +1672,22 @@
   tags: [CO, TTBT]
 
 # IST
-- name: IST-MDDT
-  description: Information and Software Technology - Model- and Data-driven Digital Twins
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/315430/model-and-data-driven-digital-twins
-  deadline: 
-  - "2025-05-05 23:59"
-  tags: [JO]
-
-- name: IST-S&S
-  description: Information and Software Technology - Software and Society Ethics, Equity, and Sustainability in Software
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/315503/software-and-society-ethics-equity-and-sustainability-in-software
-  deadline: 
-  - "2025-02-14 23:59"
-  tags: [JO]
-
-- name: IST-AYR
-  description: Information and Software Technology - Are you ready for the age of fairness in software systems?
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/315807/are-you-ready-for-the-age-of-fairness-in-software-systems
-  deadline: 
-  - "2025-03-30 23:59"
-  tags: [JO]
-
-- name: IST-MT
-  description: Information and Software Technology - Special Issue on Metamorphic Testing
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/317272/special-issue-on-metamorphic-testing
-  deadline: 
-  - "2025-03-20 23:59"
-  tags: [JO]
-
-- name: IST-AISOC
-  description: Information and Software Technology - Artificial Intelligence and Service Oriented Computing (AI&SoC)
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/317558/artificial-intelligence-and-service-oriented-computing-aisoc
-  deadline: 
-  - "2025-05-31 23:59"
-  tags: [JO]
-
-- name: IST-NEXTGEN
-  description: Information and Software Technology - Next-Generation Model-Based Software Engineering with Foundation Models
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/318822/next-generation-model-based-software-engineering-with-foundation-models
-  deadline: 
-  - "2025-05-31 23:59"
-  tags: [JO]
-
-- name: IST-REG
-  description: Information and Software Technology - Regulatory Compliance in Software Engineering
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/319254/regulatory-compliance-in-software-engineering
-  deadline: 
-  - "2025-09-05 23:59"
-  tags: [JO]
 
 - name: IST-GENAI
   description: Information and Software Technology - Engineering GenAI-enabled Software Systems
-  year: 2025
+  year: 2026
   link: https://www.sciencedirect.com/special-issue/322047/engineering-genai-enabled-software-systems
   deadline: 
-  - "2025-10-31 23:59"
+  - "2025-12-31 23:59"
+  tags: [JO]
+
+
+- name: IST-SAAI
+  description: Information and Software Technology - Software Architecture for AI-Driven Systems - Challenges and Emerging Solutions
+  year: 2026
+  link: https://www.sciencedirect.com/special-issue/325890/software-architecture-for-ai-driven-systems-challenges-and-emerging-solutions
+  deadline: 
+  - "2026-01-15 23:59"
   tags: [JO]
 
 # JSS
@@ -1693,4 +1715,33 @@
   link: https://dl.acm.org/pb-assets/static_journal_pages/tosem/pdf/ACM-TOSEM-CfP-Agentic-AI-Software.pdf
   deadline:
   - "2025-11-01 23:59"
+  tags: [JO]
+
+# TSE
+
+
+# ESE
+
+- name: ESE-ASELLM
+  description: Empirical Software Engineering - Advancing Software Engineering with Large Language Models
+  year: 2026
+  link: https://link.springer.com/collections/jfdgedjehb
+  deadline:
+  - "2025-11-28 23:59"
+  tags: [JO]
+
+- name: ESE-AIFMSE
+  description: Empirical Software Engineering - AI Foundation Models and Software Engineering
+  year: 2026
+  link: https://link.springer.com/collections/dbdgadcbdg
+  deadline:
+  - "2025-12-28 23:59"
+  tags: [JO]
+
+- name: ESE-QSE
+  description: Empirical Software Engineering - Empirical Studies for Quantum Software Engineering
+  year: 2026
+  link: https://link.springer.com/collections/ajidabcjaa
+  deadline:
+  - "2026-03-01 23:59"
   tags: [JO]
