@@ -85,12 +85,12 @@
 
 - name: ICSE-SRC
   description: International Conference on Software Engineering - Student Research Competition
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2025/icse-2025-SRC
+  year: 2026
+  link: https://conf.researchr.org/track/icse-2026/icse-2026-SRC
   deadline: 
-  - "2024-11-15 23:59"
-  date: April 26 - May 4, 2025
-  place: Ottawa, Ontario, Canada
+  - "2025-11-14 23:59"
+  date: April 12 - April 18, 2026
+  place: Rio de Janeiro, Brazil
   tags: [CO, SRC]
 
 - name: ICSE-ICT
@@ -102,16 +102,6 @@
   date: April 12 - April 18, 2026
   place: Rio de Janeiro, Brazil
   tags: [CO, CHT]
-
-- name: Forge-Benchmarking
-  description: The 2nd ACM international conference on AI Foundation Models and Software Engineering - Data and Benchmarking Track
-  year: 2025
-  link: https://conf.researchr.org/track/forge-2025/forge-2025-benchmarking
-  deadline: 
-  - "2024-12-13 23:59"
-  date: April 27 - April 28, 2025
-  place: Ottawa, Ontario, Canada
-  tags: [CO, DB]
 
 - name: SMeW
   description: Student Mentoring Workshop
@@ -484,318 +474,6 @@
   place: Rio de Janeiro, Brazil
   tags: [WO]
 
-- name: AIOps
-  description: International Workshop on Cloud Intelligence / AIOps
-  year: 2025
-  link: https://cloudintelligenceworkshop.org/index.html
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: APR
-  description: International Workshop on Automated Program Repair
-  year: 2025
-  link: https://program-repair.org/workshop-2025/
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: BotSE
-  description: International Workshop on Bots in Software Engineering
-  year: 2025
-  link: http://botse.org/
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: DeepTest
-  description: International Workshop on Deep Learning for Testing and Testing for Deep Learning
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/deeptest-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: Designing
-  description: International Workshop on Designing Software
-  year: 2025
-  link: https://designing2025.github.io/
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: EnCyCriS
-  description: International Workshop on Engineering and Cybersecurity of Critical Systems
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/encycris-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: FinanSE
-  description: International Workshop on Engineering and Cybersecurity of Critical Systems
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/finanse-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: Gamify
-  description: International Workshop on Gamification in Software Development, Verification, and Validation
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/gamify-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: GAS
-  description: International Workshop on Games and Software Engineering
-  year: 2025
-  link: https://sites.google.com/view/icsegasworkshop2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: GE
-  description: Workshop on Gender Equality, Diversity, and Inclusion in Software Engineering
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/ge-icse-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: GI
-  description: International Workshop on Genetic Improvement
-  year: 2025
-  link: https://geneticimprovementofsoftware.com/events/icse2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: GREENS
-  description: International Workshop on Green and Sustainable Software
-  year: 2025
-  link: https://greensworkshop.github.io/
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: IDE
-  description: IDE Workshop
-  year: 2025
-  link: https://ide-workshop.github.io/
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: IWSiB
-  description: International Workshop on Software-intensive Business
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/iwsib-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: LLM4Code
-  description: International Workshop on Large Language Model For Code
-  year: 2025
-  link: https://llm4code.github.io/
-  deadline: 
-  - "2024-11-18 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: MO2RE
-  description: Workshop on Multi-disciplinary, Open, and IntegRatEd Requirements Engineering
-  year: 2025
-  link: https://mo2re.github.io/
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: NLBSE
-  description: International Workshop on NL-based Software Engineering
-  year: 2025
-  link: https://nlbse2025.github.io/
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: NSE
-  description: International Workshop on Neuro-Symbolic Software Engineering
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/nse-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: Q-SE
-  description: International Workshop on Quantum Software Engineering
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/q-se-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: RAIE
-  description: International Workshop on Responsible AI Engineering
-  year: 2025
-  link: https://raiengineering.github.io/RAIE-Series/RAIE2025/
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: RAISE
-  description: International Workshop on Requirements engineering for AI-powered SoftwarE
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/raise-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  note: Abstract deadline on November 4 2024.
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: RoSE
-  description: International Workshop on Robotics Software Engineering
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/rose-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: SATrends
-  description: International Workshop New Trends in Software Architecture
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/satrends-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: SBFT
-  description: International Workshop on Search-Based and Fuzz Testing
-  year: 2025
-  link: https://sbft25.github.io/
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: SE4ADS
-  description: International Workshop on Software Engineering for Autonomous Driving Systems
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/se4ads-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: SERP4IoT
-  description: International Workshop on Software Engineering Research & Practices for the Internet of Things
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/serp4iot-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: SESESoS
-  description: International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/sesos-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: STATIC
-  description: International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/static-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  note: Abstract deadline on November 4 2024.
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: SVM
-  description: International Workshop on Software Vulnerability Management
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/svm-2025
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: WETSEB
-  description: International Workshop on Emerging Trends in Software Engineering for Blockchain
-  year: 2025
-  link: https://www.agile-group.org/wetseb2025/
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
-- name: WSESE
-  description: International Workshop on Methodological Issues with Empirical Studies in Software Engineering
-  year: 2025
-  link: https://2025.ese-workshops.org/
-  deadline: 
-  - "2024-11-11 23:59"
-  date: April 26 - May 4, 2025 with ICSE 2025
-  place: Ottawa, Ontario, Canada
-  tags: [WO]
-
 # ESEC/FSE
 - name: FSE
   description: International Conference on the Foundations of Software Engineering - Research Papers
@@ -810,33 +488,73 @@
 
 - name: FSE-IP
   description: International Conference on the Foundations of Software Engineering - Industry Papers
-  year: 2025
-  link: https://conf.researchr.org/track/fse-2025/fse-2025-industry-papers
+  year: 2026
+  link: https://conf.researchr.org/track/fse-2026/fse-2026-industry-papers
   deadline: 
-  - "2025-01-15 23:59"
-  date: July 23 - 27, 2025
-  place: Trondheim, Norway
+  - "2026-01-22 23:59"
+  date: July 6 - 9, 2026
+  place: Montreal, Canada
   tags: [CO,IPT]
 
 - name: FSE-IVR
   description: International Conference on the Foundations of Software Engineering - Ideas, Visions and Reflections Track 
-  year: 2025
-  link: https://conf.researchr.org/track/fse-2025/fse-2025-ideas-visions-and-reflections
+  year: 2026
+  link: https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections
   deadline: 
-  - "2025-01-16 23:59"
-  date: July 23 - 27, 2025
-  place: Trondheim, Norway
+  - "2026-01-22 23:59"
+  date: July 6 - 9, 2026
+  place: Montreal, Canada
   tags: [CO, NIER]
 
 - name: FSE-JF
   description: International Conference on the Foundations of Software Engineering - Journal First Papers 
-  year: 2025
-  link: https://conf.researchr.org/track/fse-2025/fse-2025-journal-first
+  year: 2026
+  link: https://conf.researchr.org/track/fse-2026/fse-2026-journal-first
   deadline: 
-  - "2025-03-04 23:59"
-  date: July 23 - 27, 2025
-  place: Trondheim, Norway
+  - "2026-02-25 23:59"
+  date: July 6 - 9, 2026
+  place: Montreal, Canada
   tags: [CO, JFT]
+
+- name: FSE-SEE
+  description: International Conference on the Foundations of Software Engineering - Software Engineering Education
+  year: 2026
+  link: https://conf.researchr.org/track/fse-2026/fse-2026-software-engineering-education
+  deadline: 
+  - "2026-01-22 23:59"
+  date: July 6 - 9, 2026
+  place: Montreal, Canada
+  tags: [CO, EDT]
+
+- name: FSE-SRC
+  description: International Conference on the Foundations of Software Engineering - Student Research Competition
+  year: 2026
+  link: https://conf.researchr.org/track/fse-2026/fse-2026-student-research-competition
+  deadline: 
+  - "2026-01-26 23:59"
+  date: July 6 - 9, 2026
+  place: Montreal, Canada
+  tags: [CO, SRC]
+
+- name: FSE-SRC
+  description: International Conference on the Foundations of Software Engineering - Tool Demonstrations
+  year: 2026
+  link: https://conf.researchr.org/track/fse-2026/fse-2026-demonstrations
+  deadline: 
+  - "2026-01-22 23:59"
+  date: July 6 - 9, 2026
+  place: Montreal, Canada
+  tags: [CO, TOT]
+
+- name: FSE-TUT
+  description: International Conference on the Foundations of Software Engineering - Tutorials
+  year: 2026
+  link: https://conf.researchr.org/track/fse-2026/fse-2026-tutorials
+  deadline: 
+  - "2026-01-26 23:59"
+  date: July 6 - 9, 2026
+  place: Montreal, Canada
+  tags: [CO, TTBT]
 
 - name: SE 2030
   description: 2030 Software Engineering
@@ -981,11 +699,11 @@
 - name: PROMISE
   description: International Conference on Predictive Models and Data Analytics in Software Engineering
   year: 2025
-  link: https://conf.researchr.org/home/promise-2025
+  link: https://conf.researchr.org/home/promise-2026
   deadline: 
-   - "2025-02-28 23:59"
-  date: June 26, 2025 co-hosted with FSE 2025
-  place: Trondheim, Norway
+   - "2026-02-28 23:59"
+  date: TBD, co-hosted with FSE 2026
+  place: Montreal, Canada
   tags: [CO, RPT, IPT, NIER, JFT]
 
 #AIware
@@ -1221,13 +939,12 @@
 
 # SecDev
 - name: SecDev
-  description: IEEE Secure Development Conference
-  year: 2025
-  link: https://secdev.ieee.org/2025/cfp/
-  deadline: 
-  - "2025-05-13 23:59"
-  date: October 7-10, 2024
-  place: Indianapolis, IN, United States
+  description: Secure Development Conference
+  year: 2026
+  link: https://conf.researchr.org/track/secdev-2026/secdev-2026-papers#Call-for-Papers
+  link: TBD
+  date: TBD, co-hosted with FSE 2026
+  place: Montreal, Canada
   tags: [CO, RPT, SPT, TTBT, EXPT]
 
 # ISSRE
@@ -1586,25 +1303,24 @@
 
 - name: XP-RPT
   description: International Conference on Agile Software Development - Research Track
-  year: 2025
-  link: https://conf.researchr.org/home/xp-2025
+  year: 2026
+  link: https://conf.researchr.org/track/xp-2026/xp-2026-papers
   deadline:
-   - "2025-01-26 23:59"
-  date: June 2 - June 5, 2025
-  place: Brugg - Windisch, Switzerland
-  note: Recommended abstract deadline on January 19, 2025
+   - "2025-11-28 23:59"
+  date: April 8 - April 11, 2026
+  place: São Paulo, Brazil
   tags: [CO, RPT]
 
-- name: EASE-RPT
-  description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Research Paper Track
-  year: 2025
-  link: https://conf.researchr.org/home/ease-2025
+- name: XP-IP
+  description: International Conference on Agile Software Development - Industry & Practice
+  year: 2026
+  link: https://conf.researchr.org/track/xp-2026/xp-2026-industry---practice
   deadline:
-   - "2025-01-19 23:59"
-  date: June 17 - June 20, 2025
-  place: Istanbul, Turkey
-  note: Abstract deadline on January 12, 2025
-  tags: [CO, RPT]
+   - "2025-11-28 23:59"
+  date: April 8 - April 11, 2026
+  place: São Paulo, Brazil
+  tags: [CO, IPT]
+
 
 - name: SEAA-RPT
   description: The 51st Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA) - Research Paper Track
@@ -1629,12 +1345,12 @@
 # ASE 2025
 - name: ASE
   description: International Conference on Automated Software Engineering (ASE) - Research Paper Track
-  year: 2025
-  link: https://conf.researchr.org/home/ase-2025
+  year: 2026
+  link: https://conf.researchr.org/track/ase-2026/ase-2026-research-track
   deadline: 
-  - "2025-05-30 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
+  - "2026-03-26 23:59"
+  date: October 12 - October 16, 2026
+  place: Munich, Germany
   tags: [CO, RPT]
 
 - name: ASE-JFT
@@ -1784,75 +1500,108 @@
 #SSBSE
 - name: SSBSE
   description: Symposium on Search-Based Software Engineering - Research Paper Track
-  year: 2025
-  link: https://conf.researchr.org/home/ssbse-2025
+  year: 2026
+  link: https://conf.researchr.org/home/ssbse-2026
   deadline: 
-  - "2025-08-21 23:59"
-  date: November 16 - November 20, 2025 with ASE 2025
-  place: Seoul, South Korea
+  - "2026-01-22 23:59"
+  date: July 5 - July 6, co-hosted with FSE 2026
+  place: Montreal, Canada
   tags: [CO, RPT]
 
 #EASE
-- name: EASE-SPER
-  description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Short Papers, Emerging Results
-  year: 2025
-  link: https://conf.researchr.org/track/ease-2025/ease-2025-short-papers--emerging-results
+- name: EASE-RP
+  description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Research Papers
+  year: 2026
+  link: https://conf.researchr.org/track/ease-2026/ease-2026-research-papers
   deadline:
-   - "2025-03-16 23:59"
-  date: June 17 - June 20, 2025
-  place: Istanbul, Turkey
+   - "2026-01-23 23:59"
+  date: June 9 - June 12, 2026
+  place: Glasgow, United Kingdom
+  note: Abstract deadline on January 16, 2026
+  tags: [CO, RPT]
+
+- name: EASE-SPER
+  description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Short Papers and Emerging Results
+  year: 2026
+  link: https://conf.researchr.org/track/ease-2026/ease-2026-short-papers-and-emerging-results
+  deadline:
+   - "2026-03-02 23:59"
+  date: June 9 - June 12, 2026
+  place: Glasgow, United Kingdom
+  note: Abstract deadline on February 23, 2026
   tags: [CO, SPT]
 
 - name: EASE-IP
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Industry Papers
-  year: 2025
-  link: https://conf.researchr.org/track/ease-2025/ease-2025-industry-papers
+  year: 2026
+  link: https://conf.researchr.org/track/ease-2026/ease-2026-industry-papers
   deadline:
-   - "2025-03-16 23:59"
-  date: June 17 - June 20, 2025
-  place: Istanbul, Turkey
-  note: Abstract deadline on March 9, 2025
+   - "2026-03-02 23:59"
+  date: June 9 - June 12, 2026
+  place: Glasgow, United Kingdom
+  note: Abstract deadline on February 23, 2026
   tags: [CO, IPT]
 
 - name: EASE-PV
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Posters and Vision
-  year: 2025
-  link: https://conf.researchr.org/track/ease-2025/ease-2025-posters-and-vision
+  year: 2026
+  link: https://conf.researchr.org/track/ease-2026/ease-2026-posters-and-vision
   deadline:
-   - "2025-03-16 23:59"
-  date: June 17 - June 20, 2025
-  place: Istanbul, Turkey
+   - "2026-03-02 23:59"
+  date: June 9 - June 12, 2026
+  place: Glasgow, United Kingdom
   tags: [CO, POS]
 
 - name: EASE-JF
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Journal-first
-  year: 2025
-  link: https://conf.researchr.org/track/ease-2025/ease-2025-journal-first
+  year: 2026
+  link: https://conf.researchr.org/track/ease-2026/ease-2026-journal-first
   deadline:
-   - "2025-03-20 23:59"
-  date: June 17 - June 20, 2025
-  place: Istanbul, Turkey
+   - "2026-03-06 23:59"
+  date: June 9 - June 12, 2026
+  place: Glasgow, United Kingdom
   tags: [CO, JFT]
 
 - name: EASE-DS
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Doctoral Symposium
-  year: 2025
-  link: https://conf.researchr.org/track/ease-2025/ease-2025-doctoral-symposium
+  year: 2026
+  link: https://conf.researchr.org/track/ease-2026/ease-2026-doctoral-symposium
   deadline:
-   - "2025-03-10 23:59"
-  date: June 17 - June 20, 2025
-  place: Istanbul, Turkey
+   - "2026-03-02 23:59"
+  date: June 9 - June 12, 2026
+  place: Glasgow, United Kingdom
   tags: [CO, DOS]
 
 - name: EASE-AID
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - AI Models / Data
-  year: 2025
-  link: https://conf.researchr.org/track/ease-2025/ease-2025-ai-models---data
+  year: 2026
+  link: https://conf.researchr.org/track/ease-2026/ease-2026-ai-models---data
   deadline:
-   - "2025-03-16 23:59"
-  date: June 17 - June 20, 2025
-  place: Istanbul, Turkey
+   - "2026-03-02 23:59"
+  date: June 9 - June 12, 2026
+  place: Glasgow, United Kingdom
   tags: [CO, DB]
+
+- name: EASE-RPT
+  description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Reproducibility and Negative Results
+  year: 2026
+  link: https://conf.researchr.org/track/ease-2026/ease-2026-reproducibility-and-negative-results
+  deadline:
+   - "2026-02-23 23:59"
+  date: June 9 - June 12, 2026
+  place: Glasgow, United Kingdom
+  note: Abstract deadline on February 23, 2026
+  tags: [CO, RENE]
+
+- name: EASE-TUT
+  description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Tutorials
+  year: 2026
+  link: https://conf.researchr.org/track/ease-2026/ease-2026-tutorial
+  deadline:
+   - "2026-03-02 23:59"
+  date: June 9 - June 12, 2026
+  place: Glasgow, United Kingdom
+  tags: [CO, TTBT]
 
 # IST
 - name: IST-MDDT
@@ -1920,77 +1669,22 @@
   tags: [JO]
 
 # JSS
-- name: JSS-QAICT
-  description: Journal of Systems and Software - Quality Assurance in ICT-based Systems
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/313655/quality-assurance-in-ict-based-systems
+- name: JSS-ISA
+  description: Journal of Systems and Software - Impactful Software Architecture
+  year: 2026
+  link: https://www.sciencedirect.com/special-issue/325939/impactful-software-architecture
   deadline: 
-  - "2025-03-31 23:59"
+  - "2026-01-31 23:59"
   tags: [JO]
 
-- name: JSS-SATS
-  description: Journal of Systems and Software - Software Architecture for Trustworthy Software
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/314157/software-architecture-for-trustworthy-software
+- name: JSS-ISA
+  description: Journal of Systems and Software - Agile Reloaded- The Red Pill or the Blue Pill?
+  year: 2026
+  link: https://www.sciencedirect.com/special-issue/324072/agile-reloaded-the-red-pill-or-the-blue-pill
   deadline: 
-  - "2025-01-31 23:59"
+  - "2025-12-15 23:59"
   tags: [JO]
 
-- name: JSS-RSLLM
-  description: Journal of Systems and Software - Reliable and Secure Large Language Models for Software Engineering
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/314784/reliable-and-secure-large-language-models-for-software-engineering
-  deadline: 
-  - "2025-01-04 23:59"
-  tags: [JO]
-
-- name: JSS-ESEAA
-  description: Journal of Systems and Software - Euromicro Software Engineering and Advanced Applications 50th Anniversary
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/315006/euromicro-software-engineering-and-advanced-applications-50th-anniversary
-  deadline: 
-  - "2025-02-02 23:59"
-  tags: [JO]
-
-- name: JSS-TSSPLE
-  description: Journal of Systems and Software - Trends in Systems and Software Product Line Engineering
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/315468/trends-in-systems-and-software-product-line-engineering
-  deadline: 
-  - "2025-01-15 23:59"
-  tags: [JO]
-
-- name: JSS-EVASISE
-  description: Journal of Systems and Software - Evaluation and Assessment in Industrial Software Engineering
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/319732/evaluation-and-assessment-in-industrial-software-engineering
-  deadline: 
-  - "2025-06-09 23:59"
-  tags: [JO]
-
-- name: JSS-SETC
-  description: Journal of Systems and Software - Software engineering teaching cases
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/319782/software-engineering-teaching-cases
-  deadline: 
-  - "2025-01-12 23:59"
-  tags: [JO]
-
-- name: JSS-INTDEVOPS
-  description: Journal of Systems and Software - Intelligent DevOps for Performance, Sustainability, and Reliability
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/320414/intelligent-devops-for-performance-sustainability-and-reliability
-  deadline: 
-  - "2025-09-30 23:59"
-  tags: [JO]
-
-- name: JSS-REFSQ
-  description: Journal of Systems and Software - REFSQ 2025 - Social REsponsibility
-  year: 2025
-  link: https://www.sciencedirect.com/special-issue/321600/refsq-2025-social-responsibility
-  deadline: 
-  - "2025-11-01 23:59"
-  tags: [JO]
 
 # TOSEM
 - name: TOSEM-AGENTICAI
@@ -2000,11 +1694,3 @@
   deadline:
   - "2025-11-01 23:59"
   tags: [JO]
-
-- name: VehicleSec
-  description: USENIX Vehicle Security and Privacy
-  year: 2025
-  link: https://www.usenix.org/conference/vehiclesec25/call-for-papers
-  deadline: 
-  - "2025-02-27 23:59"
-  tags: [CO]
