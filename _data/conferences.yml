@@ -689,42 +689,43 @@
 #PROMISE
 - name: PROMISE
   description: International Conference on Predictive Models and Data Analytics in Software Engineering
-  year: 2025
+  year: 2026
   link: https://conf.researchr.org/home/promise-2026
   deadline: 
-   - "2026-02-28 23:59"
+   - "2026-01-16 23:59"
   date: TBD, co-hosted with FSE 2026
   place: Montreal, Canada
+  note: Abstract deadline on Jan 9, 2026.
   tags: [CO, RPT, IPT, NIER, JFT]
 
 #AIware
 - name: AIware
   description: International Conference on AIware - Main Track
-  year: 2025
-  link: https://2025.aiwareconf.org/
+  year: 2026
+  link: https://conf.researchr.org/home/aiware-2026
   deadline: 
-  - "2025-07-25 23:59"
-  date: November 20 - November 21, 2025
-  place: Seoul, South Korea
-  note: Optional intent submission on Jul 15 2025.
+  - "2025-02-01 23:59"
+  date: July 5-6, co-hosted with FSE 2026
+  place: Montreal, Canada
   tags: [CO, RPT]
 
-- name: AIware-B&T
-  description: International Conference on AIware - Benchmark & Dataset Track
-  year: 2025
-  link: https://2025.aiwareconf.org/track/aiware-2025-benchmark---dataset-track
-  date: November 20 - November 21, 2025
-  place: Seoul, South Korea
-  tags: [CO, CHT]
 
 - name: AIware-AXVT
   description: International Conference on AIware - ArXiv Track
-  year: 2025
-  link: https://2025.aiwareconf.org/track/aiware-2025-arxiv-track
-  deadline: 
-  - "2025-09-05 23:59"
-  date: November 20 - November 21, 2025
-  place: Seoul, South Korea
+  year: 2026
+  link: https://conf.researchr.org/track/aiware-2026/aiware-2026-arxiv-track
+  deadline: ["TBA"]
+  date: July 5-6, co-hosted with FSE 2026
+  place: Montreal, Canada
+  tags: [CO, LBT]
+
+- name: AIware-IDT
+  description: International Conference on AIware - Industry Demo Track
+  year: 2026
+  link: https://conf.researchr.org/track/aiware-2026/aiware-2026-industry-demo-track
+  deadline: ["TBA"]
+  date: July 5-6, co-hosted with FSE 2026
+  place: Montreal, Canada
   tags: [CO, LBT]
 
 
