@@ -925,7 +925,8 @@
   description: Secure Development Conference
   year: 2026
   link: https://conf.researchr.org/track/secdev-2026/secdev-2026-papers#Call-for-Papers
-  deadline: ["TBA"]
+  deadline: 
+  - "2026-01-29 23:59"
   date: TBD, co-hosted with FSE 2026
   place: Montreal, Canada
   tags: [CO, RPT, SPT, TTBT, EXPT]
@@ -1235,7 +1236,8 @@
   description: International Conference on Technical - Journal First Track
   year: 2026
   link: https://conf.researchr.org/track/TechDebt-2026/TechDebt-2026-journal-first
-  deadline: ["TBA"]
+  deadline: 
+  - "2026-01-17 23:59"
   date: April 12 - April 18, 2026 with ICSE 2026
   place: Rio de Janeiro, Brazil
   tags: [CO, JFT]
