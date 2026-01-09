@@ -1748,3 +1748,14 @@
   deadline:
   - "2026-03-01 23:59"
   tags: [JO]
+
+- name: Data4SoftSec
+  description: The 1st Workshop on Datasets for Software Security
+  year: 2026
+  link: https://data4softsec26.ieee-security.org
+  deadline:
+  - "2026-02-01 23:59"
+  date: May 21, 2026 with IEEE S&P 2026 
+  place: San Francisco, California, USA
+  tags: [WO]
+  
