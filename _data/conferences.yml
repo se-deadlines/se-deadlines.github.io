@@ -734,7 +734,9 @@
   description: International Conference on AIware - ArXiv Track
   year: 2026
   link: https://conf.researchr.org/track/aiware-2026/aiware-2026-arxiv-track
-  deadline: ["TBA"]
+  deadline: 
+  - "2026-03-15 23:59"
+  - "2026-05-15 23:59"
   date: July 6-7, co-hosted with FSE 2026
   place: Montreal, Canada
   tags: [CO, LBT]
@@ -768,16 +770,18 @@
   - "2026-05-18 23:59"
   date: October 4 - October 9, 2026
   place: München, Germany
-  note: Mandatory abstract deadline on Apr 22, 2026.
+  note: Mandatory abstract deadline on May 11, 2026.
   tags: [CO, RPT]
 
 - name: ESEM-ERVR
   description: International Symposium on Empirical Software Engineering and Measurement - Emerging Results, Vision and Reflection Papers
   year: 2026
   link: https://conf.researchr.org/track/eseiw-2026/eseiw-2026-emerging-results-and-vision-track
-  deadline: ["TBA"]
+  deadline: 
+  - "2026-05-29 23:59"
   date: October 4 - October 9, 2026
   place: München, Germany
+  note: Mandatory abstract deadline on May 22, 2026.
   tags: [CO, NIER]
 
 - name: ESEM-RR
@@ -805,9 +809,11 @@
   description: International Symposium on Empirical Software Engineering and Measurement - Industry, Government, and Community
   year: 2026
   link: https://conf.researchr.org/track/eseiw-2026/eseiw-2026-esem---industry--government--and-community-track
-  deadline: ["TBA"]
+  deadline: 
+  - "2026-05-27 23:59"
   date: October 4 - October 9, 2026
   place: München, Germany
+  note: Mandatory abstract deadline on May 20, 2026.
   tags: [CO, IPT]
 
 - name: ESEM-IDoESE
@@ -1447,32 +1453,32 @@
 
 - name: ASE-IS
   description: International Conference on Automated Software Engineering (ASE) - Industry Showcase
-  year: 2025
-  link: https://conf.researchr.org/track/ase-2025/ase-2025-industry-showcase
+  year: 2026
+  link: https://conf.researchr.org/track/ase-2026/ase-2026-industry-showcase
   deadline: 
-  - "2025-08-01 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
+  - "2026-04-23 23:59"
+  date: October 12 - October 16, 2026
+  place: Munich, Germany
   tags: [CO, IPT]
 
 - name: ASE-NIER
   description: International Conference on Automated Software Engineering (ASE) - New Ideas and Emerging Results Track
-  year: 2025
-  link: https://conf.researchr.org/track/ase-2025/ase-2025-nier-track
+  year: 2026
+  link: https://conf.researchr.org/track/ase-2026/ase-2026-nier
   deadline: 
-  - "2025-07-12 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
+  - "2026-05-12 23:59"
+  date: October 12 - October 16, 2026
+  place: Munich, Germany
   tags: [CO, NIER]
 
-- name: ASE-TDT
-  description: International Conference on Automated Software Engineering (ASE) - Tool Demonstration Track
-  year: 2025
-  link: https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track
+- name: ASE-TD
+  description: International Conference on Automated Software Engineering (ASE) - Tools and Datasets
+  year: 2026
+  link: https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets
   deadline: 
-  - "2025-07-23 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
+  - "2026-05-11 23:59"
+  date: October 12 - October 16, 2026
+  place: Munich, Germany
   tags: [CO, TOT]
 
 - name: ASE-SRC
@@ -1487,6 +1493,18 @@
 
 
 #ASE Workshops
+- name: KLEE
+  description: International KLEE Workshop on Symbolic Execution
+  year: 2026
+  link: https://srg.doc.ic.ac.uk/klee26/
+  deadline: 
+  - "2026-04-24 23:59"
+  - "2026-07-10 23:59"
+  date: October 12 - October 16, 2026
+  place: Munich, Germany
+  tags: [WO]
+
+
 - name: MAS-GAIN
   description: International Workshop on Multi-Agent Systems using Generative Artificial INtelligence for Automated Software Engineering
   year: 2025
