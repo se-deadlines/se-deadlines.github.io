@@ -80,3 +80,20 @@
 - name: Fast abstracts track
   tag: FAB
   type: others
+
+# CORE ranking (filters match `core_rank` in conferences.yml)
+- name: A*
+  tag: CORE_ASTAR
+  type: core
+- name: A
+  tag: CORE_A
+  type: core
+- name: B
+  tag: CORE_B
+  type: core
+- name: C
+  tag: CORE_C
+  type: core
+- name: National / unranked & other
+  tag: CORE_OTHER
+  type: core
