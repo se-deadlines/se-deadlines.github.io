@@ -45,7 +45,7 @@
                 {% assign grouped_types = site.data.types | group_by: 'type' %}
                 {% for group in grouped_types %}
                 <div class="form-group">
-                  <h4>{{ group.name | capitalize }}</h4> <!-- Group heading based on the type -->
+                  <h4>{% if group.name == 'core' %}CORE ranking{% else %}{{ group.name | capitalize }}{% endif %}</h4>
                   {% for type in group.items %}
                   <div class="checkbox">
                     <label>
@@ -62,6 +62,23 @@
       </div>
       <div class="conf-container">
         {% for conf in site.data.conferences %}
+        {% assign core_fc = '' %}
+        {% if conf.core_rank %}
+          {% assign cr = conf.core_rank | strip %}
+          {% if cr == 'A*' %}
+            {% assign core_fc = 'CORE_ASTAR' %}
+          {% elsif cr == 'A' %}
+            {% assign core_fc = 'CORE_A' %}
+          {% elsif cr == 'B' %}
+            {% assign core_fc = 'CORE_B' %}
+          {% elsif cr == 'C' %}
+            {% assign core_fc = 'CORE_C' %}
+          {% elsif cr == 'N/A' or cr == 'n/a' %}
+            {% assign core_fc = '' %}
+          {% else %}
+            {% assign core_fc = 'CORE_OTHER' %}
+          {% endif %}
+        {% endif %}
         {% assign num_deadlines = conf.deadline.size %}
         {% assign range_end = conf.deadline.size | minus: 1 %}
         {% for i in (0..range_end) %}
@@ -69,13 +86,14 @@
         {% assign prevyear = conf.year | minus: 1 %}
         {% assign deadline = conf.deadline[i] | replace: '%y', year | replace: '%Y', prevyear %}
         {% assign conf_id = conf.name | append: conf.year | append: '-' | append: i | slugify %}
-        <div id="{{ conf_id }}" class="conf {% for tag in conf.tags %} {{tag}} {% endfor %}">
+        <div id="{{ conf_id }}" class="conf {% for tag in conf.tags %} {{tag}} {% endfor %} {{ core_fc }}">
           <div class="row">
               <div class="col-xs-12 col-sm-6">
                 <h2><a href="{{conf.link}}">{{conf.name}} {{conf.year}}</a></h2>
                 <div class="meta">
                   {{ conf.description }}<br>
                   {{conf.date | replace: '-', '–'}} {% if conf.place %}// <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>{% endif %}<br>
+                  {% if conf.core_rank %} <div><b>CORE Rank:</b> {{ conf.core_rank }}</div> {% endif %}
                   {% if conf.note %} <div> <b>Note: </b>{{conf.note}} </div> {% endif %}
                 </div>
               </div>
