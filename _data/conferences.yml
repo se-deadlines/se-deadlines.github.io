@@ -59,22 +59,22 @@
 
 - name: ICSE-JF
   description: International Conference on Software Engineering - Journal-first Papers
-  year: 2026
-  link: https://conf.researchr.org/track/icse-2026/icse-2026-journal-first-papers
+  year: 2027
+  link: https://conf.researchr.org/track/icse-2027/icse-2027-journal-first-papers
   deadline: 
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026
-  place: Rio de Janeiro, Brazil
+  - "2026-10-30 23:59"
+  date: April 25 - May 1, 2027
+  place: Dublin, Ireland
   tags: [CO, JFT]
 
 - name: ICSE-SEET
   description: International Conference on Software Engineering - Software Engineering Education and Training
-  year: 2026
-  link: https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-education-and-training--seet-
+  year: 2027
+  link: https://conf.researchr.org/track/icse-2027/icse-2027-software-engineering-education-and-training--seet-
   deadline: 
-  - "2025-09-29 23:59"
-  date: April 12 - April 18, 2026
-  place: Rio de Janeiro, Brazil
+  - "2026-10-23 23:59"
+  date: April 25 - May 1, 2027
+  place: Dublin, Ireland
   tags: [CO, EDT]
 
 - name: ICSE-DS
@@ -99,32 +99,34 @@
 
 - name: ICSE-SRC
   description: International Conference on Software Engineering - Student Research Competition
-  year: 2026
-  link: https://conf.researchr.org/track/icse-2026/icse-2026-SRC
+  year: 2027
+  link: https://conf.researchr.org/track/icse-2027/icse-2027-src
   deadline: 
-  - "2025-11-14 23:59"
-  date: April 12 - April 18, 2026
-  place: Rio de Janeiro, Brazil
+  - "2026-11-13 23:59"
+  date: April 25 - May 1, 2027
+  place: Dublin, Ireland
   tags: [CO, SRC]
 
 - name: ICSE-ICT
   description: International Conference on Software Engineering - Industry Challenge Track
-  year: 2026
-  link: https://conf.researchr.org/track/icse-2026/icse-2026-industry-challenge-track
+  year: 2027
+  link: https://conf.researchr.org/track/icse-2027/icse-2027-industry-challenge
   deadline: 
-  - "2025-11-07 23:59"
-  date: April 12 - April 18, 2026
-  place: Rio de Janeiro, Brazil
+  - "2026-11-13 23:59"
+  date: April 25 - May 1, 2027
+  place: Dublin, Ireland
   tags: [CO, CHT]
 
 - name: SMeW
   description: Student Mentoring Workshop
-  year: 2026
-  link: https://conf.researchr.org/track/icse-2026/icse-2026-smew---student-mentoring-workshop
+  year: 2027
+  link: https://conf.researchr.org/track/icse-2027/icse-2027-student-mentoring-workshop--smew-
   deadline: 
-  - "2025-10-17 23:59"
-  date: April 12 - April 18, 2026
-  place: Rio de Janeiro, Brazil
+  - "2026-10-19 23:59"
+  - "2026-12-03 23:59"
+  date: April 25 - May 1, 2027
+  place: Dublin, Ireland
+  note: First call for papers people who will need a visa to visit Ireland.
   tags: [WO]
 
 - name: AGENT
@@ -491,13 +493,12 @@
 # ESEC/FSE
 - name: FSE
   description: International Conference on the Foundations of Software Engineering - Research Papers
-  year: 2026
-  link: https://conf.researchr.org/track/fse-2026/fse-2026-research-papers
+  year: 2027
+  link: https://conf.researchr.org/track/fse-2027/fse-2027-papers
   deadline: 
-  - "2025-09-11 23:59"
-  date: July 5 - 9, 2026
-  place: Montreal, Canada
-  note: Mandatory abstract deadline on September 4 2024.
+  - "2026-10-02 23:59"
+  date: July 12 - 16, 2027
+  place: Shenzhen, China
   tags: [CO,RPT]
 
 - name: FSE-IP
@@ -756,15 +757,6 @@
   place: Montreal, Canada
   tags: [CO, LBT]
 
-- name: AIware-IDT
-  description: International Conference on AIware - Industry Demo Track
-  year: 2026
-  link: https://conf.researchr.org/track/aiware-2026/aiware-2026-industry-demo-track
-  deadline: ["TBA"]
-  date: July 6-7, co-hosted with FSE 2026
-  place: Montreal, Canada
-  tags: [CO, LBT]
-
 - name: AIware-BDT
   description: International Conference on AIware - Benchmark & Dataset Track
   year: 2026
@@ -855,14 +847,14 @@
 
 #SCORED
 - name: SCORED
-  description: Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses
-  year: 2025
+  description: Conference on Software Supply Chain Offensive Research and Ecosystem Defenses
+  year: 2026
   link: https://scored.dev/
   deadline: 
-  - "2025-07-14 23:59"
-  date: October 17, 2025 with ACM CCS 2025
-  place: Taipei, Taiwan
-  tags: [WO, RPT, IPT]
+  - "2026-07-12 23:59"
+  date: October 6, 2026 with OpenSSF Community Day 2026
+  place: Prague, Czechia
+  tags: [CO, RPT, IPT]
 
 # ICSMEs
 - name: ICSME
@@ -1029,13 +1021,13 @@
 #SANER
 - name: SANER
   description: International Conference on Software Analysis, Evolution and Reengineering - Research Track
-  year: 2026
-  link: https://conf.researchr.org/track/saner-2026/saner-2026-papers
+  year: 2027
+  link: https://conf.researchr.org/track/saner-2027/saner-2027-papers
   deadline: 
-  - "2025-10-16 23:59"
-  date: March 17 - 20, 2026
-  place: Limassol, Cyprus
-  note: Mandatory abstract deadline on October 9 2025.
+  - "2025-09-25 23:59"
+  date: March 9 - 12, 2027
+  place: Richmond, Virginia
+  note: Mandatory abstract deadline on September 21 2026.
   tags: [CO, RPT]
 
 - name: SANER-IT
@@ -1498,12 +1490,12 @@
 
 - name: ASE-SRC
   description: International Conference on Automated Software Engineering (ASE) - Student Research Competition
-  year: 2025
-  link: https://conf.researchr.org/track/ase-2025/ase-2025-student-research-competition
+  year: 2026
+  link: https://conf.researchr.org/track/ase-2026/ase-2026-student-research-competition
   deadline: 
-  - "2025-07-12 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
+  - "2026-07-23 23:59"
+  date: October 12 - October 16, 2026
+  place: Munich, Germany
   tags: [CO, SRC]
 
 
