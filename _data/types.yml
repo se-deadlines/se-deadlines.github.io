@@ -38,9 +38,6 @@
 - name: Registered reports track
   tag: RRT
   type: track
-- name: Research projects track
-  tag: RPT
-  type: track
 - name: Experience papers track
   tag: EXPT
   type: track
@@ -50,7 +47,10 @@
 - name: Reproducibility Studies and Negative Results Track
   tag: RENE
   type: track
-  
+- name: Posters track
+  tag: POS
+  type: track
+
 # Others
 
 - name: Artifact track
