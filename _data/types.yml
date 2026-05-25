@@ -47,9 +47,6 @@
 - name: Reproducibility Studies and Negative Results Track
   tag: RENE
   type: track
-- name: Posters track
-  tag: POS
-  type: track
 
 # Others
 
@@ -79,4 +76,7 @@
   type: others
 - name: Fast abstracts track
   tag: FAB
+  type: others
+- name: Posters track
+  tag: POS
   type: others

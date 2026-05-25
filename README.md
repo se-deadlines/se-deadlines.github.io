@@ -114,7 +114,6 @@ The current tag set (also defined in [`types.yml`][4]):
 | `EXPT` | track  | Experience papers track                           |
 | `DB`   | track  | Data and Benchmarking track                       |
 | `RENE` | track  | Reproducibility Studies and Negative Results Track |
-| `POS`  | track  | Posters track                                     |
 | `ART`  | others | Artifact track                                    |
 | `DOS`  | others | Doctoral symposium                                |
 | `NFS`  | others | New faculty symposium                             |
@@ -124,6 +123,7 @@ The current tag set (also defined in [`types.yml`][4]):
 | `REST` | others | Replicability studies track                       |
 | `CHT`  | others | Challenge track                                   |
 | `FAB`  | others | Fast abstracts track                              |
+| `POS`  | others | Posters track                                     |
 
 ## Run locally
 
