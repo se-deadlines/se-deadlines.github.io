@@ -113,7 +113,7 @@ The current tag set (also defined in [`types.yml`][4]):
 | `RRT`  | track  | Registered reports track                          |
 | `EXPT` | track  | Experience papers track                           |
 | `DB`   | track  | Data and Benchmarking track                       |
-| `RENE` | track  | Reproducibility Studies and Negative Results Track|
+| `RENE` | track  | Reproducibility Studies and Negative Results Track |
 | `POS`  | track  | Posters track                                     |
 | `ART`  | others | Artifact track                                    |
 | `DOS`  | others | Doctoral symposium                                |
