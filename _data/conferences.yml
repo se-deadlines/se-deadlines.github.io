@@ -79,13 +79,13 @@
 
 - name: ICSE-DS
   description: International Conference on Software Engineering - Doctoral Symposium
-  year: 2025
+  year: 2026
   link: https://conf.researchr.org/track/icse-2026/icse-2026-doctoral-symposium
-  deadline: 
+  deadline:
   - "2025-11-14 23:59"
   date: April 12 - April 18, 2026
   place: Rio de Janeiro, Brazil
-  tags: [CO,DOS]
+  tags: [CO, DOS]
 
 - name: ICSE-T&TB
   description: International Conference on Software Engineering - Tutorials and Technical Briefings
@@ -946,7 +946,7 @@
 # ISSTA
 - name: ISSTA
   description: International Symposium on Software Testing and Analysis
-  year: 2025
+  year: 2026
   link: https://conf.researchr.org/track/issta-2026/issta-2026-research-papers
   deadline: 
   - "2026-01-29 23:59"
@@ -1139,7 +1139,7 @@
     - "2025-10-23 23:59"
   date: April 12 - April 18, 2026 with ICSE 2026
   place: Rio de Janeiro, Brazil
-  note: Mandatory abstract deadline on October 16 2024.
+  note: Mandatory abstract deadline on October 16 2025.
   tags: [CO, RPT]
 
 
@@ -1151,7 +1151,7 @@
     - "2025-12-11 23:59"
   date: April 12 - April 18, 2026 with ICSE 2026
   place: Rio de Janeiro, Brazil
-  note: Mandatory abstract deadline on December 4 2024.
+  note: Mandatory abstract deadline on December 4 2025.
   tags: [CO, ART]
 
 - name: SEAMS-JF
@@ -1384,7 +1384,7 @@
 
 - name: REFSQ-RT
   description: Requirements Engineering Foundation for Software Quality - Research Track
-  year: 2025
+  year: 2026
   link: https://2026.refsq.org/track/refsq-2026-research-papers
   deadline:
    - "2025-10-17 23:59"
