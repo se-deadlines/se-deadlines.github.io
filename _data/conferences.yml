@@ -1556,8 +1556,8 @@
 - name: ASYDE
   description: International Workshop on Automated and verifiable Software sYstem DEvelopment
   year: 2025
-  link: TBD
-  deadline: 
+  link: https://conf.researchr.org/home/ase-2025
+  deadline:
   - "2025-08-26 23:59"
   date: November 16 - November 20, 2025
   place: Seoul, South Korea
@@ -1566,8 +1566,8 @@
 - name: AgenticSE
   description: Autonomous Agents in Software Engineering
   year: 2025
-  link: TBD
-  deadline: 
+  link: https://conf.researchr.org/home/ase-2025
+  deadline:
   - "2025-08-26 23:59"
   date: November 16 - November 20, 2025
   place: Seoul, South Korea
@@ -1596,8 +1596,8 @@
 - name: VARSE
   description: International Workshop on Virtual and Augmented Reality Software Engineering
   year: 2025
-  link: TBD
-  deadline: 
+  link: https://conf.researchr.org/home/ase-2025
+  deadline:
   - "2025-08-26 23:59"
   date: November 16 - November 20, 2025
   place: Seoul, South Korea
