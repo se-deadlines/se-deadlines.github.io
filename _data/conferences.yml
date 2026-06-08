@@ -1603,6 +1603,16 @@
   place: Seoul, South Korea
   tags: [WO]
 
+- name: RASE
+  description: Reliable and trustworthy Automated Software Engineering
+  year: 2026
+  link: https://conf.researchr.org/home/ase-2026/rase-2026
+  deadline: 
+  - "2026-07-24 23:59"
+  date: October 12 - October 16, 2026
+  place: Munich, Germany
+  tags: [WO]  
+
 #SSBSE
 - name: SSBSE
   description: Symposium on Search-Based Software Engineering - Research Paper Track
