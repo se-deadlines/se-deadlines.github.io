@@ -1800,7 +1800,18 @@
   link: https://data4softsec26.ieee-security.org
   deadline:
   - "2026-02-20 23:59"
-  date: May 21, 2026 with IEEE S&P 2026 
+  date: May 21, 2026 with IEEE S&P 2026
   place: San Francisco, California, USA
   tags: [WO]
+
+- name: APSEC
+  description: Asia-Pacific Software Engineering Conference
+  year: 2026
+  link: https://conf.researchr.org/home/apsec-2026
+  deadline:
+  - "2026-07-13 23:59"
+  date: December 7-10, 2026
+  place: Bali, Indonesia
+  note: Abstract deadline on July 6, 2026.
+  tags: [CO, RPT]
   
