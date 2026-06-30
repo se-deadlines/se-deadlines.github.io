@@ -1800,7 +1800,17 @@
   link: https://data4softsec26.ieee-security.org
   deadline:
   - "2026-02-20 23:59"
-  date: May 21, 2026 with IEEE S&P 2026 
+  date: May 21, 2026 with IEEE S&P 2026
   place: San Francisco, California, USA
   tags: [WO]
+
+- name: ICSOB
+  description: International Conference on Software Business
+  year: 2026
+  link: https://icsob2026.github.io/
+  deadline:
+  - "2026-07-20 23:59"
+  date: October 26-28, 2026
+  place: Gothenburg, Sweden
+  tags: [CO, RPT]
   
