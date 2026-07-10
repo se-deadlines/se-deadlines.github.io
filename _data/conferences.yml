@@ -1804,6 +1804,15 @@
   place: San Francisco, California, USA
   tags: [WO]
 
+- name: ICSOB
+  description: International Conference on Software Business
+  year: 2026
+  link: https://icsob2026.github.io/
+  deadline:
+  - "2026-07-20 23:59"
+  date: October 26-28, 2026
+  place: Gothenburg, Sweden
+
 - name: APSEC
   description: Asia-Pacific Software Engineering Conference
   year: 2026
