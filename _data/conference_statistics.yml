@@ -1,1 +1,34 @@
-{}
+ICSE:
+  - year: 2025
+    submissions: 1150
+    accepted: 245
+    acceptance_rate: "21.3%"
+    source: http://www.mysmu.edu/faculty/davidlo/talks/ICSE2025-Opening-v2.4.pdf
+
+FSE:
+  - year: 2025
+    submissions: 612
+    accepted: 135
+    acceptance_rate: "22.1%"
+    source: https://csconfstats.xoveexu.com/conferences/fse/2025/
+
+ASE:
+  - year: 2025
+    submissions: 1190
+    accepted: 246
+    acceptance_rate: "20.7%"
+    source: https://www.openresearch.org/wiki/ASE_2025
+
+ISSTA:
+  - year: 2025
+    submissions: 550
+    accepted: 107
+    acceptance_rate: "19.5%"
+    source: https://www.openresearch.org/wiki/ISSTA_2025
+
+MSR:
+  - year: 2025
+    submissions: 161
+    accepted: 47
+    acceptance_rate: "29.2%"
+    source: https://www.openresearch.org/wiki/MSR_2025
