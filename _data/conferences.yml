@@ -79,12 +79,12 @@
 
 - name: ICSE-DS
   description: International Conference on Software Engineering - Doctoral Symposium
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2026/icse-2026-doctoral-symposium
-  deadline: 
-  - "2025-11-14 23:59"
-  date: April 12 - April 18, 2026
-  place: Rio de Janeiro, Brazil
+  year: 2027
+  link: https://conf.researchr.org/track/icse-2027/icse-2027-doctoral-symposium
+  deadline:
+  - "2026-11-14 23:59"
+  date: April 25 - May 1, 2027
+  place: Dublin, Ireland
   tags: [CO,DOS]
 
 - name: ICSE-T&TB
@@ -251,12 +251,13 @@
 
 - name: IDE
   description: IDE Workshop
-  year: 2026
+  year: 2027
   link: https://ide-workshop.github.io/
   deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
+  - "2026-11-27 23:59"
+  date: ICSE 2027 (exact workshop day TBA)
+  place: Dublin, Ireland
+  note: Workshop date not yet fixed.
   tags: [WO]
 
 - name: IWSiB
@@ -503,12 +504,12 @@
 
 - name: FSE-IP
   description: International Conference on the Foundations of Software Engineering - Industry Papers
-  year: 2026
-  link: https://conf.researchr.org/track/fse-2026/fse-2026-industry-papers
-  deadline: 
-  - "2026-01-22 23:59"
-  date: July 5 - 9, 2026
-  place: Montreal, Canada
+  year: 2027
+  link: https://conf.researchr.org/track/fse-2027/fse-2027-industry-papers
+  deadline:
+  - "2027-01-23 23:59"
+  date: July 12 - 16, 2027
+  place: Shenzhen, China
   tags: [CO,IPT]
 
 - name: FSE-IVR
@@ -533,12 +534,12 @@
 
 - name: FSE-SEE
   description: International Conference on the Foundations of Software Engineering - Software Engineering Education
-  year: 2026
-  link: https://conf.researchr.org/track/fse-2026/fse-2026-software-engineering-education
-  deadline: 
-  - "2026-01-22 23:59"
-  date: July 5 - 9, 2026
-  place: Montreal, Canada
+  year: 2027
+  link: https://conf.researchr.org/track/fse-2027/fse-2027-software-engineering-education
+  deadline:
+  - "2027-01-29 23:59"
+  date: July 12 - 16, 2027
+  place: Shenzhen, China
   tags: [CO, EDT]
 
 - name: FSE-SRC
@@ -1032,47 +1033,47 @@
 
 - name: SANER-IT
   description: International Conference on Software Analysis, Evolution and Reengineering - Industrial Track
-  year: 2026
-  link: https://conf.researchr.org/track/saner-2026/saner-2026-industrial-track
-  deadline: 
-  - "2025-11-17 23:59"
-  date: March 17 - 20, 2026
-  place: Limassol, Cyprus
-  note: Mandatory abstract deadline on November 10 2025.
+  year: 2027
+  link: https://conf.researchr.org/track/saner-2027/saner-2027-industrial-track
+  deadline:
+  - "2026-10-23 23:59"
+  date: March 9 - 12, 2027
+  place: Richmond, Virginia, United States
+  note: Mandatory abstract deadline on October 19 2026.
   tags: [CO, IPT]
 
 
 - name: SANER-ERA
   description: International Conference on Software Analysis, Evolution and Reengineering - Early Research Achievement
-  year: 2026
-  link: https://conf.researchr.org/track/saner-2026/saner-2026-early-research-achievement-era--track
-  deadline: 
-  - "2025-11-17 23:59"
-  date: March 17 - 20, 2026
-  place: Limassol, Cyprus
-  note: Mandatory abstract deadline on November 10 2025.
+  year: 2027
+  link: https://conf.researchr.org/track/saner-2027/saner-2027-early-research-achievement-era--track
+  deadline:
+  - "2026-10-23 23:59"
+  date: March 9 - 12, 2027
+  place: Richmond, Virginia, United States
+  note: Mandatory abstract deadline on October 19 2026.
   tags: [CO, NIER]
 
 - name: SANER-SP&PT
   description: International Conference on Software Analysis, Evolution and Reengineering - Short Papers and Posters Track
-  year: 2026
-  link: https://conf.researchr.org/track/saner-2026/saner-2026-short-papers-and-posters-track
-  deadline: 
-  - "2025-11-17 23:59"
-  date: March 17 - 20, 2026
-  place: Limassol, Cyprus
-  note: Mandatory abstract deadline on November 10 2025.
+  year: 2027
+  link: https://conf.researchr.org/track/saner-2027/saner-2027-short-papers-and-posters-track
+  deadline:
+  - "2026-10-23 23:59"
+  date: March 9 - 12, 2027
+  place: Richmond, Virginia, United States
+  note: Mandatory abstract deadline on October 19 2026.
   tags: [CO, SPT, POS]
 
 - name: SANER-RENE
   description: International Conference on Software Analysis, Evolution and Reengineering - Reproducibility Studies and Negative Results Track
-  year: 2026
-  link: https://conf.researchr.org/track/saner-2026/saner-2026-reproducibility-studies-and-negative-results-rene-track
-  deadline: 
-  - "2025-11-17 23:59"
-  date: March 17 - 20, 2026
-  place: Limassol, Cyprus
-  note: Mandatory abstract deadline on November 10 2025.
+  year: 2027
+  link: https://conf.researchr.org/track/saner-2027/saner-2027-reproducibility-studies-and-negative-results-rene-track
+  deadline:
+  - "2026-10-23 23:59"
+  date: March 9 - 12, 2027
+  place: Richmond, Virginia, United States
+  note: Mandatory abstract deadline on October 19 2026.
   tags: [CO, SPT]
 
 - name: SANER-JFT
@@ -1087,60 +1088,62 @@
 
 - name: SANER-TDT
   description: International Conference on Software Analysis, Evolution and Reengineering - Tool Demo Track
-  year: 2026
-  link: https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track
-  deadline: 
-  - "2025-11-17 23:59"
-  date: March 17 - 20, 2026
-  place: Limassol, Cyprus
+  year: 2027
+  link: https://conf.researchr.org/track/saner-2027/saner-2027-tool-demo-track
+  deadline:
+  - "2026-10-23 23:59"
+  date: March 9 - 12, 2027
+  place: Richmond, Virginia, United States
+  note: Optional abstract deadline on October 19 2026.
   tags: [CO, TOT]
 
 - name: SANER-RR
   description: International Conference on Software Analysis, Evolution and Reengineering - Registered Report Track
-  year: 2026
-  link: https://conf.researchr.org/track/saner-2026/saner-2026-registered-report-track-
-  deadline: 
-  - "2025-11-07 23:59"
-  date: March 17 - 20, 2026
-  place: Limassol, Cyprus
+  year: 2027
+  link: https://conf.researchr.org/track/saner-2027/saner-2027-registered-report-track
+  deadline:
+  - "2026-11-06 23:59"
+  date: March 9 - 12, 2027
+  place: Richmond, Virginia, United States
+  note: Authors submit an abstract of their initial report on October 30, 2026.
   tags: [CO, RRT]
 
 #AST
 
 - name: AST
   description: International Conference on Automation of Software Test
-  year: 2026
-  link: https://conf.researchr.org/home/ast-2026#Call-for-Papers
-  deadline: 
-  - "2025-10-26 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
+  year: 2027
+  link: https://conf.researchr.org/home/ast-2027
+  deadline:
+  - "2026-10-30 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: 'Theme: Testing in the Age of AI: Governance, Compliance, and Oversight.'
   tags: [CO, RPT, SPT, IPT]
 
 
 #CHASEs
 - name: CHASE
   description: International Conference on Cooperative and Human Aspects of Software Engineering - Full Papers
-  year: 2026
-  link: https://conf.researchr.org/track/chase-2026/chase-2026-papers
-  deadline: 
-  - "2025-10-23 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  note: Recommended abstract deadline on October 16 2025.
+  year: 2027
+  link: https://conf.researchr.org/track/chase-2027/chase-2027-papers
+  deadline:
+  - "2026-10-23 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: Abstract deadline on October 16 2026.
   tags: [CO, RPT, SPT]
 
 #SEAMS
 - name: SEAMS
   description: International Conference on Software Engineering for Adaptive and Self-Managing Systems- Research Track
-  year: 2026
-  link: https://conf.researchr.org/track/seams-2026/seams-2026-research-track
-  deadline: 
-    - "2025-10-23 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  note: Mandatory abstract deadline on October 16 2024.
-  tags: [CO, RPT]
+  year: 2027
+  link: https://conf.researchr.org/track/seams-2027/seams-2027-research-track
+  deadline:
+    - "2026-10-21 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  tags: [CO, RPT, SPT, IPT]
 
 
 - name: SEAMS-AT
@@ -1167,13 +1170,13 @@
 #MSR
 - name: MSR
   description: Mining Software Repositories - Technical Papers
-  year: 2026
-  link: https://conf.researchr.org/track/msr-2026/msr-2026-technical-papers
-  deadline: 
-    - "2025-10-23 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  note: Mandatory abstract deadline 20 October 2025.
+  year: 2027
+  link: https://conf.researchr.org/track/msr-2027/msr-2027-technical-papers
+  deadline:
+    - "2026-10-23 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: Mandatory abstract deadline 20 October 2026.
   tags: [CO, RPT]
 
 - name: MSR-TT
@@ -1210,24 +1213,24 @@
 
 - name: MSR-MC
   description: Mining Software Repositories - Mining Challenge
-  year: 2026
-  link: https://2026.msrconf.org/track/msr-2026-mining-challenge
-  deadline: 
-    - "2025-12-10 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  note: There are multiple deadlines for different stages (check the call for papers).
+  year: 2027
+  link: https://2027.msrconf.org/track/msr-2027-mining-challenge
+  deadline:
+    - "2026-08-03 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: Proposal submission deadline; there are multiple deadlines for different stages (check the call for papers).
   tags: [CO, CHT]
 
 - name: MSR-DT
   description: Mining Software Repositories - Data and Tool Showcase Track
-  year: 2026
-  link: https://2026.msrconf.org/track/msr-2026-data-and-tool-showcase-track
+  year: 2027
+  link: https://2027.msrconf.org/track/msr-2027-data-and-tool-showcase-track
   deadline:
-    - "2025-11-10 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  note: Abstract deadline on Nov 5, 2025.
+    - "2026-11-10 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: Abstract deadline on Nov 5, 2026.
   tags: [CO, DB]
 
 #CAIN
@@ -1247,32 +1250,32 @@
 
 - name: TechDebt
   description: International Conference on Technical Debt - Technical Papers
-  year: 2026
-  link: https://conf.researchr.org/track/TechDebt-2026/TechDebt-2026-main
-  deadline: 
-  - "2025-10-23 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  note: Mandatory abstract deadline on October 16 2025.
-  tags: [CO, RPT]
+  year: 2027
+  link: https://conf.researchr.org/track/TechDebt-2027/TechDebt-2027-main
+  deadline:
+  - "2026-10-26 23:59"
+  date: April 25-26, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: Mandatory abstract deadline on October 19 2026.
+  tags: [CO, RPT, SPT, EXPT]
 
 - name: TechDebt-JF
   description: International Conference on Technical - Journal First Track
-  year: 2026
-  link: https://conf.researchr.org/track/TechDebt-2026/TechDebt-2026-journal-first
-  deadline: 
-  - "2026-01-17 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
+  year: 2027
+  link: https://conf.researchr.org/track/TechDebt-2027/TechDebt-2027-journal-first
+  deadline:
+  - "2027-01-15 23:59"
+  date: April 25-26, 2027 with ICSE 2027
+  place: Dublin, Ireland
   tags: [CO, JFT]
 
 - name: TechDebt-IT
   description: International Conference on Technical - Industry Track
-  year: 2026
-  link: https://conf.researchr.org/track/TechDebt-2026/TechDebt-2026-industry-track
-  deadline: ["2026-01-16 23:59"]
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
+  year: 2027
+  link: https://conf.researchr.org/track/TechDebt-2027/TechDebt-2027-industry-track
+  deadline: ["2027-01-22 23:59"]
+  date: April 25-26, 2027 with ICSE 2027
+  place: Dublin, Ireland
   tags: [CO, IPT]
 
 #FormaliSE
@@ -1514,12 +1517,13 @@
 
 - name: MAS-GAIN
   description: International Workshop on Multi-Agent Systems using Generative Artificial INtelligence for Automated Software Engineering
-  year: 2025
-  link: https://masgain.github.io/masgain2025/
-  deadline: 
-  - "2025-08-26 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
+  year: 2026
+  link: https://conf.researchr.org/home/ase-2026/mas-gain-2026
+  deadline:
+  - "2026-07-22 23:59"
+  date: October 12 - October 16, 2026 with ASE 2026
+  place: Munich, Germany
+  note: Abstract deadline on July 17, 2026.
   tags: [WO]
 
 - name: ISE
@@ -1555,12 +1559,13 @@
 
 - name: ASYDE
   description: International Workshop on Automated and verifiable Software sYstem DEvelopment
-  year: 2025
-  link: TBD
-  deadline: 
-  - "2025-08-26 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
+  year: 2026
+  link: https://conf.researchr.org/home/ase-2026/asyde-2026
+  deadline:
+  - "2026-07-17 23:59"
+  date: October 12 - October 16, 2026 with ASE 2026
+  place: Munich, Germany
+  note: Abstract deadline on July 10, 2026.
   tags: [WO]
 
 - name: AgenticSE
@@ -1585,12 +1590,12 @@
 
 - name: AISM
   description: AI for Software Modernization
-  year: 2025
-  link: https://aism25.github.io/aism25/
-  deadline: 
-  - "2025-08-26 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
+  year: 2026
+  link: https://conf.researchr.org/home/ase-2026/aism-2026
+  deadline:
+  - "2026-08-07 23:59"
+  date: October 12 - October 16, 2026 with ASE 2026
+  place: Munich, Germany
   tags: [WO]
 
 - name: VARSE
@@ -1743,16 +1748,18 @@
   description: Journal of Systems and Software - Impactful Software Architecture
   year: 2026
   link: https://www.sciencedirect.com/special-issue/325939/impactful-software-architecture
-  deadline: 
-  - "2026-01-31 23:59"
+  deadline:
+  - "2026-02-28 23:59"
+  note: Deadline extended from January 31 2026.
   tags: [JO]
 
 - name: JSS-ISA
   description: Journal of Systems and Software - Agile Reloaded- The Red Pill or the Blue Pill?
   year: 2026
   link: https://www.sciencedirect.com/special-issue/324072/agile-reloaded-the-red-pill-or-the-blue-pill
-  deadline: 
-  - "2025-12-15 23:59"
+  deadline:
+  - "2026-01-15 23:59"
+  note: Deadline extended from December 15 2025.
   tags: [JO]
 
 
