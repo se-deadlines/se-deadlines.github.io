@@ -95,7 +95,35 @@ The *tag* field indicates the type of deadline entry you are adding. Users can f
 - **Venue type:** The type of venues the deadline indicates. For example, is it a conference (`CO`), a workshop (`WO`), or a special edition of a journal (`JO`).
 - **Tracks:** Software engineering conferences generally have multiple tracks with different goals, scopes, requirements, and deadlines. For example, ICSE 2025 has a [Research][5] and a [New Ideas and Emerging Results][6] tracks. The former is a research paper track (`RPT`), while the latter is a new idea and emerging results track (`NIER`). We are currently testing our tag groups for tracks and welcome any suggestions! :)
 
-A complete tag list is available in [`types.yml`][4].
+The current tag set (also defined in [`types.yml`][4]):
+
+| Tag    | Type   | Name                                              |
+|--------|--------|---------------------------------------------------|
+| `CO`   | venue  | Conference                                        |
+| `JO`   | venue  | Journal                                           |
+| `WO`   | venue  | Workshop                                          |
+| `RPT`  | track  | Research paper track                              |
+| `SPT`  | track  | Short paper track                                 |
+| `IPT`  | track  | In practice track                                 |
+| `SOT`  | track  | Society track                                     |
+| `EDT`  | track  | Education track                                   |
+| `JFT`  | track  | Journal first track                               |
+| `TOT`  | track  | Tool track                                        |
+| `NIER` | track  | New ideas and emerging results track              |
+| `RRT`  | track  | Registered reports track                          |
+| `EXPT` | track  | Experience papers track                           |
+| `DB`   | track  | Data and Benchmarking track                       |
+| `RENE` | track  | Reproducibility Studies and Negative Results Track |
+| `ART`  | others | Artifact track                                    |
+| `DOS`  | others | Doctoral symposium                                |
+| `NFS`  | others | New faculty symposium                             |
+| `SRC`  | others | Student research competition                      |
+| `LBT`  | others | Late breaking track                               |
+| `TTBT` | others | Tutorials and technical briefings track           |
+| `REST` | others | Replicability studies track                       |
+| `CHT`  | others | Challenge track                                   |
+| `FAB`  | others | Fast abstracts track                              |
+| `POS`  | others | Posters track                                     |
 
 ## Run locally
 

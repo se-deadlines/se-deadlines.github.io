@@ -79,13 +79,13 @@
 
 - name: ICSE-DS
   description: International Conference on Software Engineering - Doctoral Symposium
-  year: 2025
-  link: https://conf.researchr.org/track/icse-2026/icse-2026-doctoral-symposium
-  deadline: 
-  - "2025-11-14 23:59"
-  date: April 12 - April 18, 2026
-  place: Rio de Janeiro, Brazil
-  tags: [CO,DOS]
+  year: 2027
+  link: https://conf.researchr.org/track/icse-2027/icse-2027-doctoral-symposium
+  deadline:
+  - "2026-11-14 23:59"
+  date: April 25 - May 1, 2027
+  place: Dublin, Ireland
+  tags: [CO, DOS]
 
 - name: ICSE-T&TB
   description: International Conference on Software Engineering - Tutorials and Technical Briefings
@@ -270,7 +270,7 @@
   tags: [WO]
 
 - name: JAWs
-  description: International Workshop on Software-intensive Business
+  description: Journal Ahead Workshop
   year: 2026
   link: https://conf.researchr.org/home/icse-2026/jaws-2026
   deadline:
@@ -311,7 +311,7 @@
   tags: [WO]
 
 - name: MSSiS
-  description: International Workshop on Software-intensive Systems
+  description: International Workshop on Modeling and Simulation of Software-Intensive Systems
   year: 2026
   link: https://conf.researchr.org/home/icse-2026/mssis-2026
   deadline:
@@ -551,11 +551,11 @@
   place: Montreal, Canada
   tags: [CO, SRC]
 
-- name: FSE-SRC
+- name: FSE-Demo
   description: International Conference on the Foundations of Software Engineering - Tool Demonstrations
   year: 2026
   link: https://conf.researchr.org/track/fse-2026/fse-2026-demonstrations
-  deadline: 
+  deadline:
   - "2026-01-22 23:59"
   date: July 5 - 9, 2026
   place: Montreal, Canada
@@ -621,7 +621,7 @@
   place: Montreal, Canada
   tags: [WO]
 
-- name: SE4ES
+- name: SE4ADS
   description: International Workshop on Software Engineering for Autonomous Driving Systems
   year: 2026
   link: https://sora.ics.uci.edu/se4ads_26/
@@ -651,7 +651,7 @@
   place: Montreal, Canada
   tags: [WO]
 
-- name: LLMSC
+- name: SEEAIT
   description: International Workshop on Software Engineering for the GenAI Transformation
   year: 2026
   link: https://seeait.github.io/
@@ -879,11 +879,11 @@
   note: Abstract deadline on May 11, 2026.
   tags: [CO, NIER]
 
-- name: ICSME-NIER
+- name: ICSME-RENE
   description: International Conference on Software Maintenance and Evolution - Replication and Negative Results
   year: 2026
   link: https://conf.researchr.org/track/icsme-2026/icsme-2026-replication-and-negative-results
-  deadline: 
+  deadline:
   - "2026-05-16 23:59"
   date: September 14 - September 18, 2026
   place: Benevento, Italy
@@ -946,7 +946,7 @@
 # ISSTA
 - name: ISSTA
   description: International Symposium on Software Testing and Analysis
-  year: 2025
+  year: 2026
   link: https://conf.researchr.org/track/issta-2026/issta-2026-research-papers
   deadline: 
   - "2026-01-29 23:59"
@@ -1068,12 +1068,12 @@
   description: International Conference on Software Analysis, Evolution and Reengineering - Reproducibility Studies and Negative Results Track
   year: 2026
   link: https://conf.researchr.org/track/saner-2026/saner-2026-reproducibility-studies-and-negative-results-rene-track
-  deadline: 
+  deadline:
   - "2025-11-17 23:59"
   date: March 17 - 20, 2026
   place: Limassol, Cyprus
   note: Mandatory abstract deadline on November 10 2025.
-  tags: [CO, SPT]
+  tags: [CO, RENE]
 
 - name: SANER-JFT
   description: International Conference on Software Analysis, Evolution and Reengineering - Journal First Track
@@ -1139,7 +1139,7 @@
     - "2025-10-23 23:59"
   date: April 12 - April 18, 2026 with ICSE 2026
   place: Rio de Janeiro, Brazil
-  note: Mandatory abstract deadline on October 16 2024.
+  note: Mandatory abstract deadline on October 16 2025.
   tags: [CO, RPT]
 
 
@@ -1151,7 +1151,7 @@
     - "2025-12-11 23:59"
   date: April 12 - April 18, 2026 with ICSE 2026
   place: Rio de Janeiro, Brazil
-  note: Mandatory abstract deadline on December 4 2024.
+  note: Mandatory abstract deadline on December 4 2025.
   tags: [CO, ART]
 
 - name: SEAMS-JF
@@ -1233,7 +1233,7 @@
 #CAIN
 
 - name: CAIN
-  description: International Conference on AI Engineering - Software Engineering for AIg - Research Track
+  description: International Conference on AI Engineering - Software Engineering for AI - Research Track
   year: 2026
   link: https://conf.researchr.org/home/cain-2026
   deadline: 
@@ -1257,7 +1257,7 @@
   tags: [CO, RPT]
 
 - name: TechDebt-JF
-  description: International Conference on Technical - Journal First Track
+  description: International Conference on Technical Debt - Journal First Track
   year: 2026
   link: https://conf.researchr.org/track/TechDebt-2026/TechDebt-2026-journal-first
   deadline: 
@@ -1267,7 +1267,7 @@
   tags: [CO, JFT]
 
 - name: TechDebt-IT
-  description: International Conference on Technical - Industry Track
+  description: International Conference on Technical Debt - Industry Track
   year: 2026
   link: https://conf.researchr.org/track/TechDebt-2026/TechDebt-2026-industry-track
   deadline: ["2026-01-16 23:59"]
@@ -1316,7 +1316,7 @@
    - "2026-05-28 23:59"
   date: August 17 - August 21, 2026
   place: Montreal, Canada
-  tags: [CO,DS]
+  tags: [CO, DOS]
 
 - name: RE-IIP
   description: Requirements Engineering - Industrial Innovation Papers
@@ -1337,7 +1337,7 @@
    - "2026-04-13 23:59"
   date: August 17 - August 21, 2026
   place: Montreal, Canada
-  tags: [CO,IPT]
+  tags: [CO, JFT]
 
 - name: RE-PTD
   description: Requirements Engineering - Posters and Tool Demos
@@ -1384,7 +1384,7 @@
 
 - name: REFSQ-RT
   description: Requirements Engineering Foundation for Software Quality - Research Track
-  year: 2025
+  year: 2026
   link: https://2026.refsq.org/track/refsq-2026-research-papers
   deadline:
    - "2025-10-17 23:59"
@@ -1556,8 +1556,8 @@
 - name: ASYDE
   description: International Workshop on Automated and verifiable Software sYstem DEvelopment
   year: 2025
-  link: TBD
-  deadline: 
+  link: https://conf.researchr.org/home/ase-2025
+  deadline:
   - "2025-08-26 23:59"
   date: November 16 - November 20, 2025
   place: Seoul, South Korea
@@ -1566,8 +1566,8 @@
 - name: AgenticSE
   description: Autonomous Agents in Software Engineering
   year: 2025
-  link: TBD
-  deadline: 
+  link: https://conf.researchr.org/home/ase-2025
+  deadline:
   - "2025-08-26 23:59"
   date: November 16 - November 20, 2025
   place: Seoul, South Korea
@@ -1596,8 +1596,8 @@
 - name: VARSE
   description: International Workshop on Virtual and Augmented Reality Software Engineering
   year: 2025
-  link: TBD
-  deadline: 
+  link: https://conf.researchr.org/home/ase-2025
+  deadline:
   - "2025-08-26 23:59"
   date: November 16 - November 20, 2025
   place: Seoul, South Korea
@@ -1747,8 +1747,8 @@
   - "2026-01-31 23:59"
   tags: [JO]
 
-- name: JSS-ISA
-  description: Journal of Systems and Software - Agile Reloaded- The Red Pill or the Blue Pill?
+- name: JSS-AR
+  description: Journal of Systems and Software - Agile Reloaded, The Red Pill or the Blue Pill?
   year: 2026
   link: https://www.sciencedirect.com/special-issue/324072/agile-reloaded-the-red-pill-or-the-blue-pill
   deadline: 
