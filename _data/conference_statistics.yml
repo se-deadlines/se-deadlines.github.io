@@ -14,21 +14,21 @@ FSE:
 
 ASE:
   - year: 2025
-    submissions: 1190
-    accepted: 246
-    acceptance_rate: "20.7%"
-    source: https://www.openresearch.org/wiki/ASE_2025
+    submissions: 1136
+    accepted: 245
+    acceptance_rate: "21.6%"
+    source: https://csconfstats.xoveexu.com/conferences/ase/2025/
 
 ISSTA:
   - year: 2025
     submissions: 550
     accepted: 107
     acceptance_rate: "19.5%"
-    source: https://www.openresearch.org/wiki/ISSTA_2025
+    source: https://csconfstats.xoveexu.com/conferences/issta/2025/
 
 MSR:
   - year: 2025
     submissions: 161
     accepted: 47
     acceptance_rate: "29.2%"
-    source: https://www.openresearch.org/wiki/MSR_2025
+    source: https://2025.msrconf.org/
