@@ -97,6 +97,22 @@ The *tag* field indicates the type of deadline entry you are adding. Users can f
 
 A complete tag list is available in [`types.yml`][4].
 
+### Conference acceptance statistics
+
+You can add conference statistics in [`_data/conference_statistics.yml`](_data/conference_statistics.yml).
+The key is the conference `name`, and each value is a list of yearly records:
+
+```yaml
+ICSE:
+  - year: 2025
+    submissions: 123
+    accepted: 30
+    acceptance_rate: "24.4%"
+    source: https://example.com/source
+```
+
+These records are shown in a collapsible "Acceptance statistics" section for each conference card.
+
 ## Run locally
 
 To run locally the page, the following must be done: 
