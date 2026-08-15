@@ -1151,8 +1151,41 @@
   - "2026-10-23 23:59"
   date: April 26-27, 2027 with ICSE 2027
   place: Dublin, Ireland
-  note: Abstract deadline on October 16 2026.
+  note: Abstract deadline on October 16, 2026.
   tags: [CO, RPT, SPT]
+
+- name: CHASE-DS
+  description: International Conference on Cooperative and Human Aspects of Software Engineering - Doctoral Symposium
+  year: 2027
+  link: https://conf.researchr.org/track/chase-2027/chase-2027-decs-papers
+  deadline:
+  - "2027-01-28 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: Abstract deadline on October 16, 2026.
+  tags: [CO, DOS]
+
+#FORGE
+- name: FORGE
+  description: International conference on AI Foundation Models and Software Engineering - Research Papers
+  year: 2027
+  link: https://conf.researchr.org/track/forge-2027/forge-2027-research-papers
+  deadline:
+  - "2026-10-30 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: Abstract deadline on October 23, 2026.
+  tags: [CO, RPT, NIER]
+
+- name: FORGE-DB
+  description: International conference on AI Foundation Models and Software Engineering - Data and Benchmarking Track
+  year: 2027
+  link: https://conf.researchr.org/track/forge-2027/forge-2027-data-and-benchmarking-track
+  deadline:
+  - "2026-11-15 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  tags: [CO, DB]
 
 #SEAMS
 - name: SEAMS
@@ -1253,18 +1286,82 @@
   note: Abstract deadline on Nov 5, 2026.
   tags: [CO, DB]
 
+#ICPC
+- name: ICPC
+  description: International Conference on Program Comprehension - Research Track
+  year: 2027
+  link: https://conf.researchr.org/track/icpc-2027/icpc-2027-research-track
+  deadline:
+    - "2026-11-05 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: Mandatory abstract deadline 29 October, 2026.
+  tags: [CO, RPT]
+
+- name: ICPC-ERA
+  description: International Conference on Program Comprehension - Early Research Achievements Track
+  year: 2027
+  link: https://conf.researchr.org/track/icpc-2027/icpc-2027-early-research-achievements--era-
+  deadline:
+    - "2026-11-26 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: Optional abstract deadline 11 Novemeber, 2026.
+  tags: [CO, NIER]
+
+- name: ICPC-ERA
+  description: International Conference on Program Comprehension - Early Research Achievements Track
+  year: 2027
+  link: https://conf.researchr.org/track/icpc-2027/icpc-2027-early-research-achievements--era-
+  deadline:
+    - "2026-11-26 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: Optional abstract deadline 11 Novemeber, 2026.
+  tags: [CO, NIER]
+
+- name: ICPC-RENE
+  description: International Conference on Program Comprehension - Reproducibility Studies and Negative Results Track
+  year: 2027
+  link: https://conf.researchr.org/track/icpc-2027/icpc-2027-replications-and-negative-results--rene-
+  deadline:
+    - "2026-11-18 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  note: Abstract deadline 11 December, 2026.
+  tags: [CO, NIER]
+
+- name: ICPC-JF
+  description: International Conference on Program Comprehension - Journal First Track
+  year: 2027
+  link: https://conf.researchr.org/track/icpc-2027/icpc-2027-journal-first
+  deadline:
+    - "2027-01-16 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  tags: [CO, JFT]
+
 #CAIN
 
 - name: CAIN
   description: International Conference on AI Engineering - Software Engineering for AI - Research Track
-  year: 2026
-  link: https://conf.researchr.org/home/cain-2026
+  year: 2027
+  link: https://conf.researchr.org/track/cain-2027/cain-2027-call-for-papers
   deadline: 
-  - "2025-10-23 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  note: Recommended abstract deadline on October 16 2025.
+  - "2026-10-30 23:59"
+  date: April 25-26, 2027 with ICSE 2027
+  place: Dublin, Ireland
   tags: [CO, RPT]
+
+- name: CAIN-IT
+  description: International Conference on AI Engineering - Software Engineering for AI - Industry Track
+  year: 2027
+  link: https://conf.researchr.org/track/cain-2027/cain-2027-industry-track
+  deadline: 
+  - "2026-11-06 23:59"
+  date: April 25-26, 2027 with ICSE 2027
+  place: Dublin, Ireland
+  tags: [CO, IPT]
 
 #TechDebt
 
@@ -1301,12 +1398,12 @@
 #FormaliSE
 - name: FormaliSE
   description: FormaliSE - Research Track
-  year: 2026
-  link: https://2026.formalise.org/
+  year: 2027
+  link: https://conf.researchr.org/home/Formalise-2027#Call-for-Papers
   deadline: 
-  - "2025-10-23 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
+  - "2027-10-30 23:59"
+  date: April 25-26, 2027 with ICSE 2027
+  place: Dublin, Ireland
   tags: [CO, RPT]
 
 #REs
