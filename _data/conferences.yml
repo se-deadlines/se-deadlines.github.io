@@ -1,20 +1,3 @@
-- name: JSS-SADS
-  description: JSS Special Issue on Software Architecture in a Digital Society
-  year: 2027
-  link: https://www.sciencedirect.com/special-issue/331752/software-architecture-in-a-digital-society
-  deadline:
-    - "2027-01-31 23:59"
-  tags: [JO]
-
-- name: FTA
-  description: International Workshop on Firmware Testing and Analysis
-  year: 2026
-  link: https://conf.researchr.org/home/splash-issta-2026/fta-2026
-  deadline: ["2026-07-06 23:59"]
-  date: October 5, 2026
-  place: Oakland, California, United States
-  tags: [WO]
-
 # ICSEs
 - name: ICSE
   description: International Conference on Software Engineering - Research Track
@@ -967,13 +950,23 @@
 # ISSTA
 - name: ISSTA
   description: International Symposium on Software Testing and Analysis
-  year: 2026
-  link: https://conf.researchr.org/track/issta-2026/issta-2026-research-papers
+  year: 2027
+  link: https://conf.researchr.org/home/issta-2027
   deadline: 
-  - "2026-01-29 23:59"
-  date: October 3-9, 2026
-  place: Oakland, California, United States
+  - "2027-01-11 23:59"
+  date: September 7-10, 2027
+  place: Singapore
+  Note: Mandatory abstract deadline on January 8, 2027.
   tags: [CO, RPT]
+
+- name: FTA
+  description: International Workshop on Firmware Testing and Analysis
+  year: 2026
+  link: https://conf.researchr.org/home/splash-issta-2026/fta-2026
+  deadline: ["2026-07-06 23:59"]
+  date: October 5, 2026
+  place: Oakland, California, United States
+  tags: [WO]
 
 # SecDev
 - name: SecDev
@@ -1678,13 +1671,13 @@
 #EASE
 - name: EASE-RP
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Research Papers
-  year: 2026
-  link: https://conf.researchr.org/track/ease-2026/ease-2026-research-papers
+  year: 2027
+  link: https://conf.researchr.org/track/ease-2027/ease-2027-papers
   deadline:
-   - "2026-01-23 23:59"
-  date: June 9 - June 12, 2026
-  place: Glasgow, United Kingdom
-  note: Abstract deadline on January 16, 2026
+   - "2027-01-22 23:59"
+  date: June 15 - June 18, 2027
+  place: Hanoi, Vietnam
+  note: Abstract deadline on January 15, 2027
   tags: [CO, RPT]
 
 - name: EASE-SPER
@@ -1700,13 +1693,13 @@
 
 - name: EASE-IP
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Industry Papers
-  year: 2026
-  link: https://conf.researchr.org/track/ease-2026/ease-2026-industry-papers
+  year: 2027
+  link: https://conf.researchr.org/track/ease-2027/ease-2027-industry-papers#Call-for-Papers
   deadline:
-   - "2026-03-02 23:59"
-  date: June 9 - June 12, 2026
-  place: Glasgow, United Kingdom
-  note: Abstract deadline on February 23, 2026
+   - "2027-03-01 23:59"
+  date: June 15 - June 18, 2027
+  place: Hanoi, Vietnam
+  note: Abstract deadline on February 22, 2027
   tags: [CO, IPT]
 
 - name: EASE-PV
@@ -1731,12 +1724,12 @@
 
 - name: EASE-DS
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Doctoral Symposium
-  year: 2026
-  link: https://conf.researchr.org/track/ease-2026/ease-2026-doctoral-symposium
+  year: 2027
+  link: https://conf.researchr.org/track/ease-2027/ease-2027-doctoral-symposium
   deadline:
-   - "2026-03-02 23:59"
-  date: June 9 - June 12, 2026
-  place: Glasgow, United Kingdom
+   - "2027-03-08 23:59"
+  date: June 9 - June 12, 2027
+  place: Hanoi, Vietnam
   tags: [CO, DOS]
 
 - name: EASE-AID
@@ -1762,50 +1755,47 @@
 
 - name: EASE-TUT
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Tutorials
-  year: 2026
-  link: https://conf.researchr.org/track/ease-2026/ease-2026-tutorial
+  year: 2027
+  link: https://conf.researchr.org/track/ease-2027/ease-2027-tutorial
   deadline:
-   - "2026-03-02 23:59"
-  date: June 9 - June 12, 2026
-  place: Glasgow, United Kingdom
+   - "2027-03-02 23:59"
+  date: June 9 - June 12, 2027
+  place: Hanoi, Vietnam
   tags: [CO, TTBT]
 
 # IST
 
-- name: IST-GENAI
-  description: Information and Software Technology - Engineering GenAI-enabled Software Systems
+- name: IST-GSE
+  description: Information and Software Technology - Green Software Evolution
   year: 2026
-  link: https://www.sciencedirect.com/special-issue/322047/engineering-genai-enabled-software-systems
+  link: https://www.sciencedirect.com/special-issue/330286/green-software-evolution
   deadline: 
-  - "2025-12-31 23:59"
-  tags: [JO]
-
-
-- name: IST-SAAI
-  description: Information and Software Technology - Software Architecture for AI-Driven Systems - Challenges and Emerging Solutions
-  year: 2026
-  link: https://www.sciencedirect.com/special-issue/325890/software-architecture-for-ai-driven-systems-challenges-and-emerging-solutions
-  deadline: 
-  - "2026-01-15 23:59"
+  - "2026-08-28 23:59"
   tags: [JO]
 
 # JSS
-- name: JSS-ISA
-  description: Journal of Systems and Software - Impactful Software Architecture
+- name: JSS-SQA4AI
+  description: Journal of Systems and Software - Software Quality Assurance for Artificial Intelligence
   year: 2026
-  link: https://www.sciencedirect.com/special-issue/325939/impactful-software-architecture
-  deadline:
-  - "2026-02-28 23:59"
-  note: Deadline extended from January 31 2026.
+  link: https://www.sciencedirect.com/special-issue/332719/software-quality-assurance-for-artificial-intelligence-the-journal-of-systems-software
+  deadline: 
+  - "2026-08-31 23:59"
   tags: [JO]
 
-- name: JSS-AR
-  description: Journal of Systems and Software - Agile Reloaded, The Red Pill or the Blue Pill?
+- name: JSS-SAiaDS
+  description: Journal of Systems and Software - Software Architecture in a Digital Society
   year: 2026
-  link: https://www.sciencedirect.com/special-issue/324072/agile-reloaded-the-red-pill-or-the-blue-pill
-  deadline:
-  - "2026-01-15 23:59"
-  note: Deadline extended from December 15 2025.
+  link: https://www.sciencedirect.com/special-issue/331752/software-architecture-in-a-digital-society
+  deadline: 
+  - "2027-01-31 23:59"
+  tags: [JO]
+
+- name: JSS-AI-PRSS
+  description: Journal of Systems and Software - AI Techniques for Performance, Reliability, and Sustainability of Modern Software Systems
+  year: 2026
+  link: https://www.sciencedirect.com/special-issue/329342/special-issue-on-ai-techniques-for-performance-reliability-and-sustainability-of-modern-software-systems
+  deadline: 
+  - "2027-09-30 23:59"
   tags: [JO]
 
 
