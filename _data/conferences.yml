@@ -117,6 +117,16 @@
   place: Dublin, Ireland
   tags: [CO, CHT]
 
+- name: ChainSEC
+  description: Workshop on Software Supply Chain Security
+  year: 2027
+  link: https://chain-sec.github.io/#cfp
+  deadline: 
+  - "2026-11-27 23:59"
+  date: April 25 - May 1, 2027
+  place: Dublin, Ireland
+  tags: [WO]
+
 - name: SMeW
   description: Student Mentoring Workshop
   year: 2027
@@ -644,12 +654,22 @@
 
 - name: LLMSC
   description: International Workshop on Large Language Model Supply Chain Analysis
-  year: 2026
+  year: 2027
   link: https://llmsc.github.io/
   deadline: 
-  - "2026-02-12 23:59"
-  date: July 5 - 9, 2026 co-located with FSE
-  place: Montreal, Canada
+  - "2026-11-27 23:59"
+  date: April 25 - May 1, 2027
+  place: Dublin, Ireland
+  tags: [WO]
+
+- name: SE4ALL
+  description: International Workshop on Software Engineering and AI for All
+  year: 2027
+  link: https://conf.researchr.org/home/icse-2027/se4all-2027#Call-for-Papers
+  deadline: 
+  - "2026-11-13 23:59"
+  date: April 25 - May 1, 2027
+  place: Dublin, Ireland
   tags: [WO]
 
 - name: SEEAIT
@@ -1025,7 +1045,7 @@
   year: 2027
   link: https://conf.researchr.org/track/saner-2027/saner-2027-papers
   deadline: 
-  - "2025-09-25 23:59"
+  - "2026-09-25 23:59"
   date: March 9 - 12, 2027
   place: Richmond, Virginia
   note: Mandatory abstract deadline on September 21 2026.
@@ -1191,12 +1211,12 @@
 
 - name: MSR-IT
   description: Mining Software Repositories - Industry Track
-  year: 2026
-  link: https://2026.msrconf.org/track/msr-2026-industry-track
-  deadline: 
-    - "2025-11-23 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
+  year: 2027
+  link: https://2027.msrconf.org/track/msr-2027-industry-track
+  deadline:
+    - "2026-12-18 23:59"
+  date: April 26-27, 2027 with ICSE 2027
+  place: Dublin, Ireland
   tags: [CO, IPT]
 
 
@@ -1387,13 +1407,13 @@
 
 - name: REFSQ-RT
   description: Requirements Engineering Foundation for Software Quality - Research Track
-  year: 2026
-  link: https://2026.refsq.org/track/refsq-2026-research-papers
+  year: 2027
+  link: https://2027.refsq.org/track/refsq-2027-research-papers
   deadline:
-   - "2025-10-17 23:59"
+   - "2026-11-12 23:59"
   date: August 17 - August 21, 2026
-  place: Montreal, Canada
-  note: Optional abstract deadline on October 10th and paper deadline on October 17th 
+  place: Basel, Switzerland
+  note: Optional abstract deadline on November 5th.
   tags: [CO, RPT]
 
 #XPs
@@ -1449,17 +1469,6 @@
   date: October 12 - October 16, 2026
   place: Munich, Germany
   tags: [CO, RPT]
-
-- name: ASE-JFT
-  description: International Conference on Automated Software Engineering (ASE) - Journal-First Track
-  year: 2025
-  link: https://conf.researchr.org/track/ase-2025/ase-2025-journal-first-track
-  deadline: 
-  - "2025-09-01 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
-  tags: [CO, JFT]
-
 
 - name: ASE-IS
   description: International Conference on Automated Software Engineering (ASE) - Industry Showcase
@@ -1526,37 +1535,6 @@
   note: Abstract deadline on July 17, 2026.
   tags: [WO]
 
-- name: ISE
-  description: International Workshop on Intelligent Software Engineering
-  year: 2025
-  link: https://sites.google.com/view/ise2025/home
-  deadline: 
-  - "2025-08-26 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
-  tags: [WO]
-
-- name: A-Mobile
-  description: International Workshop on Advances in Mobile App Analysis
-  year: 2025
-  link: https://a-mobile.github.io/
-  deadline: 
-  - "2025-08-26 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
-  tags: [WO]
-
-- name: ASE Code Completion Challenge
-  description: Workshop and Challenge on Code Completion Context Collection Optimization
-  year: 2025
-  link: https://jetbrains-research.github.io/ase2025-context-collection-workshop/
-  deadline: 
-  - "2025-08-26 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
-  note: Competition public phase ends July 25, 2025
-  tags: [WO]
-
 - name: ASYDE
   description: International Workshop on Automated and verifiable Software sYstem DEvelopment
   year: 2026
@@ -1566,26 +1544,6 @@
   date: October 12 - October 16, 2026 with ASE 2026
   place: Munich, Germany
   note: Abstract deadline on July 10, 2026.
-  tags: [WO]
-
-- name: AgenticSE
-  description: Autonomous Agents in Software Engineering
-  year: 2025
-  link: https://conf.researchr.org/home/ase-2025
-  deadline:
-  - "2025-08-26 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
-  tags: [WO]
-
-- name: Ex-ASE
-  description: International Workshop on Explainable Automated Software Engineering Exploring Theory, Adaptation, Needs, Challenges, and Ethics
-  year: 2025
-  link: https://exase.github.io/2025/
-  deadline: 
-  - "2025-08-26 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
   tags: [WO]
 
 - name: AISM
@@ -1598,15 +1556,6 @@
   place: Munich, Germany
   tags: [WO]
 
-- name: VARSE
-  description: International Workshop on Virtual and Augmented Reality Software Engineering
-  year: 2025
-  link: https://conf.researchr.org/home/ase-2025
-  deadline:
-  - "2025-08-26 23:59"
-  date: November 16 - November 20, 2025
-  place: Seoul, South Korea
-  tags: [WO]
 
 - name: RASE
   description: Reliable and trustworthy Automated Software Engineering
@@ -1764,12 +1713,12 @@
 
 
 # TOSEM
-- name: TOSEM-AGENTICAI
-  description: ACM Transactions on Software Engineering and Methodology - AGENTIC AI in SOFTWARE
-  year: 2025
-  link: https://dl.acm.org/pb-assets/static_journal_pages/tosem/pdf/ACM-TOSEM-CfP-Agentic-AI-Software.pdf
+- name: TOSEM-HUMANAI
+  description: ACM Transactions on Software Engineering and Methodology - Human AI Collaboration in Software Engineering
+  year: 2026
+  link: https://dl.acm.org/journal/tosem/human-ai-collaboration-software-engineering
   deadline:
-  - "2025-11-01 23:59"
+  - "2026-09-01 23:59"
   tags: [JO]
 
 # TSE
@@ -1777,29 +1726,39 @@
 
 # ESE
 
-- name: ESE-ASELLM
-  description: Empirical Software Engineering - Advancing Software Engineering with Large Language Models
+- name: ESEM-AGENTIC-SE
+  description: Empirical Software Engineering - Agentic Software Engineering The Rise of AI Teammates
   year: 2026
-  link: https://link.springer.com/collections/jfdgedjehb
+  link: https://emsejournal.github.io/special_issues/2026_SI_Agentic_SE.html
   deadline:
-  - "2025-11-28 23:59"
+  - "2026-09-28 23:59"
   tags: [JO]
 
-- name: ESE-AIFMSE
-  description: Empirical Software Engineering - AI Foundation Models and Software Engineering
+- name: ESEM-SECUTE
+  description: Empirical Software Engineering - Software Security Testing
   year: 2026
-  link: https://link.springer.com/collections/dbdgadcbdg
+  link: https://emsejournal.github.io/special_issues/2026_SI_SECUTE.html
   deadline:
-  - "2025-12-28 23:59"
+  - "2026-11-30 23:59"
   tags: [JO]
 
-- name: ESE-QSE
-  description: Empirical Software Engineering - Empirical Studies for Quantum Software Engineering
-  year: 2026
-  link: https://link.springer.com/collections/ajidabcjaa
+- name: ESEM-PROMPT-SE
+  description: Empirical Software Engineering - Empirical Studies on Prompts and other Instruction Artifacts in Software Engineering
+  year: 2027
+  link: https://emsejournal.github.io/special_issues/2026_SI_PROMPT_SE.html
   deadline:
-  - "2026-03-01 23:59"
+  - "2027-03-01 23:59"
   tags: [JO]
+
+- name: ESEM-HumanAISE-SEEAIT
+  description: Empirical Software Engineering - Human-Centered AI Transformation for Software Engineering
+  year: 2027
+  link: https://emsejournal.github.io/special_issues/2026_SI_HumanAISE_SEEAIT.html
+  deadline:
+  - "2027-01-01 23:59"
+  tags: [JO]
+
+# -------
 
 - name: Data4SoftSec
   description: The 1st Workshop on Datasets for Software Security
