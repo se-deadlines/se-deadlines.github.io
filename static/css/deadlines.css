@@ -91,3 +91,22 @@ a:hover, a:focus {
 footer {
   margin-bottom: 2em;
 }
+
+.acceptance-stats {
+  margin-top: 8px;
+}
+
+.acceptance-stats summary {
+  cursor: pointer;
+}
+
+.acceptance-stats-table {
+  margin-top: 8px;
+  width: 100%;
+  font-size: 0.9em;
+}
+
+.acceptance-stats-table th,
+.acceptance-stats-table td {
+  padding: 2px 6px;
+}

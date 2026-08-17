@@ -77,6 +77,42 @@
                   {{ conf.description }}<br>
                   {{conf.date | replace: '-', '–'}} {% if conf.place %}// <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>{% endif %}<br>
                   {% if conf.note %} <div> <b>Note: </b>{{conf.note}} </div> {% endif %}
+                  {% assign conf_stats = site.data.conference_statistics[conf.name] %}
+                  <details class="acceptance-stats">
+                    <summary>Acceptance statistics</summary>
+                    {% if conf_stats and conf_stats.size > 0 %}
+                    <table class="acceptance-stats-table">
+                      <thead>
+                        <tr>
+                          <th>Year</th>
+                          <th>Submissions</th>
+                          <th>Accepted</th>
+                          <th>Rate</th>
+                          <th>Source</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {% for stat in conf_stats %}
+                        <tr>
+                          <td>{{ stat.year }}</td>
+                          <td>{{ stat.submissions | default: "—" }}</td>
+                          <td>{{ stat.accepted | default: "—" }}</td>
+                          <td>{{ stat.acceptance_rate | default: "—" }}</td>
+                          <td>
+                            {% if stat.source %}
+                            <a href="{{ stat.source }}" target="_blank" rel="noopener noreferrer">Link</a>
+                            {% else %}
+                            —
+                            {% endif %}
+                          </td>
+                        </tr>
+                        {% endfor %}
+                      </tbody>
+                    </table>
+                    {% else %}
+                    <div>Statistics not available yet.</div>
+                    {% endif %}
+                  </details>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6">
