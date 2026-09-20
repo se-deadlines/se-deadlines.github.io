@@ -132,36 +132,6 @@
   place: Dublin, Ireland
   tags: [WO]
 
-- name: AI-SQE
-  description: 'The 1st International Workshop on AI for Software Quality Evaluation: Judgement, Metrics, BenchMarks, and Beyond'
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/ai-sqe-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
-- name: BoatSE
-  description: International Workshop on Bots and Agents in Software Engineering
-  year: 2026
-  link: https://botse.github.io/
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
-- name: DeepTest
-  description: International Workshop on Deep Learning for Testing and Testing for Deep Learning
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/deeptest-2026#Call-for-Papers
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
 - name: Designing
   description: 4th International Workshop on Designing Software
   year: 2027
@@ -172,16 +142,6 @@
   place: Dublin, Ireland
   tags: [WO]
 
-- name: DSE
-  description: International Workshop on Dark Software Engineering
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/dse-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
 - name: EnCyCriS
   description: 8th International Workshop on Engineering and Cybersecurity of Critical Systems
   year: 2027
@@ -190,46 +150,6 @@
   - "2026-11-13 23:59"
   date: April 25, 2027 with ICSE 2027
   place: Dublin, Ireland
-  tags: [WO]
-
-- name: FinanSE
-  description: International Workshop on AI Solutions for Software Engineering Challenges in Financial Firms
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/finanse-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
-- name: FTW
-  description: International Flaky Tests Workshop
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/ftw-2026
-  deadline: 
-  - "2025-11-10 23:59"
-  date: April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro
-  tags: [WO]
-
-- name: GAS
-  description: International Workshop on Games and Software Engineering
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/gas-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
-- name: GI
-  description: International Workshop on Genetic Improvement
-  year: 2026
-  link: https://geneticimprovementofsoftware.com/events/icse2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
   tags: [WO]
 
 - name: GREENS
@@ -263,26 +183,6 @@
   place: Dublin, Ireland
   tags: [WO]
 
-- name: JAWs
-  description: Journal Ahead Workshop
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/jaws-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
-- name: LArc
-  description: International Workshop on Low-Code Development and Software Architecture
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/larc-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
 - name: LLM4Code
   description: International Workshop on Large Language Models for Code
   year: 2027
@@ -304,16 +204,6 @@
   place: Dublin, Ireland
   tags: [WO]
 
-- name: MSSiS
-  description: International Workshop on Modeling and Simulation of Software-Intensive Systems
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/mssis-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
 - name: NLBSE
   description: 6th Natural Language-based Software Engineering Workshop
   year: 2027
@@ -325,16 +215,6 @@
   note: Tool competition submissions due November 27, 2026.
   tags: [WO]
 
-- name: NSE
-  description: International Workshop on Neuro-Symbolic Software Engineering
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/nse-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
 - name: Q-SE
   description: 8th International Workshop on Quantum Software Engineering
   year: 2027
@@ -343,16 +223,6 @@
   - "2026-11-27 23:59"
   date: April 25, 2027 with ICSE 2027
   place: Dublin, Ireland
-  tags: [WO]
-
-- name: RAIE
-  description: International Workshop on Responsible AI Engineering
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/raie-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
   tags: [WO]
 
 - name: RAISE
@@ -374,26 +244,6 @@
   - "2026-11-13 23:59"
   date: April 27, 2027 with ICSE 2027
   place: Dublin, Ireland
-  tags: [WO]
-
-- name: SBFT
-  description: International Workshop on Search-Based and Fuzz Testing
-  year: 2026
-  link: https://search-based-and-fuzz-testing.github.io/sbft26/
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
-- name: SEiGS
-  description: Symposium on Software Engineering in the Global South (SEiGS)
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/seigs-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
   tags: [WO]
 
 - name: SERP4IoT
@@ -426,26 +276,6 @@
   place: Dublin, Ireland
   tags: [WO]
 
-- name: STATIC
-  description: International Workshop on Advancing Static Analysis for Researchers and Industry Practitioners in Software Engineering
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/static-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
-- name: SVM
-  description: International Workshop on Software Vulnerability Management
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/svm-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
-  tags: [WO]
-
 - name: SWEBOK
   description: IEEE SWEBOK Summit 2027
   year: 2027
@@ -464,16 +294,6 @@
   - "2026-11-13 23:59"
   date: April 25, 2027 with ICSE 2027
   place: Dublin, Ireland
-  tags: [WO]
-
-- name: WETSEB
-  description: Workshop on Emerging Trends in Software Engineering for Blockchain
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026/wetseb-2026
-  deadline:
-  - "2025-10-20 23:59"
-  date: April 12 - April 18, 2026 with ICSE 2026
-  place: Rio de Janeiro, Brazil
   tags: [WO]
 
 - name: WSESE
@@ -1576,22 +1396,20 @@
 
 - name: XP-RPT
   description: International Conference on Agile Software Development - Research Track
-  year: 2026
-  link: https://conf.researchr.org/track/xp-2026/xp-2026-papers
-  deadline:
-   - "2025-11-28 23:59"
-  date: April 8 - April 11, 2026
-  place: São Paulo, Brazil
+  year: 2027
+  link: https://conf.researchr.org/track/xp-2027/xp-2027-research-papers
+  deadline: ["TBA"]
+  date: May 31 - June 3, 2027
+  place: Tampere, Finland
   tags: [CO, RPT, CORE-B]
 
 - name: XP-IP
   description: International Conference on Agile Software Development - Industry & Practice
-  year: 2026
-  link: https://conf.researchr.org/track/xp-2026/xp-2026-industry---practice
-  deadline:
-   - "2025-11-28 23:59"
-  date: April 8 - April 11, 2026
-  place: São Paulo, Brazil
+  year: 2027
+  link: https://conf.researchr.org/track/xp-2027/xp-2027-industry---practice
+  deadline: ["TBA"]
+  date: May 31 - June 3, 2027
+  place: Tampere, Finland
   tags: [CO, IPT]
 
 #SEAA and DSD
