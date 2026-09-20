@@ -1,0 +1,82 @@
+# CORE rankings backing the "CORE Ranking" filter tags (CORE-ASTAR, CORE-A,
+# CORE-B, CORE-C, CORE-UNCLASSIFIED) in conferences.yml.
+#
+# Verified directly against https://portal.core.edu.au/conf-ranks/ (source
+# year ICORE2026) on 2026-09-19, by searching each conference's full official
+# name/acronym and reading the rank off its result. `core_id` is the numeric
+# id in that page's URL, e.g. https://portal.core.edu.au/conf-ranks/1209/ for
+# ICSE, so a listing can be re-checked later.
+#
+# Only a conference's main research track carries the CORE-* tag in
+# conferences.yml; industry/NIER/doctoral-symposium/etc. sub-tracks are not
+# separately ranked by CORE, so they carry no rank tag at all.
+
+A*:
+  - name: ICSE
+    core_id: 1209
+  - name: FSE
+    core_id: 52
+  - name: ASE
+    core_id: 279
+
+A:
+  - name: ISSTA
+    core_id: 1412
+  - name: ICSME
+    core_id: 676
+  - name: MSR
+    core_id: 711
+  - name: RE
+    core_id: 690
+  - name: ESEM
+    core_id: 1376
+  - name: ICPC
+    core_id: 1181
+  - name: SANER
+    core_id: 2280
+  - name: EASE
+    core_id: 1022
+  - name: ISSRE
+    core_id: 1411
+  - name: SEAMS
+    core_id: 2281
+
+B:
+  - name: REFSQ
+    core_id: 1521
+  - name: CAIN
+    core_id: 2337
+  - name: CHASE
+    core_id: 2348
+  - name: TechDebt
+    core_id: 2288
+  - name: XP
+    core_id: 355
+  - name: SEAA
+    core_id: 464
+  - name: SSBSE
+    core_id: 2283
+
+C:
+  - name: APSEC
+    core_id: 186
+  - name: CSEE&T
+    core_id: 380
+  - name: AST
+    core_id: 281
+  - name: DSD
+    core_id: 2334
+
+Unclassified:
+  - name: PROMISE
+    note: Not found in the CORE database.
+  - name: AIware
+    note: Not found in the CORE database.
+  - name: SCORED
+    note: Not found in the CORE database.
+  - name: SecDev
+    note: Not found in the CORE database.
+  - name: FormaliSE
+    note: Not found in the CORE database.
+  - name: FORGE
+    note: Not found in the CORE database.
