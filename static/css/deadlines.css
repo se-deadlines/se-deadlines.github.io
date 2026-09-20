@@ -103,24 +103,6 @@ footer {
   margin-bottom: 2em;
 }
 
-#acceptance-stats-details {
-  margin-bottom: 1em;
-}
-
-.acceptance-stats-toggle {
-  cursor: pointer;
-  list-style: none;
-  font-weight: bold;
-}
-
-.acceptance-stats-toggle::-webkit-details-marker {
-  display: none;
-}
-
-.acceptance-stats-toggle::marker {
-  content: "";
-}
-
 .acceptance-stats-charts {
   margin-top: 1em;
 }
