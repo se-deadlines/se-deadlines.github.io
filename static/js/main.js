@@ -102,64 +102,162 @@ $(function() {
   });
   $('.conf-container').append(confs);
 
-  // Set checkboxes
+  // Build filter groups (venue type, track, others, CORE rank, ...) from types.yml,
+  // keyed by their `type` field, each holding the {name, tag} pairs in that group.
   var conf_type_data = {{ site.data.types | jsonify }};
-  var all_tags = [];
-  var toggle_status = {};
-  for (var i = 0; i < conf_type_data.length; i++) {
-    all_tags[i] = conf_type_data[i]['tag'];
-    toggle_status[all_tags[i]] = false;
-  }
-  var tags = store.get('{{ site.domain }}');
-  if (tags === undefined) {
-    tags = all_tags;
-  }
-  for (var i = 0; i < tags.length; i++) {
-    $('#' + tags[i] + '-checkbox').prop('checked', false);
-    toggle_status[tags[i]] = false;
-  }
-  store.set('{{ site.domain }}', tags);
+  var filterGroups = {};
+  conf_type_data.forEach(function(item) {
+    if (!filterGroups[item.type]) {
+      filterGroups[item.type] = [];
+    }
+    filterGroups[item.type].push({ name: item.name, tag: item.tag });
+  });
 
-  function update_conf_list() {
-    confs.each(function(i, conf) {
-      var conf = $(conf);
-      var show = false;
-      var set_tags = [];
-      for (var i = 0; i < all_tags.length; i++) {
-        // if tag has been selected by user, check if the conference has it
-        if(toggle_status[all_tags[i]]) {
-          set_tags.push(conf.hasClass(all_tags[i]));
-        }
+  var all_tags = Object.keys(filterGroups)
+    .reduce(function(acc, key) { return acc.concat(filterGroups[key]); }, [])
+    .map(function(item) { return item.tag; });
+
+  var nameToTag = {};
+  var tagToName = {};
+  Object.keys(filterGroups).forEach(function(group) {
+    filterGroups[group].forEach(function(item) {
+      nameToTag[item.name] = item.tag;
+      tagToName[item.tag] = item.name;
+    });
+  });
+
+  function addUnique(array, value) {
+    if (array.indexOf(value) === -1) array.push(value);
+  }
+
+  function getQueryParamParts(name) {
+    function decodeQueryComponent(value) {
+      value = value.replace(/\+/g, ' ');
+      try { return decodeURIComponent(value); }
+      catch (e) { return value; }
+    }
+
+    var pairs = window.location.search.slice(1).split('&');
+
+    for (var i = 0; i < pairs.length; i++) {
+      var pair = pairs[i].split('=');
+      var key = pair.shift();
+
+      if (decodeQueryComponent(key) === name) {
+        return pair.join('=').split(',').map(decodeQueryComponent);
       }
-      let empty_or_all_true = arr => arr.every(Boolean);
-      // show a conference if it has all user-selected tags
-      // if no tag is set (= array is empty), show all entries
-      show = empty_or_all_true(set_tags);
-      if (show) {
-        conf.show();
-      } else {
-        conf.hide()
-      }
+    }
+
+    return null;
+  }
+
+  function readSelectionFromUrl() {
+    var found = false;
+    var selected = {};
+    Object.keys(filterGroups).forEach(function(group) {
+      selected[group] = [];
+      var names = getQueryParamParts(group);
+      if (names === null) return;
+
+      found = true;
+
+      names.forEach(function(name) {
+        var tag = nameToTag[name];
+        if (tag) addUnique(selected[group], tag);
+      });
+    });
+    return found ? selected : null;
+  }
+
+  // Only the URL's query params preselect filters; with none, every checkbox
+  // starts unchecked (selecting nothing shows every entry).
+  var initialSelection = readSelectionFromUrl();
+  var initialTags = [];
+  if (initialSelection) {
+    Object.keys(initialSelection).forEach(function(group) {
+      initialSelection[group].forEach(function(tag) {
+        initialTags.push(tag);
+      });
     });
   }
-  update_conf_list();
+
+  for (var i = 0; i < all_tags.length; i++) {
+    var tag = all_tags[i];
+    $('#' + tag + '-checkbox').prop('checked', initialTags.indexOf(tag) !== -1);
+  }
+
+  function getSelectedFiltersFromDOM() {
+    var selected = {};
+    Object.keys(filterGroups).forEach(function(group) { selected[group] = []; });
+
+    $('.filter-checkbox:checked').each(function() {
+      var tag = $(this).attr('id').replace('-checkbox', '');
+      var filterGroup = $(this).data('filter-group');
+
+      if (filterGroup && selected[filterGroup]) {
+        addUnique(selected[filterGroup], tag);
+      }
+    });
+
+    return selected;
+  }
+
+  function updateUrlFromSelection() {
+    var selected = getSelectedFiltersFromDOM();
+    var queryParts = [];
+
+    Object.keys(filterGroups).forEach(function(group) {
+      var encodedNames = [];
+
+      selected[group].forEach(function(tag) {
+        var name = tagToName[tag];
+        if (name) encodedNames.push(encodeURIComponent(name));
+      });
+
+      if (encodedNames.length > 0) {
+        queryParts.push(encodeURIComponent(group) + '=' + encodedNames.join(','));
+      }
+    });
+
+    var query = queryParts.join('&');
+    var newUrl = window.location.pathname + (query ? '?' + query : '') + window.location.hash;
+
+    if (window.history && window.history.replaceState) {
+      window.history.replaceState(null, '', newUrl);
+    }
+  }
+
+  function update_conf_list() {
+    var selectedFilters = getSelectedFiltersFromDOM();
+
+    confs.each(function(i, conf) {
+      var conf = $(conf);
+      var show = true;
+
+      Object.keys(selectedFilters).forEach(function(group) {
+        if (!show) return;
+        if (selectedFilters[group].length === 0) return;
+
+        var hasTag = false;
+        selectedFilters[group].forEach(function(tag) {
+          if (conf.hasClass(tag)) hasTag = true;
+        });
+
+        // Require at least one selected tag per group (OR within a group),
+        // but every group with a selection must be satisfied (AND across groups).
+        if (!hasTag) show = false;
+      });
+
+      conf.toggle(show);
+    });
+  }
 
   // Event handler on checkbox change
-  $('form :checkbox').change(function(e) {
-    var checked = $(this).is(':checked');
-    var tag = $(this).prop('id').slice(0, -9);
-    toggle_status[tag] = checked;
-
-    if (checked == true) {
-      if (tags.indexOf(tag) < 0)
-        tags.push(tag);
-    }
-    else {
-      var idx = tags.indexOf(tag);
-      if (idx >= 0)
-        tags.splice(idx, 1);
-    }
-    store.set('{{ site.domain }}', tags);
+  $('.filter-checkbox').on('change', function() {
     update_conf_list();
+    updateUrlFromSelection();
   });
+
+  update_conf_list();
+  updateUrlFromSelection();
 });

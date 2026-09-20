@@ -88,6 +88,43 @@ a:hover, a:focus {
   margin-right: 1em;
 }
 
+.tagtitle {
+  display: block;
+  margin-bottom: 0.5em;
+}
+
+.mytitle {
+  display: inline-block;
+  min-width: 9em;
+  margin-right: 0.5em;
+}
+
 footer {
+  margin-bottom: 2em;
+}
+
+#acceptance-stats-details {
+  margin-bottom: 1em;
+}
+
+.acceptance-stats-toggle {
+  cursor: pointer;
+  list-style: none;
+  font-weight: bold;
+}
+
+.acceptance-stats-toggle::-webkit-details-marker {
+  display: none;
+}
+
+.acceptance-stats-toggle::marker {
+  content: "";
+}
+
+.acceptance-stats-charts {
+  margin-top: 1em;
+}
+
+.acceptance-stats-charts canvas {
   margin-bottom: 2em;
 }

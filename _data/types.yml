@@ -80,3 +80,20 @@
 - name: Posters track
   tag: POS
   type: others
+
+# CORE Ranking
+- name: A*
+  tag: CORE-ASTAR
+  type: rank
+- name: A
+  tag: CORE-A
+  type: rank
+- name: B
+  tag: CORE-B
+  type: rank
+- name: C
+  tag: CORE-C
+  type: rank
+- name: Unclassified
+  tag: CORE-UNCLASSIFIED
+  type: rank

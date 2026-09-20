@@ -94,6 +94,25 @@ The *tag* field indicates the type of deadline entry you are adding. Users can f
 
 - **Venue type:** The type of venues the deadline indicates. For example, is it a conference (`CO`), a workshop (`WO`), or a special edition of a journal (`JO`).
 - **Tracks:** Software engineering conferences generally have multiple tracks with different goals, scopes, requirements, and deadlines. For example, ICSE 2025 has a [Research][5] and a [New Ideas and Emerging Results][6] tracks. The former is a research paper track (`RPT`), while the latter is a new idea and emerging results track (`NIER`). We are currently testing our tag groups for tracks and welcome any suggestions! :) The current tag set is defined in [`types.yml`][4].
+- **CORE Ranking:** Only a conference's *main research track* carries a `CORE-ASTAR`/`CORE-A`/`CORE-B`/`CORE-C`/`CORE-UNCLASSIFIED` tag (sub-tracks like industry, NIER, or doctoral symposium aren't separately ranked by CORE, so they carry no rank tag). The rank for each conference, where it came from, and which ones CORE simply doesn't list are recorded in [`_data/core_rankings.yml`](_data/core_rankings.yml), verified against the [CORE Conference Portal](https://portal.core.edu.au/conf-ranks/).
+
+### Conference acceptance statistics
+
+You can add conference statistics in [`_data/conference_statistics.yml`](_data/conference_statistics.yml).
+The key is the conference `name`, and each value is a list of yearly records:
+
+```yaml
+ICSE:
+  - year: 2025
+    submissions: 123
+    accepted: 30
+    acceptance_rate: "24.4%"
+    source: https://example.com/source
+```
+
+An expandable "Show acceptance statistics" section on the home page charts these year-by-year for ICSE, FSE, ASE and ISSTA, as a stacked accepted/rejected bar chart plus an acceptance-rate line per venue.
+
+Historical multi-year data for ICSE, FSE, ASE and ISSTA was seeded from [emeryberger/csconferences](https://github.com/emeryberger/csconferences).
 
 ## Run locally
 

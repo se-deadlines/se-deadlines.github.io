@@ -1,0 +1,506 @@
+ICSE:
+  - year: 1995
+    submissions: 155
+    accepted: 28
+    acceptance_rate: "18.1%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 1996
+    submissions: 213
+    accepted: 52
+    acceptance_rate: "24.4%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 1997
+    submissions: 219
+    accepted: 50
+    acceptance_rate: "22.8%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 1998
+    submissions: 209
+    accepted: 41
+    acceptance_rate: "19.6%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 1999
+    submissions: 269
+    accepted: 50
+    acceptance_rate: "18.6%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2000
+    submissions: 335
+    accepted: 49
+    acceptance_rate: "14.6%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2001
+    submissions: 268
+    accepted: 47
+    acceptance_rate: "17.5%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2002
+    submissions: 303
+    accepted: 48
+    acceptance_rate: "15.8%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2003
+    submissions: 324
+    accepted: 42
+    acceptance_rate: "13.0%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2004
+    submissions: 436
+    accepted: 58
+    acceptance_rate: "13.3%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2005
+    submissions: 313
+    accepted: 44
+    acceptance_rate: "14.1%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2006
+    submissions: 395
+    accepted: 36
+    acceptance_rate: "9.1%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2007
+    submissions: 334
+    accepted: 49
+    acceptance_rate: "14.7%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2008
+    submissions: 371
+    accepted: 56
+    acceptance_rate: "15.1%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2009
+    submissions: 405
+    accepted: 50
+    acceptance_rate: "12.3%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2010
+    submissions: 380
+    accepted: 52
+    acceptance_rate: "13.7%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2011
+    submissions: 441
+    accepted: 62
+    acceptance_rate: "14.1%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2012
+    submissions: 408
+    accepted: 87
+    acceptance_rate: "21.3%"
+    source: https://dl.acm.org/action/showFmPdf?doi=10.5555%2F2337223
+    note: "technical track only"
+  - year: 2013
+    submissions: 461
+    accepted: 85
+    acceptance_rate: "18.4%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2014
+    submissions: 496
+    accepted: 99
+    acceptance_rate: "20.0%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2015
+    submissions: 452
+    accepted: 84
+    acceptance_rate: "18.6%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2016
+    submissions: 530
+    accepted: 101
+    acceptance_rate: "19.1%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2017
+    submissions: 415
+    accepted: 68
+    acceptance_rate: "16.4%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2018
+    submissions: 502
+    accepted: 105
+    acceptance_rate: "20.9%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2019
+    submissions: 529
+    accepted: 109
+    acceptance_rate: "20.6%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2020
+    submissions: 617
+    accepted: 129
+    acceptance_rate: "20.9%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2021
+    submissions: 615
+    accepted: 138
+    acceptance_rate: "22.4%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2022
+    submissions: 691
+    accepted: 197
+    acceptance_rate: "28.5%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2023
+    submissions: 780
+    accepted: 207
+    acceptance_rate: "26.5%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2024
+    submissions: 1049
+    accepted: 234
+    acceptance_rate: "22.3%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2025
+    submissions: 1150
+    accepted: 245
+    acceptance_rate: "21.3%"
+    source: https://conf.researchr.org/home/icse-2025
+    note: "front matter: 508 cycle 1 + 642 cycle 2"
+  - year: 2026
+    submissions: 1469
+    accepted: 321
+    acceptance_rate: "21.9%"
+    source: https://conf.researchr.org/home/icse-2026
+    note: "321 of 1469 (two cycles combined)"
+
+FSE:
+  - year: 2011
+    submissions: 203
+    accepted: 34
+    acceptance_rate: "16.7%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2012
+    submissions: 201
+    accepted: 35
+    acceptance_rate: "17.4%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2013
+    submissions: 251
+    accepted: 51
+    acceptance_rate: "20.3%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2014
+    submissions: 273
+    accepted: 61
+    acceptance_rate: "22.3%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2015
+    submissions: 291
+    accepted: 74
+    acceptance_rate: "25.4%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2016
+    submissions: 266
+    accepted: 74
+    acceptance_rate: "27.8%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2017
+    submissions: 295
+    accepted: 72
+    acceptance_rate: "24.4%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2018
+    submissions: 295
+    accepted: 61
+    acceptance_rate: "20.7%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2019
+    submissions: 303
+    accepted: 74
+    acceptance_rate: "24.4%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2020
+    submissions: 360
+    accepted: 101
+    acceptance_rate: "28.1%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2021
+    submissions: 407
+    accepted: 97
+    acceptance_rate: "23.8%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2022
+    submissions: 449
+    accepted: 99
+    acceptance_rate: "22.0%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2023
+    submissions: 465
+    accepted: 127
+    acceptance_rate: "27.3%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2024
+    submissions: 474
+    accepted: 121
+    acceptance_rate: "25.5%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2025
+    submissions: 515
+    accepted: 135
+    acceptance_rate: "26.2%"
+    source: https://github.com/emeryberger/csconferences
+
+ASE:
+  - year: 1997
+    submissions: 108
+    accepted: 32
+    acceptance_rate: "29.6%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 1998
+    submissions: 150
+    accepted: 24
+    acceptance_rate: "16.0%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 1999
+    submissions: 123
+    accepted: 25
+    acceptance_rate: "20.3%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2000
+    submissions: 100
+    accepted: 23
+    acceptance_rate: "23.0%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2001
+    submissions: 164
+    accepted: 32
+    acceptance_rate: "19.5%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2002
+    submissions: 94
+    accepted: 19
+    acceptance_rate: "20.2%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2004
+    submissions: 183
+    accepted: 25
+    acceptance_rate: "13.7%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2005
+    submissions: 291
+    accepted: 28
+    acceptance_rate: "9.6%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2006
+    submissions: 121
+    accepted: 22
+    acceptance_rate: "18.2%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2007
+    submissions: 312
+    accepted: 37
+    acceptance_rate: "11.9%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2008
+    submissions: 280
+    accepted: 34
+    acceptance_rate: "12.1%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2009
+    submissions: 220
+    accepted: 38
+    acceptance_rate: "17.3%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2010
+    submissions: 190
+    accepted: 33
+    acceptance_rate: "17.4%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2011
+    submissions: 252
+    accepted: 37
+    acceptance_rate: "14.7%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2012
+    submissions: 138
+    accepted: 21
+    acceptance_rate: "15.2%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2013
+    submissions: 254
+    accepted: 43
+    acceptance_rate: "16.9%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2014
+    submissions: 276
+    accepted: 50
+    acceptance_rate: "18.1%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2015
+    submissions: 289
+    accepted: 55
+    acceptance_rate: "19.0%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2016
+    submissions: 284
+    accepted: 53
+    acceptance_rate: "18.7%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2017
+    submissions: 367
+    accepted: 88
+    acceptance_rate: "24.0%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2018
+    submissions: 386
+    accepted: 64
+    acceptance_rate: "16.6%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2019
+    submissions: 448
+    accepted: 91
+    acceptance_rate: "20.3%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2020
+    submissions: 395
+    accepted: 88
+    acceptance_rate: "22.3%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2021
+    submissions: 440
+    accepted: 120
+    acceptance_rate: "27.3%"
+    source: personal communication with Lingming Zhang
+  - year: 2022
+    submissions: 531
+    accepted: 116
+    acceptance_rate: "21.8%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2023
+    submissions: 633
+    accepted: 134
+    acceptance_rate: "21.2%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2024
+    submissions: 587
+    accepted: 155
+    acceptance_rate: "26.4%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2025
+    submissions: 1181
+    accepted: 246
+    acceptance_rate: "20.8%"
+    source: personal communication with Lingming Zhang
+
+ISSTA:
+  - year: 1994
+    submissions: 69
+    accepted: 16
+    acceptance_rate: "23.2%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 1998
+    submissions: 47
+    accepted: 16
+    acceptance_rate: "34.0%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2002
+    submissions: 97
+    accepted: 26
+    acceptance_rate: "26.8%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2004
+    submissions: 93
+    accepted: 26
+    acceptance_rate: "28.0%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2006
+    submissions: 84
+    accepted: 22
+    acceptance_rate: "26.2%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2007
+    submissions: 101
+    accepted: 22
+    acceptance_rate: "21.8%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2008
+    submissions: 101
+    accepted: 26
+    acceptance_rate: "25.7%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2009
+    submissions: 93
+    accepted: 25
+    acceptance_rate: "26.9%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2010
+    submissions: 100
+    accepted: 23
+    acceptance_rate: "23.0%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2011
+    submissions: 121
+    accepted: 35
+    acceptance_rate: "28.9%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2012
+    submissions: 108
+    accepted: 31
+    acceptance_rate: "28.7%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2013
+    submissions: 124
+    accepted: 32
+    acceptance_rate: "25.8%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2014
+    submissions: 128
+    accepted: 36
+    acceptance_rate: "28.1%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2015
+    submissions: 119
+    accepted: 33
+    acceptance_rate: "27.7%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2016
+    submissions: 147
+    accepted: 37
+    acceptance_rate: "25.2%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2017
+    submissions: 118
+    accepted: 31
+    acceptance_rate: "26.3%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2018
+    submissions: 132
+    accepted: 31
+    acceptance_rate: "23.5%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2019
+    submissions: 142
+    accepted: 32
+    acceptance_rate: "22.5%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2020
+    submissions: 162
+    accepted: 43
+    acceptance_rate: "26.5%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2021
+    submissions: 233
+    accepted: 51
+    acceptance_rate: "21.9%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2022
+    submissions: 250
+    accepted: 61
+    acceptance_rate: "24.4%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2023
+    submissions: 406
+    accepted: 117
+    acceptance_rate: "28.8%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2024
+    submissions: 694
+    accepted: 143
+    acceptance_rate: "20.6%"
+    source: https://github.com/emeryberger/csconferences
+  - year: 2025
+    submissions: 550
+    accepted: 107
+    acceptance_rate: "19.5%"
+    source: https://conf.researchr.org/home/issta-2025
+    note: "107 of 550; single research track"
