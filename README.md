@@ -93,9 +93,7 @@ The *note* field can be used to indicate additional information about a deadline
 The *tag* field indicates the type of deadline entry you are adding. Users can filter deadlines based on tags. There are two main categories:
 
 - **Venue type:** The type of venues the deadline indicates. For example, is it a conference (`CO`), a workshop (`WO`), or a special edition of a journal (`JO`).
-- **Tracks:** Software engineering conferences generally have multiple tracks with different goals, scopes, requirements, and deadlines. For example, ICSE 2025 has a [Research][5] and a [New Ideas and Emerging Results][6] tracks. The former is a research paper track (`RPT`), while the latter is a new idea and emerging results track (`NIER`). We are currently testing our tag groups for tracks and welcome any suggestions! :)
-
-A complete tag list is available in [`types.yml`][4].
+- **Tracks:** Software engineering conferences generally have multiple tracks with different goals, scopes, requirements, and deadlines. For example, ICSE 2025 has a [Research][5] and a [New Ideas and Emerging Results][6] tracks. The former is a research paper track (`RPT`), while the latter is a new idea and emerging results track (`NIER`). We are currently testing our tag groups for tracks and welcome any suggestions! :) The current tag set is defined in [`types.yml`][4].
 
 ### Conference acceptance statistics
 
