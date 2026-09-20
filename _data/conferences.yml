@@ -25,7 +25,7 @@
   date: April 25 - May 1, 2027
   place: Dublin, Ireland
   note: Mandatory abstract deadline on June 23 2026.
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-ASTAR]
    
 - name: ICSE-SEIP
   description: International Conference on Software Engineering - Software Engineering in Practice
@@ -500,7 +500,7 @@
   - "2026-10-02 23:59"
   date: July 12 - 16, 2027
   place: Shenzhen, China
-  tags: [CO,RPT]
+  tags: [CO, RPT, CORE-ASTAR]
 
 - name: FSE-IP
   description: International Conference on the Foundations of Software Engineering - Industry Papers
@@ -622,7 +622,7 @@
   place: Montreal, Canada
   tags: [WO]
 
-- name: SE4ES
+- name: SE4ADS
   description: International Workshop on Software Engineering for Autonomous Driving Systems
   year: 2026
   link: https://sora.ics.uci.edu/se4ads_26/
@@ -652,7 +652,7 @@
   place: Montreal, Canada
   tags: [WO]
 
-- name: LLMSC
+- name: SEEAIT
   description: International Workshop on Software Engineering for the GenAI Transformation
   year: 2026
   link: https://seeait.github.io/
@@ -733,7 +733,7 @@
   date: TBD, co-hosted with FSE 2026
   place: Montreal, Canada
   note: Abstract deadline on Jan 9, 2026.
-  tags: [CO, RPT, IPT, NIER, JFT]
+  tags: [CO, RPT, IPT, NIER, JFT, CORE-UNCLASSIFIED]
 
 #AIware
 - name: AIware
@@ -744,7 +744,7 @@
   - "2026-02-12 23:59"
   date: July 6-7, co-hosted with FSE 2026
   place: Montreal, Canada
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-UNCLASSIFIED]
 
 
 - name: AIware-AXVT
@@ -779,7 +779,7 @@
   date: October 4 - October 9, 2026
   place: München, Germany
   note: Mandatory abstract deadline on May 11, 2026.
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-A]
 
 - name: ESEM-ERVR
   description: International Symposium on Empirical Software Engineering and Measurement - Emerging Results, Vision and Reflection Papers
@@ -844,7 +844,7 @@
   date: July 20-22, 2026
   place: Florence, Italy
   note: Mandatory abstract deadline on February 2026.
-  tags: [CO, EDT]
+  tags: [CO, EDT, CORE-UNCLASSIFIED]
 
 #SCORED
 - name: SCORED
@@ -855,7 +855,7 @@
   - "2026-07-19 23:59"
   date: October 6, 2026 with OpenSSF Community Day 2026
   place: Prague, Czechia
-  tags: [CO, RPT, IPT]
+  tags: [CO, RPT, IPT, CORE-UNCLASSIFIED]
 
 # ICSMEs
 - name: ICSME
@@ -867,7 +867,7 @@
   date: September 14 - September 18, 2026
   place: Benevento, Italy
   note: Abstract deadline on February 27, 2026.
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-A]
 
 - name: ICSME-NIER
   description: International Conference on Software Maintenance and Evolution - New Ideas and Emerging Results
@@ -880,7 +880,7 @@
   note: Abstract deadline on May 11, 2026.
   tags: [CO, NIER]
 
-- name: ICSME-NIER
+- name: ICSME-RENE
   description: International Conference on Software Maintenance and Evolution - Replication and Negative Results
   year: 2026
   link: https://conf.researchr.org/track/icsme-2026/icsme-2026-replication-and-negative-results
@@ -947,13 +947,13 @@
 # ISSTA
 - name: ISSTA
   description: International Symposium on Software Testing and Analysis
-  year: 2025
+  year: 2026
   link: https://conf.researchr.org/track/issta-2026/issta-2026-research-papers
-  deadline: 
+  deadline:
   - "2026-01-29 23:59"
-  date: October 3-9, 2026
+  date: October 4-9, 2026
   place: Oakland, California, United States
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-ASTAR]
 
 # SecDev
 - name: SecDev
@@ -964,7 +964,7 @@
   - "2026-01-29 23:59"
   date: TBD, co-hosted with FSE 2026
   place: Montreal, Canada
-  tags: [CO, RPT, SPT, TTBT, EXPT]
+  tags: [CO, RPT, SPT, TTBT, EXPT, CORE-UNCLASSIFIED]
 
 # ISSRE
 - name: ISSRE
@@ -976,7 +976,7 @@
   date: October 20 - 23, 2026
   place: Limassol, Cyprus
   note: Mandatory abstract deadline on April 10 2026.
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-UNCLASSIFIED]
 
 - name: ISSRE-IT
   description: International Symposium on Software Reliability Engineering - Industry Track
@@ -1024,12 +1024,12 @@
   description: International Conference on Software Analysis, Evolution and Reengineering - Research Track
   year: 2027
   link: https://conf.researchr.org/track/saner-2027/saner-2027-papers
-  deadline: 
-  - "2025-09-25 23:59"
+  deadline:
+  - "2026-09-25 23:59"
   date: March 9 - 12, 2027
   place: Richmond, Virginia
   note: Mandatory abstract deadline on September 21 2026.
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-B]
 
 - name: SANER-IT
   description: International Conference on Software Analysis, Evolution and Reengineering - Industrial Track
@@ -1119,7 +1119,7 @@
   date: April 26-27, 2027 with ICSE 2027
   place: Dublin, Ireland
   note: 'Theme: Testing in the Age of AI: Governance, Compliance, and Oversight.'
-  tags: [CO, RPT, SPT, IPT]
+  tags: [CO, RPT, SPT, IPT, CORE-UNCLASSIFIED]
 
 
 #CHASEs
@@ -1132,7 +1132,7 @@
   date: April 26-27, 2027 with ICSE 2027
   place: Dublin, Ireland
   note: Abstract deadline on October 16 2026.
-  tags: [CO, RPT, SPT]
+  tags: [CO, RPT, SPT, CORE-UNCLASSIFIED]
 
 #SEAMS
 - name: SEAMS
@@ -1143,7 +1143,7 @@
     - "2026-10-21 23:59"
   date: April 26-27, 2027 with ICSE 2027
   place: Dublin, Ireland
-  tags: [CO, RPT, SPT, IPT]
+  tags: [CO, RPT, SPT, IPT, CORE-UNCLASSIFIED]
 
 
 - name: SEAMS-AT
@@ -1177,7 +1177,7 @@
   date: April 26-27, 2027 with ICSE 2027
   place: Dublin, Ireland
   note: Mandatory abstract deadline 20 October 2026.
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-A]
 
 - name: MSR-TT
   description: Mining Software Repositories - Tutorial Track
@@ -1244,7 +1244,7 @@
   date: April 12 - April 18, 2026 with ICSE 2026
   place: Rio de Janeiro, Brazil
   note: Recommended abstract deadline on October 16 2025.
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-UNCLASSIFIED]
 
 #TechDebt
 
@@ -1257,7 +1257,7 @@
   date: April 25-26, 2027 with ICSE 2027
   place: Dublin, Ireland
   note: Mandatory abstract deadline on October 19 2026.
-  tags: [CO, RPT, SPT, EXPT]
+  tags: [CO, RPT, SPT, EXPT, CORE-UNCLASSIFIED]
 
 - name: TechDebt-JF
   description: International Conference on Technical - Journal First Track
@@ -1287,7 +1287,7 @@
   - "2025-10-23 23:59"
   date: April 12 - April 18, 2026 with ICSE 2026
   place: Rio de Janeiro, Brazil
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-UNCLASSIFIED]
 
 #REs
 - name: RE-RP
@@ -1299,7 +1299,7 @@
   date: August 17 - August 21, 2026
   place: Montreal, Canada
   note: Abstract deadline February 16, 2026.
-  tags: [CO,RPT]
+  tags: [CO, RPT, CORE-A]
 
 - name: RE-ART
   description: Requirements Engineering - Artifacts
@@ -1394,7 +1394,7 @@
   date: August 17 - August 21, 2026
   place: Montreal, Canada
   note: Optional abstract deadline on October 10th and paper deadline on October 17th 
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-UNCLASSIFIED]
 
 #XPs
 
@@ -1406,7 +1406,7 @@
    - "2025-11-28 23:59"
   date: April 8 - April 11, 2026
   place: São Paulo, Brazil
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-UNCLASSIFIED]
 
 - name: XP-IP
   description: International Conference on Agile Software Development - Industry & Practice
@@ -1427,7 +1427,7 @@
   - "2026-04-15 23:59"
   date: September 2 - September 5, 2026
   place: Krakow, Poland
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-UNCLASSIFIED]
 
 - name: DSD-RPT
   description: Euromicro Conference Series on Digital System Design (DSD) - Research Paper Track
@@ -1437,7 +1437,7 @@
   - "2026-04-15 23:59"
   date: September 2 - September 5, 2026
   place: Krakow, Poland
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-UNCLASSIFIED]
 
 # ASE 2025
 - name: ASE
@@ -1448,7 +1448,7 @@
   - "2026-03-26 23:59"
   date: October 12 - October 16, 2026
   place: Munich, Germany
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-ASTAR]
 
 - name: ASE-JFT
   description: International Conference on Automated Software Engineering (ASE) - Journal-First Track
@@ -1627,7 +1627,7 @@
   - "2026-02-20 23:59"
   date: July 5 - July 6, co-hosted with FSE 2026
   place: Montreal, Canada
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-UNCLASSIFIED]
 
 #EASE
 - name: EASE-RP
@@ -1639,7 +1639,7 @@
   date: June 9 - June 12, 2026
   place: Glasgow, United Kingdom
   note: Abstract deadline on January 16, 2026
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-UNCLASSIFIED]
 
 - name: EASE-SPER
   description: The International Conference on Evaluation and Assessment in Software Engineering (EASE) - Short Papers and Emerging Results
@@ -1753,7 +1753,7 @@
   note: Deadline extended from January 31 2026.
   tags: [JO]
 
-- name: JSS-ISA
+- name: JSS-AGILE
   description: Journal of Systems and Software - Agile Reloaded- The Red Pill or the Blue Pill?
   year: 2026
   link: https://www.sciencedirect.com/special-issue/324072/agile-reloaded-the-red-pill-or-the-blue-pill
@@ -1829,5 +1829,5 @@
   date: December 7-10, 2026
   place: Bali, Indonesia
   note: Abstract deadline on July 6, 2026.
-  tags: [CO, RPT]
+  tags: [CO, RPT, CORE-C]
   

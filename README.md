@@ -111,7 +111,9 @@ ICSE:
     source: https://example.com/source
 ```
 
-These records are shown in a collapsible "Acceptance statistics" section for each conference card.
+An expandable "Show acceptance statistics" section on the home page charts these year-by-year for ICSE, FSE, ASE and ISSTA, as a stacked accepted/rejected bar chart plus an acceptance-rate line per venue.
+
+Historical multi-year data for ICSE, FSE, ASE and ISSTA was seeded from [emeryberger/csconferences](https://github.com/emeryberger/csconferences).
 
 ## Run locally
 
