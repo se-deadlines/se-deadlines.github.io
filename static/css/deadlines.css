@@ -35,7 +35,8 @@ h1 {
 h2 {
   font-size: 1em;
   line-height: 1.25;
-  font-weight: 600;
+  font-weight: 700;
+  font-family: Georgia, 'Times New Roman', serif;
 }
 
 .page-header {
