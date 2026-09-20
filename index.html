@@ -12,7 +12,6 @@
     <link rel="stylesheet" type="text/css" href="{{ "/static/css/deadlines.css" | prepend:site.baseurl }}" media="screen,projection">
     <link rel="shortcut icon" href="{{ "/static/img/favicon.png" | prepend:site.baseurl }}">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" integrity="sha512-CQBWl4fJHWbryGE+Pc7UAxWMUMNMWzWxF4SQo9CgkJIN1kx6djDQZjh3Y8SZ1d+6I+1zze6Z7kHXO7q3UyZAWw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   </head>
   <body>
     <div class="top-strip"></div>
@@ -35,27 +34,7 @@
                     <a href="{{site.baseurl}}/ical/deadlines-all.ical">all</a>;
                 </p>
             </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12">
-            <details id="acceptance-stats-details">
-              <summary class="btn btn-primary acceptance-stats-toggle">Show acceptance statistics (ICSE, FSE, ASE, ISSTA)</summary>
-              <div class="row acceptance-stats-charts">
-                <div class="col-xs-12 col-sm-6">
-                  <canvas id="chart-ICSE" height="220"></canvas>
-                </div>
-                <div class="col-xs-12 col-sm-6">
-                  <canvas id="chart-FSE" height="220"></canvas>
-                </div>
-                <div class="col-xs-12 col-sm-6">
-                  <canvas id="chart-ASE" height="220"></canvas>
-                </div>
-                <div class="col-xs-12 col-sm-6">
-                  <canvas id="chart-ISSTA" height="220"></canvas>
-                </div>
-              </div>
-            </details>
+            <p><a href="{{ site.baseurl }}/stats.html">View acceptance statistics &raquo;</a></p>
           </div>
         </div>
         <hr>
@@ -69,9 +48,9 @@
                 <div class="form-group">
                   <span class="mytitle">
                     {% case group.name %}
-                    {% when 'venue' %}📄 <b>Publication Type</b>
-                    {% when 'rank' %}⭐ <b><a href="https://www.core.edu.au/conference-portal" target="_blank" rel="noopener noreferrer">CORE</a> Ranking</b>
-                    {% when 'track' %}🏷️ <b>Track</b>
+                    {% when 'venue' %}<b>Publication Type</b>
+                    {% when 'rank' %}<b><a href="https://www.core.edu.au/conference-portal" target="_blank" rel="noopener noreferrer">CORE</a> Ranking</b>
+                    {% when 'track' %}<b>Track</b>
                     {% else %}<b>{{ group.name | capitalize }}</b>
                     {% endcase %}
                   </span>
@@ -142,140 +121,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.34/moment-timezone-with-data-10-year-range.min.js" integrity="sha512-d11VXfxQMn+sZuIgzHITdIuInr4cVRGV/uLiSI643WH/J+p4gPFYSHXRMR2v+w4Rn2TSyzJjsZjc0M7+Qd+UXw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="{{ site.baseurl}}/static/js/main.js" async></script>
-    <script>
-      $(function() {
-        var statsData = {{ site.data.conference_statistics | jsonify }} || {};
-        var mainConferences = ["ICSE", "FSE", "ASE", "ISSTA"];
-        var chartsBuilt = false;
-
-        function parseRate(entry) {
-          if (entry.acceptance_rate) {
-            var parsed = parseFloat(String(entry.acceptance_rate).replace('%', ''));
-            if (!isNaN(parsed)) {
-              return parsed;
-            }
-          }
-          if (entry.submissions && entry.accepted != null) {
-            return (entry.accepted / entry.submissions) * 100;
-          }
-          return null;
-        }
-
-        function buildChart(confName) {
-          var canvas = document.getElementById('chart-' + confName);
-          if (!canvas) {
-            return;
-          }
-          var entries = (statsData[confName] || []).slice().sort(function(a, b) {
-            return a.year - b.year;
-          });
-          if (entries.length === 0) {
-            return;
-          }
-
-          var years = entries.map(function(e) { return e.year; });
-          var accepted = entries.map(function(e) { return e.accepted != null ? e.accepted : null; });
-          var rejected = entries.map(function(e) {
-            return (e.submissions != null && e.accepted != null) ? (e.submissions - e.accepted) : null;
-          });
-          var rates = entries.map(parseRate);
-
-          new Chart(canvas.getContext('2d'), {
-            data: {
-              labels: years,
-              datasets: [
-                {
-                  type: 'bar',
-                  label: 'Accepted',
-                  data: accepted,
-                  backgroundColor: '#2c7c2c',
-                  stack: 'papers',
-                  yAxisID: 'y',
-                  order: 2
-                },
-                {
-                  type: 'bar',
-                  label: 'Rejected',
-                  data: rejected,
-                  backgroundColor: '#d62728',
-                  stack: 'papers',
-                  yAxisID: 'y',
-                  order: 2
-                },
-                {
-                  type: 'line',
-                  label: 'Acceptance Rate',
-                  data: rates,
-                  borderColor: '#1f4fd6',
-                  backgroundColor: '#1f4fd6',
-                  pointBackgroundColor: '#1f4fd6',
-                  borderWidth: 2.1,
-                  yAxisID: 'y1',
-                  tension: 0.2,
-                  spanGaps: true,
-                  order: 1
-                }
-              ]
-            },
-            options: {
-              responsive: true,
-              interaction: { mode: 'index', intersect: false },
-              scales: {
-                x: {},
-                y: {
-                  position: 'left',
-                  beginAtZero: true,
-                  title: { display: true, text: 'Accepted / Rejected' }
-                },
-                y1: {
-                  position: 'right',
-                  beginAtZero: true,
-                  max: 100,
-                  grid: { drawOnChartArea: false },
-                  title: { display: true, text: 'Acceptance Rate (%)', color: '#1f4fd6' },
-                  ticks: {
-                    color: '#1f4fd6',
-                    callback: function(value) { return value + '%'; }
-                  }
-                }
-              },
-              plugins: {
-                title: {
-                  display: true,
-                  text: confName,
-                  font: { size: 16 }
-                },
-                legend: {
-                  labels: {
-                    filter: function(item) {
-                      return item.text !== 'Acceptance Rate';
-                    }
-                  }
-                },
-                tooltip: {
-                  callbacks: {
-                    label: function(context) {
-                      if (context.dataset.label === 'Acceptance Rate') {
-                        var value = context.parsed.y;
-                        return value === null ? 'Acceptance rate: —' : 'Acceptance rate: ' + value.toFixed(1) + '%';
-                      }
-                      return context.dataset.label + ': ' + context.parsed.y;
-                    }
-                  }
-                }
-              }
-            }
-          });
-        }
-
-        document.getElementById('acceptance-stats-details').addEventListener('toggle', function(e) {
-          if (e.target.open && !chartsBuilt) {
-            chartsBuilt = true;
-            mainConferences.forEach(buildChart);
-          }
-        });
-      });
-    </script>
     {% if site.ga_id %}
     {% include analytics.html %}
     {% endif %}
