@@ -1398,7 +1398,8 @@
   description: International Conference on Agile Software Development - Research Track
   year: 2027
   link: https://conf.researchr.org/track/xp-2027/xp-2027-research-papers
-  deadline: ["TBA"]
+  deadline: 
+    - "TBA"
   date: May 31 - June 3, 2027
   place: Tampere, Finland
   tags: [CO, RPT, CORE-B]
@@ -1407,7 +1408,8 @@
   description: International Conference on Agile Software Development - Industry & Practice
   year: 2027
   link: https://conf.researchr.org/track/xp-2027/xp-2027-industry---practice
-  deadline: ["TBA"]
+  deadline: 
+    - "TBA"
   date: May 31 - June 3, 2027
   place: Tampere, Finland
   tags: [CO, IPT]
