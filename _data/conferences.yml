@@ -1,3 +1,28 @@
+# EASEs
+- name: EASE
+  description: International Conference on Evaluation and Assessment in Software Engineering - Research Papers
+  year: 2027
+  link: https://conf.researchr.org/track/ease-2027/ease-2027-papers
+  deadline:
+    - "2027-01-22 23:59"
+  date: June 15 - 18, 2027
+  place: Hanoi, Vietnam
+  note: Abstract submission deadline on January 15, 2027. All deadlines are AoE.
+  tags: [CO, RPT]
+
+- name: EASE-PV
+  description: International Conference on Evaluation and Assessment in Software Engineering - Posters and Vision
+  year: 2027
+  link: https://conf.researchr.org/track/ease-2027/ease-2027-posters-and-vision
+  deadline:
+    - "2027-03-16 23:59"
+  date: June 15 - 18, 2027
+  place: Hanoi, Vietnam
+  note: Submission deadline for both posters and vision papers. All deadlines are AoE.
+  tags: [CO, POS, NIER]
+  
+
+
 # ICSEs
 - name: ICSE
   description: International Conference on Software Engineering - Research Track
