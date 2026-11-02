@@ -115,9 +115,8 @@ footer {
   color: #1f4fd6;
 }
 
-.conf:not(.past) .timer {
-  color: #d62728;
-}
+.conf.soon .timer { color: #d62728; }
+.conf.later .timer { color: #2c7c2c; }
 
 .conf {
   border-left: 4px solid transparent;
@@ -125,9 +124,9 @@ footer {
 }
 
 .conf.CO { border-left-color: #1f4fd6; }
-.conf.JO { border-left-color: #2c7c2c; }
+.conf.JO { border-left-color: #6f42c1; }
 .conf.WO { border-left-color: #b35c00; }
 
 label:has(#CO-checkbox) { color: #1f4fd6; }
-label:has(#JO-checkbox) { color: #2c7c2c; }
+label:has(#JO-checkbox) { color: #6f42c1; }
 label:has(#WO-checkbox) { color: #b35c00; }
