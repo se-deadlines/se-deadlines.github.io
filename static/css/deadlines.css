@@ -15,7 +15,7 @@ body *::selection {
 }
 
 .top-strip {
-  background-color: #333;
+  background: linear-gradient(90deg, #1f4fd6, #e74c3c);
   height: 0.25em;
   width: 100%;
 }
@@ -110,3 +110,24 @@ footer {
 .acceptance-stats-charts canvas {
   margin-bottom: 2em;
 }
+
+.page-header a, footer a, .conf h2 a {
+  color: #1f4fd6;
+}
+
+.conf:not(.past) .timer {
+  color: #d62728;
+}
+
+.conf {
+  border-left: 4px solid transparent;
+  padding-left: 12px;
+}
+
+.conf.CO { border-left-color: #1f4fd6; }
+.conf.JO { border-left-color: #2c7c2c; }
+.conf.WO { border-left-color: #b35c00; }
+
+label:has(#CO-checkbox) { color: #1f4fd6; }
+label:has(#JO-checkbox) { color: #2c7c2c; }
+label:has(#WO-checkbox) { color: #b35c00; }
