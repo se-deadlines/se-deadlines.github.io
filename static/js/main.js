@@ -67,6 +67,8 @@ $(function() {
       // check if date has passed, add 'past' class to it
       if (moment() - confDeadline > 0) {
         $('#{{ conf_id }}').addClass('past');
+      } else {
+        $('#{{ conf_id }}').addClass(confDeadline.diff(moment(), 'days') >= 7 ? 'later' : 'soon');
       }
       $('#{{ conf_id }} .deadline-time').html(confDeadline.local().format('D MMM YYYY, h:mm:ss a'));
       deadlineByConf["{{ conf_id }}"] = confDeadline;
