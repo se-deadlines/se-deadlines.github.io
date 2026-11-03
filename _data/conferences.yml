@@ -1193,10 +1193,10 @@
   year: 2027
   link: https://2027.msrconf.org/track/msr-2027-mining-challenge
   deadline:
-    - "2026-08-03 23:59"
+    - "2026-12-23 23:59"
   date: April 26-27, 2027 with ICSE 2027
   place: Dublin, Ireland
-  note: Proposal submission deadline; there are multiple deadlines for different stages (check the call for papers).
+  note: Abstract deadline on Dec 18, 2026.
   tags: [CO, CHT]
 
 - name: MSR-DT
